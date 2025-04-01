@@ -24,12 +24,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T16:53:03.137+01:00"
+			"dateAndTimeString" : "2025-03-25T17:28:55.83+01:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Teil 3: Maschinensprache und Prozessor"
+		"title" : "Maschinensprache und Prozessor"
 	},
 	"uid" : {
 		"__type" : "uuid",

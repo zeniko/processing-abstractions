@@ -13,7 +13,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T16:52:47.124+01:00"
+			"dateAndTimeString" : "2025-04-01T23:54:38.764+02:00"
 		}
 	},
 	"editEmail" : {
@@ -24,15 +24,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T17:28:52.533+01:00"
+			"dateAndTimeString" : "2025-04-01T23:54:38.764+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Funktionen eines Compilers"
+		"title" : "AST übersetzen"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "f8849b71-8eed-0d00-a1db-2bec06b75ce9"
+		"uuid" : "1044f751-20ee-0d00-a653-170703b7525c"
 	}
 }

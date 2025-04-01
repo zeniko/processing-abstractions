@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:18:25.527+02:00"
+						"dateAndTimeString" : "2025-04-02T00:00:53.138+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:20:43.443+02:00"
+						"dateAndTimeString" : "2025-04-02T00:01:53.738+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "gM99cY7tDQCh2a3LBrdc6Q=="
+					"uidString" : "UO/ITiDuDQClM5iRA7dSXA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Die Programmiersprache [Processing](https://processing.org/) wurde ab 2001 am Massachusetts Institute of Technology (MIT) entwickelt, um Schüler:innen und Studierenden zu erlauben, mit wenigen Befehlen ansprechende und interaktive Grafiken (und Spiele) zu entwickeln."
+				"string" : "Wenn Sie Text lesen, konzentrieren Sie sich in der Regel auf dessen Inhalt und nicht auf die Form der einzelnen Buchstaben. Derselbe Text in verschiedenen Schriften bleibt in der Regel derselbe Text."
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:38:20.286+02:00"
+						"dateAndTimeString" : "2025-04-02T00:01:53.913+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,54 +66,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:39:55.265+02:00"
+						"dateAndTimeString" : "2025-04-02T00:02:08.296+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "wExJFSDuDQCKMVAiA7dSXA=="
+					"uidString" : "qCTnayDuDQCvKacHA7dSXA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Im Laufe seiner Geschichte hat Processing zweimal eine zum Zeitpunkt populäre Programmiersprache als Basis erhalten: Zuerst [Java](https://de.wikipedia.org/wiki/Java_(Programmiersprache)) und später das heute noch oft verwendete [Python](https://de.wikipedia.org/wiki/Python_(Programmiersprache))."
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:39:55.479+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:40:09.031+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "2G9RHSDuDQCQwaDUA7dSXA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Ein einfaches Programm sieht beispielsweise folgendermassen aus:"
+				"string" : "Ebenso kann ein Programm auf für den Computer unterschiedliche Weise geschrieben werden:"
 			},
 			{
 				"__type" : "pythonSnippet",
@@ -129,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:40:12.471+02:00"
+						"dateAndTimeString" : "2025-04-02T00:02:12.808+02:00"
 					}
 				},
 				"editEmail" : {
@@ -140,14 +103,122 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:40:20.794+02:00"
+						"dateAndTimeString" : "2025-04-02T00:02:20.267+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "8LJUHiDuDQCSZmi8A7dSXA=="
+					"uidString" : "WHEHbSDuDQCw27qCA7dSXA=="
 				},
-				"code" : "size(200, 200)\r# Variable für Farbe und Durchmesser\rx = 200\rwhile x > 0:\r\t# Zeichne konzentrische Kreise in ändernder Farbe\r\tfill(200 - x, 128, x)\r\tellipse(100, 100, x, x)\r\tx = x - 20"
+				"code" : "size(200, 200)\rrect(50, 50, 100, 100)"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-02T00:02:31.832+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-02T00:02:45.771+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "2LkpbiDuDQCxn8qlA7dSXA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "produziert genau dasselbe Quadrat wie auch"
+			},
+			{
+				"__type" : "pythonSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-02T00:02:24.663+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-02T00:03:41.183+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "2Fm8bSDuDQCxmZVVA7dSXA=="
+				},
+				"code" : "size ( 200 , 200 )\rrect (\r\t50 ,\r\t50 ,\r\t100, \r\t100\r)"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-02T00:04:00.003+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-02T00:04:21.623+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "yDOJciDuDQC0PcbwA7dSXA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Zuerst einmal unterscheiden sich diese beiden Programme aber: Sie bestehen nicht aus denselben Bytes:"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -163,7 +234,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:40:34.44+02:00"
+						"dateAndTimeString" : "2025-04-02T00:07:16.844+02:00"
 					}
 				},
 				"editEmail" : {
@@ -174,17 +245,54 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:40:35.56+02:00"
+						"dateAndTimeString" : "2025-04-02T00:07:43.268+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "QO+jHyDuDQCSe+kLA7dSXA=="
+					"uidString" : "+KkmfyDuDQC3frfUA7dSXA=="
 				},
-				"code" : "(ProcessingSource new fromString: thisSnippet previousSibling code) program canvas render",
-				"elementHeight" : 199,
-				"codeHeight" : 43,
-				"codeVisible" : true
+				"code" : "GtInspector newOn: thisSnippet previousSibling previousSibling previousSibling previousSibling code",
+				"elementHeight" : 295,
+				"codeHeight" : 50,
+				"codeVisible" : false
+			},
+			{
+				"__type" : "elementSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-02T00:04:35.597+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-02T00:07:32.12+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "yD6KdSDuDQC2wpzNA7dSXA=="
+				},
+				"code" : "GtInspector newOn: thisSnippet previousSibling previousSibling previousSibling code",
+				"elementHeight" : 180,
+				"codeHeight" : 50,
+				"codeVisible" : false
 			},
 			{
 				"__type" : "textSnippet",
@@ -205,7 +313,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:42:58.677+02:00"
+									"dateAndTimeString" : "2025-04-02T00:10:26.483+02:00"
 								}
 							},
 							"editEmail" : {
@@ -216,17 +324,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:43:10.591+02:00"
+									"dateAndTimeString" : "2025-04-02T00:12:50.854+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "CNE8KCDuDQCVxHMwA7dSXA=="
+								"uidString" : "OFd0iiDuDQCjVDE9AJ4PfQ=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "- Ändern Sie im obigen Programm einzelne Zahlen (und klicken Sie auf den *Refresh*-Knopf). Können Sie so bestimmen, was die einzelnen Zahlen bedeuten?"
+							"string" : "- Laden Sie für den obigen Code zuerst jeweils die *Items*-Ansicht und vergleichen Sie diese. Welche Unterschiede fallen Ihnen auf?"
 						},
 						{
 							"__type" : "textSnippet",
@@ -242,7 +350,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:43:11.591+02:00"
+									"dateAndTimeString" : "2025-04-02T00:12:51.542+02:00"
 								}
 							},
 							"editEmail" : {
@@ -253,17 +361,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:44:08.641+02:00"
+									"dateAndTimeString" : "2025-04-02T00:13:06.667+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "WN4BKSDuDQCWhT1PA7dSXA=="
+								"uidString" : "CMAZkyDuDQCpRWLeAJ4PfQ=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "- Was können Sie anhand Ihrer Englisch-Kenntnisse aus dem obigen Programm herauslesen?"
+							"string" : "- Notieren Sie für jede der drei Spalten deren Bedeutung für den Computer und für Sie."
 						},
 						{
 							"__type" : "textSnippet",
@@ -279,7 +387,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:44:18.025+02:00"
+									"dateAndTimeString" : "2025-04-02T00:12:17.792+02:00"
 								}
 							},
 							"editEmail" : {
@@ -290,17 +398,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:45:15.128+02:00"
+									"dateAndTimeString" : "2025-04-02T00:13:09.331+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "KJL3LCDuDQCZVcphA7dSXA=="
+								"uidString" : "AMgWkSDuDQCn4nEpAJ4PfQ=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "- \"Diktieren\" Sie die abgebildete Figur Ihrer Nachbarin und nehmen Sie sich dabei auf. Was fällt Ihnen beim Vergleich mit dem obigen Programm auf?"
+							"string" : "- Vergleichen Sie ebenso die *Boxes*-Ansicht."
 						}
 					]
 				},
@@ -312,7 +420,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-03-25T16:50:10.811+01:00"
+						"dateAndTimeString" : "2025-04-02T00:10:13.415+02:00"
 					}
 				},
 				"editEmail" : {
@@ -323,17 +431,54 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:41:54.375+02:00"
+						"dateAndTimeString" : "2025-04-02T00:10:26.237+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "4MESZ47tDQChdoUSBrdc6Q=="
+					"uidString" : "WPCsiSDuDQCjHR0nAJ4PfQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
 				"string" : "## Aufgabe"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-02T00:13:53.867+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-02T00:14:50+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "2EdSlCDuDQCq/RFYAJ4PfQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Letztlich sollten aber beide Programme dieselbe Ausgabe erzeugen. In einem ersten Schritt müssen daher diese oberflächlichen Unterschiede wegabstrahiert werden."
 			}
 		]
 	},
@@ -345,7 +490,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T16:49:27.641+01:00"
+			"dateAndTimeString" : "2025-04-01T23:53:45.374+02:00"
 		}
 	},
 	"editEmail" : {
@@ -356,15 +501,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T17:28:49.395+01:00"
+			"dateAndTimeString" : "2025-04-01T23:53:45.374+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Programmieren mit Processing"
+		"title" : "Parser: Struktur des Programms erkennen"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "a8771267-8eed-0d00-a175-0aaf06b75ce9"
+		"uuid" : "30a1c84e-20ee-0d00-a532-586d03b7525c"
 	}
 }

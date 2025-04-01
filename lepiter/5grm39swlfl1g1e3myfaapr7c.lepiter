@@ -13,7 +13,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T16:52:47.124+01:00"
+			"dateAndTimeString" : "2025-04-01T23:54:21.867+02:00"
 		}
 	},
 	"editEmail" : {
@@ -24,15 +24,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T17:28:52.533+01:00"
+			"dateAndTimeString" : "2025-04-01T23:54:21.867+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Funktionen eines Compilers"
+		"title" : "Abstraker Syntax-Baum (AST)"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "f8849b71-8eed-0d00-a1db-2bec06b75ce9"
+		"uuid" : "f877f550-20ee-0d00-a5e0-6c6d03b7525c"
 	}
 }

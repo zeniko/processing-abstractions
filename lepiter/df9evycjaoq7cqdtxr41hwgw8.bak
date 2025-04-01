@@ -13,7 +13,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T16:52:47.124+01:00"
+			"dateAndTimeString" : "2025-03-25T17:28:28.389+01:00"
 		}
 	},
 	"editEmail" : {
@@ -24,15 +24,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T17:28:52.533+01:00"
+			"dateAndTimeString" : "2025-03-25T17:28:43.323+01:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Funktionen eines Compilers"
+		"title" : "Arbeiten mit Glamorous Toolkit"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "f8849b71-8eed-0d00-a1db-2bec06b75ce9"
+		"uuid" : "887297f2-8eed-0d00-829f-edbd080ebfe2"
 	}
 }
