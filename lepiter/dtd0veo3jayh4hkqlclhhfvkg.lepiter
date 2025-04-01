@@ -368,7 +368,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:54:19.477+02:00"
+									"dateAndTimeString" : "2025-04-02T01:10:15.49+02:00"
 								}
 							},
 							"uid" : {
@@ -378,7 +378,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Abstraker Syntax-Baum (AST)]]"
+							"string" : "[[Abstrakter Syntax-Baum (AST)]]"
 						},
 						{
 							"__type" : "textSnippet",

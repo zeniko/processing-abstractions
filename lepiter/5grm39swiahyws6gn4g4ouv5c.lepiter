@@ -208,7 +208,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-02T00:04:21.623+02:00"
+						"dateAndTimeString" : "2025-04-02T01:04:05.265+02:00"
 					}
 				},
 				"uid" : {
@@ -218,7 +218,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Zuerst einmal unterscheiden sich diese beiden Programme aber: Sie bestehen nicht aus denselben Bytes:"
+				"string" : "Zuerst einmal unterscheiden sich diese beiden Programme: Sie bestehen nicht aus denselben Bytes:"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -234,7 +234,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-02T00:07:16.844+02:00"
+						"dateAndTimeString" : "2025-04-02T00:49:23.067+02:00"
 					}
 				},
 				"editEmail" : {
@@ -245,19 +245,56 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-02T00:07:43.268+02:00"
+						"dateAndTimeString" : "2025-04-02T01:06:12.73+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "+KkmfyDuDQC3frfUA7dSXA=="
+					"uidString" : "eMi5FSHuDQCkO6d3AxtC0g=="
 				},
-				"code" : "GtInspector newOn: thisSnippet previousSibling previousSibling previousSibling previousSibling code",
-				"elementHeight" : 295,
+				"code" : "GtInspector forObject: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first code viewSelector: #gtItemsFor:",
+				"elementHeight" : 211,
 				"codeHeight" : 50,
 				"codeVisible" : false
 			},
 			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-02T01:04:21.523+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-02T01:04:29.285+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "oMzNFiHuDQCkYsB0AxtC0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Folgendes sind die Bytes des zweiten Programms:"
+			},
+			{
 				"__type" : "elementSnippet",
 				"children" : {
 					"__type" : "snippets",
@@ -271,7 +308,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-02T00:04:35.597+02:00"
+						"dateAndTimeString" : "2025-04-02T00:49:44.728+02:00"
 					}
 				},
 				"editEmail" : {
@@ -282,15 +319,15 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-02T00:07:32.12+02:00"
+						"dateAndTimeString" : "2025-04-02T01:06:04.066+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "yD6KdSDuDQC2wpzNA7dSXA=="
+					"uidString" : "wE0EFyHuDQCkZpZGAxtC0g=="
 				},
-				"code" : "GtInspector newOn: thisSnippet previousSibling previousSibling previousSibling code",
-				"elementHeight" : 180,
+				"code" : "GtInspector forObject: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) second code viewSelector: #gtItemsFor:",
+				"elementHeight" : 215,
 				"codeHeight" : 50,
 				"codeVisible" : false
 			},
@@ -324,7 +361,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-02T00:12:50.854+02:00"
+									"dateAndTimeString" : "2025-04-02T01:04:47.57+02:00"
 								}
 							},
 							"uid" : {
@@ -334,7 +371,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "- Laden Sie für den obigen Code zuerst jeweils die *Items*-Ansicht und vergleichen Sie diese. Welche Unterschiede fallen Ihnen auf?"
+							"string" : "- Welche Unterschiede fallen Ihnen zwischen den beiden Ansichten auf?"
 						},
 						{
 							"__type" : "textSnippet",
@@ -361,7 +398,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-02T00:13:06.667+02:00"
+									"dateAndTimeString" : "2025-04-02T01:05:07.797+02:00"
 								}
 							},
 							"uid" : {
@@ -371,44 +408,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "- Notieren Sie für jede der drei Spalten deren Bedeutung für den Computer und für Sie."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-02T00:12:17.792+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-02T00:13:09.331+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "AMgWkSDuDQCn4nEpAJ4PfQ=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "- Vergleichen Sie ebenso die *Boxes*-Ansicht."
+							"string" : "- Welche Informationen sind von beiden Programmen jeweils dargestellt?"
 						}
 					]
 				},
