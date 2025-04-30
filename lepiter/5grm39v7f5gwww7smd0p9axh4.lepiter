@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:17:45.899+02:00"
+						"dateAndTimeString" : "2025-04-30T17:57:49.946+02:00"
 					}
 				},
 				"uid" : {
@@ -174,17 +174,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:16:59.555+02:00"
+						"dateAndTimeString" : "2025-04-30T17:57:10.02+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "aIQeu1TwDQCTFTpUCEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource new fromString:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first code) viewSelector: #gtAbstractionsFor:",
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) viewSelector: #gtAbstractionsFor:",
 				"elementHeight" : 538,
 				"codeHeight" : 50,
-				"codeVisible" : true
+				"codeVisible" : false
 			},
 			{
 				"__type" : "textSnippet",

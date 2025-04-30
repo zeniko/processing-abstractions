@@ -140,7 +140,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:44:13.365+02:00"
+						"dateAndTimeString" : "2025-04-30T17:48:47.627+02:00"
 					}
 				},
 				"uid" : {
@@ -174,16 +174,16 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:44:38.566+02:00"
+						"dateAndTimeString" : "2025-04-30T17:48:11.013+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "QO+jHyDuDQCSe+kLA7dSXA=="
 				},
-				"code" : "(ProcessingSource new fromString: thisSnippet previousSibling code) program canvas",
-				"elementHeight" : 199,
-				"codeHeight" : 43,
+				"code" : "(ProcessingSource fromSnippet: thisSnippet previousSibling) program canvas",
+				"elementHeight" : 197,
+				"codeHeight" : 28,
 				"codeVisible" : true
 			},
 			{

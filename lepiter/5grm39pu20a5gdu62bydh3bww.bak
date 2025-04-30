@@ -364,7 +364,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:04:21.712+02:00"
+						"dateAndTimeString" : "2025-04-30T17:53:33.132+02:00"
 					}
 				},
 				"uid" : {
@@ -435,14 +435,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:05:20.407+02:00"
+						"dateAndTimeString" : "2025-04-30T17:51:50.206+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "EFRuj1TwDQC5Z1GdCEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource new fromString:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first code) program viewSelector: #gtSourceAstFor:",
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtSourceAstFor:",
 				"elementHeight" : 266,
 				"codeHeight" : 50,
 				"codeVisible" : false
@@ -509,17 +509,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:03:44.865+02:00"
+						"dateAndTimeString" : "2025-04-30T17:52:08.899+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "oNauh1TwDQC4HTT9CEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource new fromString:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first code) program viewSelector: #gtSourceCodeFor:",
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtSourceCodeFor:",
 				"elementHeight" : 194,
 				"codeHeight" : 50,
-				"codeVisible" : true
+				"codeVisible" : false
 			},
 			{
 				"__type" : "textSnippet",
@@ -620,14 +620,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:07:57.836+02:00"
+						"dateAndTimeString" : "2025-04-30T17:52:28.262+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "kNqdmlTwDQC/7sz+CEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource new fromString:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first code) program viewSelector: #gtViewIntermediaryRepresentationFor:",
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtViewIntermediaryRepresentationFor:",
 				"elementHeight" : 171,
 				"codeHeight" : 50,
 				"codeVisible" : false
@@ -694,14 +694,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:09:16.029+02:00"
+						"dateAndTimeString" : "2025-04-30T17:52:40.727+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "OECvnlTwDQCBQuzsCEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource new fromString:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first code) program viewSelector: #gtSourceBytecodeFor:",
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtSourceBytecodeFor:",
 				"elementHeight" : 215,
 				"codeHeight" : 50,
 				"codeVisible" : false

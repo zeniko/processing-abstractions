@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:39:18.72+02:00"
+						"dateAndTimeString" : "2025-04-30T17:51:08.495+02:00"
 					}
 				},
 				"uid" : {
@@ -457,6 +457,43 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-30T00:52:33.247+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-30T00:52:41.917+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "GDOeZFTwDQCSKGKRCEFArw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "# Abstrakter Syntax-Baum (AST)"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2025-04-02T00:13:53.867+02:00"
 					}
 				},
@@ -691,14 +728,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:46:17.75+02:00"
+						"dateAndTimeString" : "2025-04-30T17:49:55.977+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "cEhBSlTwDQCLUiM7CEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource new fromString: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first code) viewSelector: #gtTreeFor:",
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) viewSelector: #gtTreeFor:",
 				"elementHeight" : 211,
 				"codeHeight" : 50,
 				"codeVisible" : false
@@ -728,14 +765,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:50:23.916+02:00"
+						"dateAndTimeString" : "2025-04-30T17:50:10.087+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "wB3NXFTwDQCRzsz8CEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource new fromString: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) second code) viewSelector: #gtTreeFor:",
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) second) viewSelector: #gtTreeFor:",
 				"elementHeight" : 217,
 				"codeHeight" : 50,
 				"codeVisible" : false
