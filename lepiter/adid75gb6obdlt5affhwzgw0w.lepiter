@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:45:48.525+02:00"
+						"dateAndTimeString" : "2025-04-30T01:26:52.682+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,12 +29,12 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:45:48.525+02:00"
+						"dateAndTimeString" : "2025-04-30T01:26:52.682+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "yFlXn1LwDQC/GdhtCEFArw=="
+					"uidString" : "EK9e31TwDQCkBpuUCEFArw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
@@ -51,7 +51,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T16:53:03.137+01:00"
+			"dateAndTimeString" : "2025-04-30T01:26:52.66+02:00"
 		}
 	},
 	"editEmail" : {
@@ -62,15 +62,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T17:28:55.83+01:00"
+			"dateAndTimeString" : "2025-04-30T01:26:52.66+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Maschinensprache und Prozessor"
+		"title" : "Maschinensprache generieren"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "380f1673-8eed-0d00-a1dd-db3306b75ce9"
+		"uuid" : "20595edf-54f0-0d00-a405-2c97084140af"
 	}
 }

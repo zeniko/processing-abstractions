@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:31:46.288+02:00"
+						"dateAndTimeString" : "2025-04-29T23:43:33.242+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,44 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:47:25.219+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "gPkoACDuDQCDVlswA7dSXA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "{{gtTodo:label=Funktionsaufrufe müssen noch implementiert werden.}}"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:50:37.217+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:50:37.217+02:00"
+						"dateAndTimeString" : "2025-04-29T23:43:46.696+02:00"
 					}
 				},
 				"uid" : {
@@ -76,10 +39,10 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "Der folgende Code zeichnet ein Fraktal:"
 			},
 			{
-				"__type" : "pythonSnippet",
+				"__type" : "processingSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -92,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:50:41.417+02:00"
+						"dateAndTimeString" : "2025-04-29T22:45:22.289+02:00"
 					}
 				},
 				"editEmail" : {
@@ -103,14 +66,274 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:51:07.781+02:00"
+						"dateAndTimeString" : "2025-04-29T22:45:22.814+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "KKvRQyDuDQChbcCwA7dSXA=="
+					"uidString" : "aAXHnVLwDQC/Bh6wCEFArw=="
 				},
-				"code" : "px = 300\r\nsize(px, px * sin(radians(60)) + 2)\r\n\r\ndef sierpinski(n, x, y, side):\r\n\tth = side * sin(radians(60))\r\n\tif n == 1:\r\n\t\ttriangle(x, y + th, x + side, y + th, x + side / 2, y)\r\n\telif n > 1:\r\n\t\tside = side / 2\r\n\t\tth = th / 2\r\n\t\tsierpinski(n - 1, x + side / 2, y, side)\r\n\t\tsierpinski(n - 1, x, y + th, side)\r\n\t\tsierpinski(n - 1, x + side, y + th, side)\r\n\t\r\nbackground(255, 255, 255)\r\nfill(0, 0, 0)\r\nstroke(0, 0, 0)\r\nstrokeWeight(1)\r\n\r\nsierpinski(4, 2, 2, width - 4)"
+				"code" : "px = 300\r\nsize(px, px * sin(radians(60)) + 2)\r\n\r\ndef sierpinski(n, x, y, side):\r\n\tth = side * sin(radians(60))\r\n\tif n == 1:\r\n\t\ttriangle(x, y + th, x + side, y + th, x + side / 2, y)\r\n\telif n > 1:\r\n\t\tside = side / 2\r\n\t\tth = th / 2\r\n\t\tsierpinski(n - 1, x + side / 2, y, side)\r\n\t\tsierpinski(n - 1, x, y + th, side)\r\n\t\tsierpinski(n - 1, x + side, y + th, side)\r\n\r\nbackground(255, 255, 255)\r\nfill(0, 0, 0)\r\nstroke(0, 0, 0)\r\nstrokeWeight(1)\r\n\r\nsierpinski(4, 2, 2, width - 4)"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:44:00.213+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:54:38.258+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "CEh2b1PwDQCkn9+RCEFArw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "1. Starten Sie das obige Programm. Können Sie erklären, was hier geschieht?"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:54:40.428+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:55:41.633+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "4C+flVPwDQCnjNkdCEFArw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "2. Unten finden Sie dasselbe Programm erneut und können es schrittweise ausführen (mit den Pfeilen nach links/rechts oder unter \"With List\" mit der Liste, um Schritte zu überspringen)."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:55:41.894+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:56:04.301+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "oA1JmVPwDQCrM+VqCEFArw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "3. Passen Sie das obige Programm an, so dass es mehr Dreiecke zeichnet."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:56:05.835+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:56:51.795+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "+GS2mlPwDQCsmj2gCEFArw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "4. Passen Sie das obige Programm an, so dass es statt Dreiecken Quadrate zeichnet (das ergibt einen Sierpinski-Teppich)."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:56:53.066+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:57:07.112+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "EBWHnVPwDQCvr8XACEFArw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "* 5. Können Sie analog andere Fraktale zeichnen?"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-29T23:43:52.033+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-29T23:43:58.365+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "6Hb5blPwDQCkVCV+CEFArw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "## Aufgaben"
+			},
+			{
+				"__type" : "elementSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-29T23:44:09.824+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-29T23:52:16.997+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "AO8IcFPwDQCkqd0/CEFArw=="
+				},
+				"code" : "\rGtInspector new object: (StepperExamples new sierpinskiStepper stepTo: 1)",
+				"elementHeight" : 656,
+				"codeHeight" : 70,
+				"codeVisible" : false
 			}
 		]
 	},

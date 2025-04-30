@@ -42,7 +42,7 @@
 				"string" : "Betrachten wir noch einmal dasselbe Programm:"
 			},
 			{
-				"__type" : "pythonSnippet",
+				"__type" : "processingSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-02T01:07:26.96+02:00"
+						"dateAndTimeString" : "2025-04-30T00:51:51.971+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,12 +66,12 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-02T01:07:28.422+02:00"
+						"dateAndTimeString" : "2025-04-30T00:51:52.418+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "gK1UViHuDQCrbmZNAxtC0g=="
+					"uidString" : "uGAoYlTwDQCR6qKVCEFArw=="
 				},
 				"code" : "size(200, 200)\rrect(50, 50, 100, 100)"
 			},
@@ -216,7 +216,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-02T01:13:30.431+02:00"
+									"dateAndTimeString" : "2025-04-30T00:52:02.391+02:00"
 								}
 							},
 							"uid" : {
@@ -226,7 +226,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "- Öffnen Sie die oben dargestellte hierarchische Struktur (\"Baum\"). Wie sind die einzelnen Teile des Programms benannt?"
+							"string" : "1. Öffnen Sie die oben dargestellte hierarchische Struktur (\"Baum\"). Wie sind die einzelnen Teile des Programms benannt?"
 						},
 						{
 							"__type" : "textSnippet",
@@ -253,7 +253,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-02T01:14:31.501+02:00"
+									"dateAndTimeString" : "2025-04-30T00:52:03.914+02:00"
 								}
 							},
 							"uid" : {
@@ -263,7 +263,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "- Verändern Sie das Programm durch Hinzufügen von Leerzeichen (und aktualisieren Sie den \"Baum\"). Welche Unterschiede finden Sie so?"
+							"string" : "2. Verändern Sie das Programm durch Hinzufügen von Leerzeichen (und aktualisieren Sie den \"Baum\"). Welche Unterschiede finden Sie so?"
 						},
 						{
 							"__type" : "textSnippet",
@@ -290,7 +290,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-02T01:16:00.002+02:00"
+									"dateAndTimeString" : "2025-04-30T00:52:05.37+02:00"
 								}
 							},
 							"uid" : {
@@ -300,7 +300,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "- Was versteht ein Computer wohl unter einem \"Token\"?"
+							"string" : "3. Was versteht ein Computer wohl unter einem \"Token\"?"
 						}
 					]
 				},
