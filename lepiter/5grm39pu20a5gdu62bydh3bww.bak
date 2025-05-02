@@ -257,7 +257,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:00:49.281+02:00"
+									"dateAndTimeString" : "2025-05-02T12:20:13.405+02:00"
 								}
 							},
 							"uid" : {
@@ -267,7 +267,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Je komplizierter eine Ausgangssprache ist, desto eher hilft es, diese zuerst in eine bloss etwas einfachere Sprache zu übersetzen. Zudem bestehen für viele grundlegendere Sprachen bereits Compiler, welche wiederverwendet werden können. In unserem Beispiel wird Processing nach SmallTalk übersetzt, da Glamorous Toolkit bereits einen SmallTalk-Compiler enthält."
+							"string" : "Je komplizierter eine Ausgangssprache ist, desto eher hilft es, diese zuerst in eine bloss etwas einfachere Sprache zu übersetzen. Zudem bestehen für viele grundlegendere Sprachen bereits Compiler, welche wiederverwendet werden können. In unserem Beispiel wird Processing nach Smalltalk übersetzt, da Glamorous Toolkit bereits einen Smalltalk-Compiler enthält."
 						}
 					]
 				},
@@ -472,7 +472,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:02:16.758+02:00"
+						"dateAndTimeString" : "2025-05-02T12:20:28.096+02:00"
 					}
 				},
 				"uid" : {
@@ -482,7 +482,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Dieses Programm wird nun in unserem Fall, ausgehend vom AST, zuerst nach SmallTalk übersetzt:"
+				"string" : "Dieses Programm wird nun in unserem Fall, ausgehend vom AST, zuerst nach Smalltalk übersetzt:"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -620,15 +620,15 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T17:52:28.262+02:00"
+						"dateAndTimeString" : "2025-05-02T12:15:44.979+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "kNqdmlTwDQC/7sz+CEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtViewIntermediaryRepresentationFor:",
-				"elementHeight" : 171,
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtSourceIntermediaryRepresentationFor:",
+				"elementHeight" : 201,
 				"codeHeight" : 50,
 				"codeVisible" : false
 			},

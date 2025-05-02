@@ -660,7 +660,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:48:39.004+02:00"
+						"dateAndTimeString" : "2025-04-29T22:48:48.316+02:00"
 					}
 				},
 				"uid" : {
@@ -670,7 +670,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "(Wenn Sie in einer Ansichten in die untere rechte Ecke klicken, erscheint ein Buch-Icon. Ein Klick auf dieses verrät Ihnen, mit welchem Bef)"
+				"string" : "(Wenn Sie in einer Ansichten in die untere rechte Ecke klicken, erscheint ein Buch-Icon. Ein Klick auf dieses verrät Ihnen, mit welchem Befehl diese Ansicht hergezaubert wurde.)"
 			}
 		]
 	},

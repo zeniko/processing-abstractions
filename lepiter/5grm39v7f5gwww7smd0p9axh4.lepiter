@@ -349,7 +349,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:24:56.45+02:00"
+						"dateAndTimeString" : "2025-05-02T12:17:47.159+02:00"
 					}
 				},
 				"editEmail" : {
@@ -360,17 +360,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:24:58.885+02:00"
+						"dateAndTimeString" : "2025-05-02T12:17:48.717+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "0B9x2FTwDQCgyl+6CEFArw=="
+					"uidString" : "2HXhMobwDQC8MAQpB7e7BA=="
 				},
-				"code" : "GtInspector forObject:(ProcessingSource new fromString:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first code)",
-				"elementHeight" : 1078,
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first)",
+				"elementHeight" : 597,
 				"codeHeight" : 50,
-				"codeVisible" : true
+				"codeVisible" : false
 			}
 		]
 	},

@@ -71,7 +71,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:00:38.134+02:00"
+									"dateAndTimeString" : "2025-05-02T12:19:43.647+02:00"
 								}
 							},
 							"uid" : {
@@ -81,7 +81,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "eine Entwicklungsumgebung, in welcher Programme in der Sprache [SmallTalk](https://de.wikipedia.org/wiki/Smalltalk_(Programmiersprache)) geschrieben werden können"
+							"string" : "eine Entwicklungsumgebung, in welcher Programme in der Sprache [Smalltalk](https://de.wikipedia.org/wiki/Smalltalk_(Programmiersprache)) geschrieben werden können"
 						},
 						{
 							"__type" : "textSnippet",
