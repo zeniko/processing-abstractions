@@ -214,7 +214,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T23:42:22.392+02:00"
+									"dateAndTimeString" : "2025-05-04T18:35:02.828+02:00"
 								}
 							},
 							"uid" : {
@@ -224,7 +224,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "1. Verändern Sie die Werte der Variablen und probieren Sie aus, welche Auswirkung diese hat (Tipp: Ctrl+G führt das Programm jeweils aus)."
+							"string" : "1. Verändern Sie die Werte der Variablen und probieren Sie aus, welche Auswirkung diese hat (Tipp: Ctrl+R führt das Programm jeweils aus)."
 						},
 						{
 							"__type" : "textSnippet",

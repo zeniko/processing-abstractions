@@ -140,14 +140,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-02T12:14:28.049+02:00"
+						"dateAndTimeString" : "2025-05-04T18:34:35.053+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "wH9nmVLwDQC+03E/CEFArw=="
 				},
-				"code" : "size(200, 200)\r# Variable für Farbe und Durchmesser\rx = 200\rwhile x > 0:\r\t# Zeichne konzentrische Kreise in ändernder Farbe\r\tfill(200 - x, 128, x)\r\tellipse(100, 100, x, x)\r\tx = x - 20"
+				"code" : "size(200, 300)\r# Variable für Farbe und Durchmesser\rx = 200\rwhile x > 0:\r\t# Zeichne konzentrische Kreise in ändernder Farbe\r\tfill(200 - x, 128, x)\r\tellipse(100, 100, x, x)\r\tx = x - 20"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -174,15 +174,15 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-02T12:14:59.821+02:00"
+						"dateAndTimeString" : "2025-05-04T18:34:00.169+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "QO+jHyDuDQCSe+kLA7dSXA=="
 				},
-				"code" : "(ProcessingSource fromSnippet: thisSnippet previousSibling) program canvas",
-				"elementHeight" : 236,
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtOutputFor:",
+				"elementHeight" : 245,
 				"codeHeight" : 28,
 				"codeVisible" : true
 			},

@@ -214,7 +214,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T23:42:12.046+02:00"
+									"dateAndTimeString" : "2025-04-29T23:42:22.392+02:00"
 								}
 							},
 							"uid" : {
@@ -224,7 +224,44 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "1. Verändern Sie die Werte der Variablen und probieren Sie aus, welche Auswirkung diese hat (Tipp: Ctlr"
+							"string" : "1. Verändern Sie die Werte der Variablen und probieren Sie aus, welche Auswirkung diese hat (Tipp: Ctrl+G führt das Programm jeweils aus)."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:42:24.707+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:42:37.724+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "uPnEaVPwDQCit73QCEFArw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "2. Lösen Sie die Übungen aus dem Skript."
 						}
 					]
 				},
