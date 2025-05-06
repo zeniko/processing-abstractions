@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:40:35.426+02:00"
+						"dateAndTimeString" : "2025-05-06T23:17:41.948+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "\r\rWenn Sie Text lesen, konzentrieren Sie sich in der Regel auf dessen Inhalt und nicht auf die Form der einzelnen Buchstaben. Derselbe Text in verschiedenen Schriften bleibt in der Regel derselbe Text."
+				"string" : "Wenn Sie Text lesen, konzentrieren Sie sich in der Regel auf dessen Inhalt und nicht auf die Form der einzelnen Buchstaben. Derselbe Text in verschiedenen Schriften bleibt in der Regel derselbe Text."
 			},
 			{
 				"__type" : "textSnippet",

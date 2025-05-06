@@ -251,7 +251,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:17:21.578+02:00"
+						"dateAndTimeString" : "2025-05-06T23:17:12.494+02:00"
 					}
 				},
 				"uid" : {
@@ -261,7 +261,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "3. Schreiben Sie das Program um. Welche weiteren Befehle (und dazu passende Codes) finden Sie?"
+				"string" : "3. Schreiben Sie das Program um. Wel"
 			},
 			{
 				"__type" : "processingSnippet",
@@ -369,7 +369,7 @@
 				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtBytecodePlusSourceFor:",
 				"elementHeight" : 327,
 				"codeHeight" : 50,
-				"codeVisible" : false
+				"codeVisible" : true
 			}
 		]
 	},

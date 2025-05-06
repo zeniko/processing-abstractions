@@ -6,7 +6,7 @@ Class {
 
 { #category : #loading }
 BaselineOfProcessingAbstractions class >> loadLepiter [
-	IceRepository registry  
+	IceRepository registry
 		detect: [ :aRepository |
 			aRepository name = 'processing-abstractions' ]
 		ifFound: [ :aRepository | 
