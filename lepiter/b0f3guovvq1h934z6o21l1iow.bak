@@ -1,0 +1,150 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T17:10:36.928+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T17:16:00.816+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "AFx8wdrwDQCJacEQD/7/uQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Ein Prozessor besteht letztlich aus Millionen bis Milliarden von Transistoren, damit kann er also eigentlich bloss aus Strom/Nicht-Strom als Eingabe Strom/Nicht-Strom als Ausgabe produzieren. Wir abstrahieren dies zuerst durch binäre Ziffern (1 = Strom, 0 = Nicht-Strom) und fassen diese, sofern es sich um parallele Leitungen handelt, zu Zahlen zusammen."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T17:17:28.429+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T17:17:28.429+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "0FAc1drwDQCS/YhWD/7/uQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			},
+			{
+				"__type" : "elementSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T17:17:45.998+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T17:48:21.833+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "yG4P29rwDQCTfx50D/7/uQ=="
+				},
+				"code" : "| scenery item1 item2 item3 item4 item5 item6 item7 item8 item9 item10 item11 item12 item13 item14 item15 item16 item17 item18 |\r\nscenery := GtScenery new.\r\nitem1 := scenery\r\n\t\taddItem: (GtSceneryMindMapNodeStencil new\r\n\t\t\t\tlabel: 'Befehl lesen';\r\n\t\t\t\twidth: 102.93202209472656) asItem.\r\nitem1 position: 267.2960662841797 @ 358.3019999504089.\r\nitem1 extent: 102.93202209472656 @ 28.0.\r\nitem2 := scenery\r\n\t\taddItem: (GtSceneryMindMapNodeStencil new\r\n\t\t\t\tlabel: 'Zuständige Schaltung auswählen';\r\n\t\t\t\twidth: 222.93202209472656) asItem.\r\nitem2 position: 207.2960662841797 @ 426.3019999504089.\r\nitem2 extent: 222.93202209472656 @ 28.0.\r\nitem3 := scenery\r\n\t\taddItem: (GtSceneryMindMapNodeStencil new\r\n\t\t\t\tlabel: 'Zahl aus dem Speicher';\r\n\t\t\t\twidth: 151.73202209472646) asItem.\r\nitem3 position: 427.0280883789063 @ 358.3019999504089.\r\nitem3 extent: 151.73202209472646 @ 28.0.\r\nitem4 := scenery\r\n\t\taddItem: (GtSceneryMindMapNodeStencil new\r\n\t\t\t\tlabel: 'Multiplexer';\r\n\t\t\t\twidth: 91.73202209472652) asItem.\r\nitem4 position: 457.0280883789063 @ 426.3019999504089.\r\nitem4 extent: 91.73202209472652 @ 28.0.\r\nitem5 := scenery\r\n\t\taddItem: (GtSceneryMindMapNodeStencil new\r\n\t\t\t\tlabel: 'Ergebnis speichern/ausgeben';\r\n\t\t\t\twidth: 179.73202209472657) asItem.\r\nitem5 position: 228.8960662841797 @ 494.3019999504089.\r\nitem5 extent: 179.73202209472657 @ 28.0.\r\nitem6 := scenery\r\n\t\taddItem: (GtSceneryTextLabelStencil new\r\n\t\t\t\tlabel: 'Arbeitsschritt';\r\n\t\t\t\twidth: 102.93202209472655) asItem.\r\nitem6 position: 270.5 @ 226.3019999504089.\r\nitem6 extent: 102.93202209472655 @ 28.0.\r\nitem7 := scenery\r\n\t\taddItem: (GtSceneryTextLabelStencil new\r\n\t\t\t\tlabel: 'Umsetzung';\r\n\t\t\t\twidth: 102.93202209472656) asItem.\r\nitem7 position: 449.43202209472656 @ 227.3019999504089.\r\nitem7 extent: 102.93202209472656 @ 28.0.\r\nitem8 := scenery\r\n\t\taddItem: (GtSceneryTextLabelStencil new\r\n\t\t\t\tlabel: 'Erklärung';\r\n\t\t\t\twidth: 102.93202209472656) asItem.\r\nitem8 position: 821.3640441894531 @ 229.3019999504089.\r\nitem8 extent: 102.93202209472656 @ 28.0.\r\nitem9 := scenery\r\n\t\taddItem: (GtSceneryMindMapNodeStencil new\r\n\t\t\t\tlabel: 'parallele Verbindungen, welche zum Prozessor Strom/Nicht-Strom leiten';\r\n\t\t\t\twidth: 439.7320220947264) asItem.\r\nitem9 position: 652.7601104736327 @ 358.3019999504089.\r\nitem9 extent: 439.7320220947264 @ 28.0.\r\nitem10 := scenery\r\n\t\taddItem: (GtSceneryMindMapNodeStencil new\r\n\t\t\t\tlabel: 'Schaltung, welche anhand einer Bit-Folge (Zahl) eine von mehreren weiteren Schaltungen (via AND-Gatter) aktiviert';\r\n\t\t\t\twidth: 402.93202209472656) asItem.\r\nitem10 position: 671.1601104736326 @ 426.3019999504089.\r\nitem10 extent: 402.93202209472656 @ 46.0.\r\nitem11 := scenery\r\n\t\taddItem: (GtSceneryMindMapNodeStencil new\r\n\t\t\t\tlabel: 'Bit-Folge';\r\n\t\t\t\twidth: 154.13202209472655) asItem.\r\nitem11 position: 425.8280883789063 @ 494.3019999504089.\r\nitem11 extent: 154.13202209472655 @ 28.0.\r\nitem12 := scenery\r\n\t\taddItem: (GtSceneryMindMapNodeStencil new\r\n\t\t\t\tlabel: 'gespeichert in Flip-Flop-Schaltung (Register/Stack)';\r\n\t\t\t\twidth: 309.33202209472654) asItem.\r\nitem12 position: 717.9601104736325 @ 512.3019999504089.\r\nitem12 extent: 309.33202209472654 @ 28.0.\r\nitem13 := scenery\r\n\t\taddItem: (GtSceneryMindMapNodeStencil new\r\n\t\t\t\tlabel: 'Befehlszähler auslesen';\r\n\t\t\t\twidth: 162.1320220947265) asItem.\r\nitem13 position: 237.69606628417978 @ 290.3019999504089.\r\nitem13 extent: 162.1320220947265 @ 28.0.\r\nitem14 := scenery\r\n\t\taddItem: (GtSceneryMindMapNodeStencil new\r\n\t\t\t\tlabel: 'Zahl aus Register';\r\n\t\t\t\twidth: 122.13202209472655) asItem.\r\nitem14 position: 441.8280883789063 @ 290.3019999504089.\r\nitem14 extent: 122.13202209472655 @ 28.0.\r\nitem15 := scenery\r\n\t\taddItem: (GtSceneryMindMapNodeStencil new\r\n\t\t\t\tlabel: 'gespeichert in Flip-Flop-Schaltung';\r\n\t\t\t\twidth: 250.93202209472656) asItem.\r\nitem15 position: 747.1601104736326 @ 290.3019999504089.\r\nitem15 extent: 250.93202209472656 @ 28.0.\r\nitem16 := scenery\r\n\t\taddItem: (GtSceneryMindMapNodeStencil new\r\n\t\t\t\tlabel: 'Befehlszähler vergrössern';\r\n\t\t\t\twidth: 174.13202209472655) asItem.\r\nitem16 position: 231.69606628417978 @ 562.3019999504089.\r\nitem16 extent: 174.13202209472655 @ 28.0.\r\nitem17 := scenery\r\n\t\taddItem: (GtSceneryMindMapNodeStencil new\r\n\t\t\t\tlabel: 'Addierwerk';\r\n\t\t\t\twidth: 102.93202209472656) asItem.\r\nitem17 position: 451.4280883789063 @ 562.3019999504089.\r\nitem17 extent: 102.93202209472656 @ 28.0.\r\nitem18 := scenery\r\n\t\taddItem: (GtSceneryMindMapNodeStencil new\r\n\t\t\t\tlabel: 'parallele Volladdierer-Schaltungen';\r\n\t\t\t\twidth: 222.1320220947265) asItem.\r\nitem18 position: 761.5601104736324 @ 580.3019999504089.\r\nitem18 extent: 222.1320220947265 @ 28.0.\r\nscenery\r\n\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\n\tfrom: item1\r\n\tto: item2.\r\nscenery\r\n\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\n\tfrom: item3\r\n\tto: item4.\r\nscenery\r\n\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\n\tfrom: item9\r\n\tto: item10.\r\nscenery\r\n\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\n\tfrom: item2\r\n\tto: item5.\r\nscenery\r\n\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\n\tfrom: item4\r\n\tto: item11.\r\nscenery\r\n\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\n\tfrom: item10\r\n\tto: item12.\r\nscenery\r\n\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\n\tfrom: item13\r\n\tto: item1.\r\nscenery\r\n\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\n\tfrom: item14\r\n\tto: item3.\r\nscenery\r\n\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\n\tfrom: item15\r\n\tto: item9.\r\nscenery\r\n\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\n\tfrom: item5\r\n\tto: item16.\r\nscenery\r\n\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\n\tfrom: item11\r\n\tto: item17.\r\nscenery\r\n\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\n\tfrom: item12\r\n\tto: item18.\r\nscenery",
+				"elementHeight" : 458,
+				"codeHeight" : 50,
+				"codeVisible" : true
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-05-06T17:10:36.908+02:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-05-06T17:10:36.908+02:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Steuerwerk und Rechenwerk"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "e00d7cc1-daf0-0d00-8968-53020ffeffb9"
+	}
+}

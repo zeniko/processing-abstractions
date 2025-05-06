@@ -305,6 +305,78 @@
 								"__type" : "textStyle"
 							},
 							"string" : "1. Untersuchen Sie dieses Element via Ctrl+Shift+Alt+Klick (zuerst alle drei Tasten gedrückt halten, dann erst klicken). Doppelklicken Sie anschliessend auf das hervorgehobene Listenelement, vergrössen Sie es (mit **`+`**) und untersuchen Sie dessen Detailansichten (insbesondere *Raw* - Rohdaten - und *Meta* - Programmierbefehle)."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T15:57:40.778+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T15:58:24.765+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "KJilvNnwDQC/ETdqD/7/uQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "2. Klicken Sie unten auf den Pfeil neben *2 explicit references*. Was wird hier angezeigt?"
+						},
+						{
+							"__type" : "commentSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T15:59:13.151+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T16:00:40.398+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "kGE5wNnwDQCA8e8qD/7/uQ=="
+							},
+							"string" : "Dies sind alle Absätze von anderen Seiten, welche einen Verweis auf diese Seite enthalten. Da in Glamorous Toolkit alles Objekte sind, kann die App sämtliche Absatz-Objekte nach Verweis-Objekten durchsuchen/filtern und diese hier dynamisch einfügen. Ein Klick darauf, geht zur verweisenden Seite.",
+							"isHidden" : true
 						}
 					]
 				},
