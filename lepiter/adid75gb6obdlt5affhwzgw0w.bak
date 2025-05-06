@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:47:27.602+02:00"
+						"dateAndTimeString" : "2025-04-30T01:26:52.682+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,12 +29,12 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:47:27.602+02:00"
+						"dateAndTimeString" : "2025-04-30T01:26:52.682+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "UGm2TODwDQCx10LJCbxHlA=="
+					"uidString" : "EK9e31TwDQCkBpuUCEFArw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
@@ -51,7 +51,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T17:29:08.136+01:00"
+			"dateAndTimeString" : "2025-04-30T01:26:52.66+02:00"
 		}
 	},
 	"editEmail" : {
@@ -62,15 +62,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T17:29:08.136+01:00"
+			"dateAndTimeString" : "2025-04-30T01:26:52.66+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Weiterführende Ideen"
+		"title" : "Maschinensprache generieren"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "28f478f4-8eed-0d00-82ad-ecdb080ebfe2"
+		"uuid" : "20595edf-54f0-0d00-a405-2c97084140af"
 	}
 }

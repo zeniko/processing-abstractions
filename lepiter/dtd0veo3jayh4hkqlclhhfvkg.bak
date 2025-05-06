@@ -780,12 +780,49 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:53:37.997+02:00"
+									"dateAndTimeString" : "2025-05-06T23:31:04.327+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "MLlZSyDuDQCjDRtDA7dSXA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[Lexer: Das Programm in \"Worte\" zerlegen]]"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T23:25:48.997+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T23:31:08.62+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "iEVP/9/wDQCZXXBpCbxHlA=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
@@ -854,7 +891,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:54:37.029+02:00"
+									"dateAndTimeString" : "2025-05-06T23:46:43.022+02:00"
 								}
 							},
 							"uid" : {
@@ -864,7 +901,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[AST übersetzen]]"
+							"string" : "[[Transpiler: AST übersetzen]]"
 						},
 						{
 							"__type" : "textSnippet",
@@ -891,7 +928,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:26:51.711+02:00"
+									"dateAndTimeString" : "2025-05-06T23:46:49.119+02:00"
 								}
 							},
 							"uid" : {
@@ -901,7 +938,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Maschinensprache generieren]]"
+							"string" : "[[Compiler: Maschinensprache generieren]]"
 						},
 						{
 							"__type" : "textSnippet",

@@ -234,7 +234,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-02T00:49:23.067+02:00"
+						"dateAndTimeString" : "2025-05-06T23:32:09.402+02:00"
 					}
 				},
 				"editEmail" : {
@@ -245,15 +245,15 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-04T18:28:55.992+02:00"
+						"dateAndTimeString" : "2025-05-06T23:35:24.49+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "eMi5FSHuDQCkO6d3AxtC0g=="
+					"uidString" : "kMr7FeDwDQCcQeQVCbxHlA=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtSourceBytesPlusSourceFor:",
-				"elementHeight" : 211,
+				"code" : "GtInspector forObject: (ViewComparison newFor: {\r\n\t(ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program -> #gtSourceBytesFor:.\r\n\t(ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) second) program -> #gtSourceBytesFor:.\r\n}) viewSelector: #gtCompareFor:",
+				"elementHeight" : 339,
 				"codeHeight" : 50,
 				"codeVisible" : false
 			},
@@ -271,7 +271,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-04T18:29:39.081+02:00"
+						"dateAndTimeString" : "2025-05-06T23:36:52.594+02:00"
 					}
 				},
 				"editEmail" : {
@@ -282,17 +282,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-04T18:29:52.523+02:00"
+						"dateAndTimeString" : "2025-05-06T23:38:20.872+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "QBt1oLPwDQCW9/iYCqJFoA=="
+					"uidString" : "aPHcJuDwDQCctVkGCbxHlA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Und hier sind die Bytes des zweiten Programms:"
+				"string" : "Nun zerlegt ein Lexer das Programm in die tatsächlich relevanten Teile (\"*Tokens*\" bzw. beim Lesen: \"Worte\"):"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -308,7 +308,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-02T00:49:44.728+02:00"
+						"dateAndTimeString" : "2025-05-06T23:37:20.842+02:00"
 					}
 				},
 				"editEmail" : {
@@ -319,15 +319,15 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-04T18:29:06.225+02:00"
+						"dateAndTimeString" : "2025-05-06T23:37:22.272+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "wE0EFyHuDQCkZpZGAxtC0g=="
+					"uidString" : "EP2LKODwDQCdA6YeCbxHlA=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) second) program viewSelector: #gtSourceBytesPlusSourceFor:",
-				"elementHeight" : 215,
+				"code" : "GtInspector forObject: (ViewComparison newFor: {\r\n\t(ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program -> #gtTokensFor:.\r\n\t(ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) second) program -> #gtTokensFor:.\r\n}) viewSelector: #gtCompareFor:",
+				"elementHeight" : 261,
 				"codeHeight" : 50,
 				"codeVisible" : false
 			},
@@ -335,82 +335,7 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-02T00:10:26.483+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T00:39:03.969+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "OFd0iiDuDQCjVDE9AJ4PfQ=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "1. Welche Unterschiede fallen Ihnen zwischen den beiden Ansichten auf?"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-02T00:12:51.542+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T00:39:05.413+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "CMAZkyDuDQCpRWLeAJ4PfQ=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "2. Welche Informationen sind von beiden Programmen jeweils dargestellt?"
-						}
-					]
+					"items" : [ ]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -431,7 +356,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:39:07.262+02:00"
+						"dateAndTimeString" : "2025-05-06T23:36:31.97+02:00"
 					}
 				},
 				"uid" : {
@@ -441,7 +366,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "## Aufgaben"
+				"string" : "## Aufgaben 📝"
 			},
 			{
 				"__type" : "textSnippet",
@@ -457,7 +382,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:52:33.247+02:00"
+						"dateAndTimeString" : "2025-04-02T00:10:26.483+02:00"
 					}
 				},
 				"editEmail" : {
@@ -468,17 +393,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:52:41.917+02:00"
+						"dateAndTimeString" : "2025-05-06T23:38:50.154+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "GDOeZFTwDQCSKGKRCEFArw=="
+					"uidString" : "OFd0iiDuDQCjVDE9AJ4PfQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "# Abstrakter Syntax-Baum (AST)"
+				"string" : "1. Welche Unterschiede fallen Ihnen in der oberen Ansicht zwischen den Bytes der beiden Programme auf?"
 			},
 			{
 				"__type" : "textSnippet",
@@ -494,7 +419,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-02T00:13:53.867+02:00"
+						"dateAndTimeString" : "2025-04-02T00:12:51.542+02:00"
 					}
 				},
 				"editEmail" : {
@@ -505,166 +430,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-02T00:14:50+02:00"
+						"dateAndTimeString" : "2025-05-06T23:38:55.853+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "2EdSlCDuDQCq/RFYAJ4PfQ=="
+					"uidString" : "CMAZkyDuDQCpRWLeAJ4PfQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Letztlich sollten aber beide Programme dieselbe Ausgabe erzeugen. In einem ersten Schritt müssen daher diese oberflächlichen Unterschiede wegabstrahiert werden."
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T00:42:39.245+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T00:43:13.748+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "yHI2QVTwDQCEHgxkCEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Namen (*ohne* Leerzeichen, also je nur *ein* Wort)"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T00:43:14.326+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T00:44:01.007+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "8L1NQ1TwDQCFdILQCEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Zahlen, Zeichenketten (alles zwischen zwei Anführungszeichen) und weitere Werte wie z.B. Wahrheitswerte"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T00:44:05.709+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T00:44:25.432+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "yMhdRlTwDQCIcT2JCEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Operatoren, Klammern und andere Zeichen mit besonderer Bedeutung"
-						}
-					]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:42:05.551+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:42:38.589+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "mFE0P1TwDQCBgi9rCEFArw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Ein Compiler zerlegt ein Programm daher zuerst in möglichst kleine, aber sinnvolle Einzelteile (sogenannte \"Token\"), aus denen das Programm aufgebaut ist. \"Token\" sind z.B.:"
+				"string" : "2. Welche Informationen sind von beiden Programmen da jeweils dargestellt?"
 			},
 			{
 				"__type" : "textSnippet",
@@ -680,7 +456,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:42:39.835+02:00"
+						"dateAndTimeString" : "2025-05-06T23:38:57.08+02:00"
 					}
 				},
 				"editEmail" : {
@@ -691,172 +467,23 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:45:01.136+02:00"
+						"dateAndTimeString" : "2025-05-06T23:39:19.07+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "eHM/QVTwDQCEIvYrCEFArw=="
+					"uidString" : "2HJILuDwDQCgwfcPCbxHlA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Aus den obigen Programmen erkennt der Computer folgendes:"
-			},
-			{
-				"__type" : "elementSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:45:10.95+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-04T18:30:19.05+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "cEhBSlTwDQCLUiM7CEFArw=="
-				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtTreePlusSourceFor:",
-				"elementHeight" : 211,
-				"codeHeight" : 50,
-				"codeVisible" : false
-			},
-			{
-				"__type" : "elementSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:50:22.104+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-04T18:30:32.444+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "wB3NXFTwDQCRzsz8CEFArw=="
-				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) second) program viewSelector: #gtTreePlusSourceFor:",
-				"elementHeight" : 217,
-				"codeHeight" : 50,
-				"codeVisible" : false
+				"string" : "3. Welche Unterschiede fallen Ihnen bei der unteren Ansicht zwischen den *Tokens* der beiden Programme auf?"
 			},
 			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T00:48:26.21+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T00:49:23.466+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "0LbkVVTwDQCNXtEBCEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "3. Betrachten Sie zuerst die erste Ausgabe: Welche \"Token\" hat der Computer identifiziert?"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T00:49:24.394+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T00:49:40.677+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "EIhcWVTwDQCQKH2ACEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "4. Vergleichen Sie mit der zweiten Ausgabe: Bestehen nun noch Unterschiede?"
-						}
-					]
+					"items" : [ ]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -866,7 +493,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:48:16.94+02:00"
+						"dateAndTimeString" : "2025-05-06T23:39:25.813+02:00"
 					}
 				},
 				"editEmail" : {
@@ -877,17 +504,87 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:48:25.927+02:00"
+						"dateAndTimeString" : "2025-05-06T23:39:47.99+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "aIvASVTwDQCLTVzrCEFArw=="
+					"uidString" : "COX+L+DwDQCi5MLcCbxHlA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "## Aufgaben"
+				"string" : "4. Was ist für den Computer hier wohl ein *Token*?"
+			},
+			{
+				"__type" : "commentSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T23:39:53.674+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T23:41:28.532+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "EAWoMeDwDQCkvBylCbxHlA=="
+				},
+				"string" : "Zu 1. und 2.: In der oberen Ansicht erkennen Sie für jedes Byte jeweils dessen Position (\"Index\"), dessen Darstellung im Programm und dessen ASCII-/Unicode-Codierung in dezimal und hexadezimal. Die Programme unterscheiden sich eigentlich nur bezüglich Leerzeichen und Zeilenumbrüchen.",
+				"isHidden" : true
+			},
+			{
+				"__type" : "commentSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T23:41:33.643+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T23:43:04.227+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "EGmdN+DwDQCqo9rjCbxHlA=="
+				},
+				"string" : "Zu 3. und 4.: Die Tokens sind identisch! Der einzige Unterschied ist die Zusatzinformation zu Zeile und Zeilen-Einrückung der Token. Ein Token ist u.a. ein (durch Leerzeichen getrennter!) Name oder Zahl oder ein Interpunktionszeichen.",
+				"isHidden" : true
 			}
 		]
 	},
@@ -910,12 +607,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-04-01T23:53:45.374+02:00"
+			"dateAndTimeString" : "2025-05-06T23:31:04.319+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Parser: Struktur des Programms erkennen"
+		"title" : "Lexer: Das Programm in \"Worte\" zerlegen"
 	},
 	"uid" : {
 		"__type" : "uuid",

@@ -23,7 +23,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T00:54:01.703+02:00"
+									"dateAndTimeString" : "2025-05-06T23:59:13.478+02:00"
 								}
 							},
 							"editEmail" : {
@@ -34,12 +34,12 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-02T12:20:36.494+02:00"
+									"dateAndTimeString" : "2025-05-06T23:59:14.109+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "WO7jaVTwDQCVQHgcCEFArw=="
+								"uidString" : "8FCcZlTwDQCSzgq3CEFArw=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
@@ -130,7 +130,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:53:06.678+02:00"
+						"dateAndTimeString" : "2025-05-06T23:58:31.526+02:00"
 					}
 				},
 				"editEmail" : {
@@ -141,17 +141,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:54:01.323+02:00"
+						"dateAndTimeString" : "2025-05-06T23:59:11.709+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "8FCcZlTwDQCSzgq3CEFArw=="
+					"uidString" : "cBZJdODwDQCJIOilCbxHlA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Die in einem abstrakten Syntax-Baum (AST) gefundene Struktur kann nun weiter übersetzt werden:"
+				"string" : "Die Struktur, welche der Parser aus den Token erstellt, heisst \"abstrakter Syntax-Baum\" (kurz: AST). Diese Struktur kann nun weiter übersetzt werden:"
 			},
 			{
 				"__type" : "textSnippet",
@@ -694,17 +694,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-04T18:21:40.539+02:00"
+						"dateAndTimeString" : "2025-05-06T21:54:56.354+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "OECvnlTwDQCBQuzsCEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtBytecodePlusSourceFor:",
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtBytecodePlusSourceFor:",
 				"elementHeight" : 215,
 				"codeHeight" : 50,
-				"codeVisible" : true
+				"codeVisible" : false
 			},
 			{
 				"__type" : "textSnippet",
@@ -950,12 +950,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-04-01T23:54:38.764+02:00"
+			"dateAndTimeString" : "2025-05-06T23:46:43.014+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "AST übersetzen"
+		"title" : "Transpiler: AST übersetzen"
 	},
 	"uid" : {
 		"__type" : "uuid",

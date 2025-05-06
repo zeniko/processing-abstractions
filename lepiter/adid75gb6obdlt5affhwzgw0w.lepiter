@@ -62,12 +62,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-04-30T01:26:52.66+02:00"
+			"dateAndTimeString" : "2025-05-06T23:46:49.116+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Maschinensprache generieren"
+		"title" : "Compiler: Maschinensprache generieren"
 	},
 	"uid" : {
 		"__type" : "uuid",
