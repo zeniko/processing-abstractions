@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:26:38.964+02:00"
+						"dateAndTimeString" : "2025-05-06T19:53:51.54+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:26:38.964+02:00"
+						"dateAndTimeString" : "2025-05-06T19:54:01.625+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "IF2N3lTwDQCjTZxiCEFArw=="
+					"uidString" : "CEtKCd3wDQCWIHcjANfT7g=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "⚠️ **Diese Seite nicht bearbeiten!** ⚠"
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:16:41.028+02:00"
+						"dateAndTimeString" : "2025-05-06T15:55:06.463+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,91 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:18:14.498+02:00"
+						"dateAndTimeString" : "2025-05-06T15:55:32.312+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "iGKitlTwDQCS+6hFCEFArw=="
+					"uidString" : "GPNys9nwDQC53rtwD/7/uQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Betrachten Sie nun zuerst folgendes Programm"
+				"string" : "Funktionen können auch sich selbst (rekursiv) aufrufen. Dies erlaubt z.B., fein verästelte Strukturen mit wenigen Befehlen zu beschreiben."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:54:36.037+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:55:58.881+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "oKuisdnwDQC2/R65D/7/uQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Bevor Sie dies selbst machen, müssen Sie allerdings darauf achten, dass eine Funktion immer überprüft, ob sie sich selbst noch weiter aufrufen soll! Andernfalls riskieren Sie ein Programm, welches nie endet, da sich die Funktion immer wieder selbst aufruft..."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:54:14.607+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:54:36.038+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "sKxbsNnwDQC10dMLD/7/uQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Der folgende Code zeichnet ein Fraktal:"
 			},
 			{
 				"__type" : "processingSnippet",
@@ -92,7 +166,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:16:49.266+02:00"
+						"dateAndTimeString" : "2025-04-29T22:45:22.289+02:00"
 					}
 				},
 				"editEmail" : {
@@ -103,88 +177,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T17:57:49.946+02:00"
+						"dateAndTimeString" : "2025-04-29T22:45:22.814+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "UElnu1TwDQCTIcdzCEFArw=="
+					"uidString" : "aAXHnVLwDQC/Bh6wCEFArw=="
 				},
-				"code" : "size(200, 200)\ra = 200\rwhile a > 0:\r\tellipse(100, 100, a, a)\r\ta = a - 20"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:18:05.151+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:18:46.139+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "GDPtv1TwDQCVVfHdCEFArw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Hier finden Sie einen Teil der Ansichten erneut:"
-			},
-			{
-				"__type" : "elementSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:16:44.497+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T17:57:10.02+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "aIQeu1TwDQCTFTpUCEFArw=="
-				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) viewSelector: #gtAbstractionsFor:",
-				"elementHeight" : 538,
-				"codeHeight" : 50,
-				"codeVisible" : false
+				"code" : "px = 300\r\nsize(px, px * sin(radians(60)) + 2)\r\n\r\ndef sierpinski(n, x, y, side):\r\n\tth = side * sin(radians(60))\r\n\tif n == 1:\r\n\t\ttriangle(x, y + th, x + side, y + th, x + side / 2, y)\r\n\telif n > 1:\r\n\t\tside = side / 2\r\n\t\tth = th / 2\r\n\t\tsierpinski(n - 1, x + side / 2, y, side)\r\n\t\tsierpinski(n - 1, x, y + th, side)\r\n\t\tsierpinski(n - 1, x + side, y + th, side)\r\n\r\nbackground(255, 255, 255)\r\nfill(0, 0, 0)\r\nstroke(0, 0, 0)\r\nstrokeWeight(1)\r\n\r\nsierpinski(4, 2, 2, width - 4)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -205,7 +205,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:18:54.475+02:00"
+									"dateAndTimeString" : "2025-04-29T23:44:00.213+02:00"
 								}
 							},
 							"editEmail" : {
@@ -216,17 +216,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:19:54.458+02:00"
+									"dateAndTimeString" : "2025-05-06T15:49:12.53+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "+NLdwlTwDQCX3qVACEFArw=="
+								"uidString" : "CEh2b1PwDQCkn9+RCEFArw=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "1. Erklären Sie in eigenen Worten, was der Computer machen muss, um das obige Programm in die angezeigte Ausgabe zu verwandeln."
+							"string" : "1. Starten Sie das obige Programm unter \"Rekursion\". Können Sie erklären, was hier geschieht?"
 						},
 						{
 							"__type" : "textSnippet",
@@ -242,7 +242,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:19:33.518+02:00"
+									"dateAndTimeString" : "2025-04-29T23:54:40.428+02:00"
 								}
 							},
 							"editEmail" : {
@@ -253,17 +253,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:19:48.487+02:00"
+									"dateAndTimeString" : "2025-04-29T23:55:41.633+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "sJIxxVTwDQCa2l1HCEFArw=="
+								"uidString" : "4C+flVPwDQCnjNkdCEFArw=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "2. Benennen Sie die einzelnen Schritte in der korrekten Reihenfolge."
+							"string" : "2. Unten finden Sie dasselbe Programm erneut und können es schrittweise ausführen (mit den Pfeilen nach links/rechts oder unter \"With List\" mit der Liste, um Schritte zu überspringen)."
 						},
 						{
 							"__type" : "textSnippet",
@@ -279,7 +279,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:19:55.751+02:00"
+									"dateAndTimeString" : "2025-04-29T23:55:41.894+02:00"
 								}
 							},
 							"editEmail" : {
@@ -290,17 +290,91 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:26:04.783+02:00"
+									"dateAndTimeString" : "2025-04-29T23:56:04.301+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "WNKExlTwDQCcjWsxCEFArw=="
+								"uidString" : "oA1JmVPwDQCrM+VqCEFArw=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "3. Erkennen Sie anhand des Maschinencodes Unterschiede zum ursprünglichen Python-Programm? Sie können sämtliche Schritte unten noch einmal einzeln untersuchen (für eine Vergrösserung: **i** und anschliessend `+` klicken)."
+							"string" : "3. Passen Sie das obige Programm an, so dass es mehr Dreiecke zeichnet."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:56:05.835+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:56:51.795+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "+GS2mlPwDQCsmj2gCEFArw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "4. Passen Sie das obige Programm an, so dass es statt Dreiecken Quadrate zeichnet (das ergibt einen Sierpinski-Teppich)."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:56:53.066+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T23:57:07.112+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "EBWHnVPwDQCvr8XACEFArw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "* 5. Können Sie analog andere Fraktale zeichnen?"
 						}
 					]
 				},
@@ -312,7 +386,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:18:50.491+02:00"
+						"dateAndTimeString" : "2025-04-29T23:43:52.033+02:00"
 					}
 				},
 				"editEmail" : {
@@ -323,17 +397,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:18:54.216+02:00"
+						"dateAndTimeString" : "2025-05-06T15:39:53.78+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "eAihwlTwDQCXgOYtCEFArw=="
+					"uidString" : "6Hb5blPwDQCkVCV+CEFArw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "## Aufgaben"
+				"string" : "## Aufgaben 📝"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -349,7 +423,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-02T12:17:47.159+02:00"
+						"dateAndTimeString" : "2025-04-29T23:44:09.824+02:00"
 					}
 				},
 				"editEmail" : {
@@ -360,16 +434,16 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-02T12:17:48.717+02:00"
+						"dateAndTimeString" : "2025-04-29T23:52:16.997+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "2HXhMobwDQC8MAQpB7e7BA=="
+					"uidString" : "AO8IcFPwDQCkqd0/CEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first)",
-				"elementHeight" : 597,
-				"codeHeight" : 50,
+				"code" : "\rGtInspector new object: (StepperExamples new sierpinskiStepper stepTo: 1)",
+				"elementHeight" : 656,
+				"codeHeight" : 70,
 				"codeVisible" : false
 			}
 		]
@@ -382,7 +456,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-04-01T23:55:00.812+02:00"
+			"dateAndTimeString" : "2025-05-06T19:53:51.517+02:00"
 		}
 	},
 	"editEmail" : {
@@ -393,15 +467,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-04-30T01:26:38.948+02:00"
+			"dateAndTimeString" : "2025-05-06T19:53:51.517+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Repetition"
+		"title" : "Rekursion"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "f8b44753-20ee-0d00-a747-1aba03b7525c"
+		"uuid" : "60e94909-ddf0-0d00-961f-952f00d7d3ee"
 	}
 }

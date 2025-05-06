@@ -71,7 +71,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T14:38:32.695+02:00"
+									"dateAndTimeString" : "2025-05-06T18:55:27.499+02:00"
 								}
 							},
 							"uid" : {
@@ -81,7 +81,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Die ganze Umgebung ist (wie in den meisten anderen modernen Anwendungen auch) aus vielen Einzelteilen aufgebaut. Diese können via Ctrl+Shift+Alt+Klick untersucht werden (**Rückkehr via `x` oben rechts**)."
+							"string" : "Die ganze Umgebung ist (wie in den meisten anderen modernen Anwendungen auch) aus vielen Einzelteilen aufgebaut. Diese können via Ctrl+Shift+Alt+Klick im sogenannten {{gtPage:Driller|db=2j9m7db2i4oz116bexd7wbdxo}} untersucht werden (**Rückkehr via `x` oben rechts**)."
 						},
 						{
 							"__type" : "textSnippet",
@@ -368,15 +368,15 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T16:00:15.567+02:00"
+									"dateAndTimeString" : "2025-05-06T16:00:40.398+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "kGE5wNnwDQCA8e8qD/7/uQ=="
 							},
-							"string" : "Dies sind alle Absätze von anderen Seiten, welche einen Verweis auf diese Seite enthalten. Da in Glamorous Toolkit alles Objekte sind, kann die App sämtliche Absatz-Objekte nach Verweis-Objekten durchsuchen/filtern und diese hier dynamisch einfügen.",
-							"isHidden" : false
+							"string" : "Dies sind alle Absätze von anderen Seiten, welche einen Verweis auf diese Seite enthalten. Da in Glamorous Toolkit alles Objekte sind, kann die App sämtliche Absatz-Objekte nach Verweis-Objekten durchsuchen/filtern und diese hier dynamisch einfügen. Ein Klick darauf, geht zur verweisenden Seite.",
+							"isHidden" : true
 						}
 					]
 				},

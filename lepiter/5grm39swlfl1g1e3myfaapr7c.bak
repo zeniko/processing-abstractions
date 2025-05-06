@@ -137,17 +137,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-04T18:31:35.344+02:00"
+						"dateAndTimeString" : "2025-05-04T18:31:40.246+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "mOUZp7PwDQCZWLtuCqJFoA=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtTreePlusSourceFor:",
-				"elementHeight" : 189,
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtTokensPlusSourceFor:",
+				"elementHeight" : 273,
 				"codeHeight" : 50,
-				"codeVisible" : true
+				"codeVisible" : false
 			},
 			{
 				"__type" : "textSnippet",
@@ -174,7 +174,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T17:28:28.878+02:00"
+						"dateAndTimeString" : "2025-05-04T18:32:03.427+02:00"
 					}
 				},
 				"uid" : {
@@ -184,7 +184,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Dieses ergibt folgenden AST:"
+				"string" : "Daraus entsteht der folgende AST:"
 			},
 			{
 				"__type" : "elementSnippet",

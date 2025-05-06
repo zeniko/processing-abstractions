@@ -550,7 +550,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:13:18.686+02:00"
+						"dateAndTimeString" : "2025-05-06T17:13:22.624+02:00"
 					}
 				},
 				"uid" : {
@@ -560,7 +560,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Bearbeiten Sie [[Steuerwerk und Rechenwerk]] und ["
+				"string" : "1. Bearbeiten Sie [[Steuerwerk und Rechenwerk]] und [[Maschinensprache]]."
 			}
 		]
 	},

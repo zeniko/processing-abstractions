@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:51:32.193+02:00"
+						"dateAndTimeString" : "2025-05-06T18:51:12.672+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:51:49.586+02:00"
+						"dateAndTimeString" : "2025-05-06T18:51:21.55+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "6LrUU9vwDQCDQv5sC60Jfw=="
+					"uidString" : "AIE+KdzwDQC5L8Q1AynFow=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Ein Prozessor besteht letztlich aus Millionen bis Milliarden von Transistoren, damit kann er also eigentlich bloss aus Strom/Nicht-Strom als Eingabe Strom/Nicht-Strom als Ausgabe produzieren. Wir abstrahieren dies zuerst durch binäre Ziffern (1 = Strom, 0 = Nicht-Strom) und fassen diese, sofern es sich um parallele Leitungen handelt, zu Zahlen zusammen."
+				"string" : "⚠️ **Diese Seite nicht bearbeiten!** ⚠"
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:51:50.145+02:00"
+						"dateAndTimeString" : "2025-05-06T18:59:02.216+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,91 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:52:03.253+02:00"
+						"dateAndTimeString" : "2025-05-06T18:59:29.902+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "6KfmVNvwDQCDTvVmC60Jfw=="
+					"uidString" : "QC07RdzwDQC6PHVsAynFow=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Wenn wir programmieren, sehen wir dies allerdings nicht. Betrachten Sie folgendes Programm:"
+				"string" : "Die bisher angetroffenen Programme erzeugen alle eine statische Ausgabe: Sie zeichnen ein Bild."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T18:59:32.414+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T19:00:17.783+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "SPIHR9zwDQC8J1AxAynFow=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Interessant wird es, wenn die Ausgabe mehrfach hintereinander geschehen kann und - wie ein Daumenkino - in schneller Abfolge betrachtet wird: Ein Film ist eine schnelle Abfolge von Bildern!"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T19:00:19.632+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T19:00:33.317+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "mG/YSdzwDQCAYFjvAynFow=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Um Animationen zu erzeugen, verwendet Processing die folgende Struktur:"
 			},
 			{
 				"__type" : "processingSnippet",
@@ -92,7 +166,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:52:07.643+02:00"
+						"dateAndTimeString" : "2025-05-06T19:00:51.893+02:00"
 					}
 				},
 				"editEmail" : {
@@ -103,14 +177,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:05:57.935+02:00"
+						"dateAndTimeString" : "2025-05-06T19:53:09.101+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "kKPxVdvwDQCFHXXoC60Jfw=="
+					"uidString" : "CLfES9zwDQCB77WxAynFow=="
 				},
-				"code" : "# Merke die Zahl 2 in der Variable 'var'\rvar = 2\r# Nimm den Wert von 'var' und vergrössere ihn um 1\rvar = var + 1\r# Zeige den Wert von 'var' an\rprint(var)"
+				"code" : "def setup():\r\tsize(200, 200)\r\t# weitere Befehle, die nur einmal ausgeführt werden sollen\r\t...\r\rdef draw():\r\t# eine Aufzählung aller Variablen, welche von Bild zu Bild andere Werte erhalten sollen\r\tglobal x, y\r\t# Befehle, welche für jedes Bild (\"Frame\") der Animation ausgeführt werden\r\t..."
 			},
 			{
 				"__type" : "textSnippet",
@@ -126,7 +200,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:54:07.476+02:00"
+						"dateAndTimeString" : "2025-05-06T19:53:20.556+02:00"
 					}
 				},
 				"editEmail" : {
@@ -137,17 +211,125 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:55:59.01+02:00"
+						"dateAndTimeString" : "2025-05-06T19:57:12.263+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "gMQ+XNvwDQCKZ540C60Jfw=="
+					"uidString" : "4H9xB93wDQCU1QBvANfT7g=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Tatsächlich sieht der Prozessor vom obigen Programm vielmehr folgendes:"
+				"string" : "Beachten Sie dabei einerseits die Syntax der Zeilen mit `def` (diese führt [[Funktionen]] ein), welche vorerst Zeichen-für-Zeichen stimmen muss; und andererseits bei den darauf folgenden Befehlen das Einrücken (**Abstand zu linken Rand**), welcher einheitlich sein muss, damit der Computer erkennen kann, welche Befehle zusammengehören sollen."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T19:57:14.805+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T19:57:27.866+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "CNtnFd3wDQCe7ZbjANfT7g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Konkret könnte ein Beispiel folgendermassen aussehen:"
+			},
+			{
+				"__type" : "processingSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T19:57:31.767+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T20:08:23.005+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "2KxqFt3wDQCgDGmoANfT7g=="
+				},
+				"code" : "x = 0\r\rdef setup():\r\tsize(200, 200)\r\rdef draw():\r\tglobal x\r\tbackground(192, 192, 192)\r\trect(x, 50, 50, 100)\r\tx = x + 1"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T19:57:29.128+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T20:08:03.175+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "WGRCFt3wDQCgBT9HANfT7g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Was zu folgender Ausgabe führt:"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -163,7 +345,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:54:25.814+02:00"
+						"dateAndTimeString" : "2025-05-06T20:07:32.141+02:00"
 					}
 				},
 				"editEmail" : {
@@ -174,17 +356,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T21:52:51.003+02:00"
+						"dateAndTimeString" : "2025-05-06T20:07:37.607+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "IPItXtvwDQCM5w8vC60Jfw=="
+					"uidString" : "4KMzOt3wDQCicJ05ANfT7g=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtBytecodeFor:",
-				"elementHeight" : 251,
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) second) viewSelector: #gtOutputFor:",
+				"elementHeight" : 244,
 				"codeHeight" : 50,
-				"codeVisible" : true
+				"codeVisible" : false
 			},
 			{
 				"__type" : "textSnippet",
@@ -200,7 +382,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:56:04.977+02:00"
+						"dateAndTimeString" : "2025-05-06T20:08:44.162+02:00"
 					}
 				},
 				"editEmail" : {
@@ -211,86 +393,12 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T20:40:17.44+02:00"
+						"dateAndTimeString" : "2025-05-06T20:08:47.411+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "aL/1XdvwDQCM4hZ4C60Jfw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Davon ist jeweils der blau hervorgehobene Code an der links davon angegebenen Adresse gespeichert. Rechts daneben ist für menschliche Leser:innen eine knappe Übersetzung des Codes angezeigt (welche Sie noch nicht verstehen müssen)."
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:01:36.66+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:02:41.799+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "ICrcd9vwDQCVDqtBC60Jfw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Wie das obige Programm in unten stehende Zahlen übersetzt wird, betrachten wir in [[Funktionen eines Compilers]]; was der Prozessor mit den Zahlen macht, auf den folgenden Seiten."
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:02:51.506+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:02:55.637+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "aDVSfNvwDQCYvohNC60Jfw=="
+					"uidString" : "uPpaPt3wDQCjUqKaANfT7g=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
@@ -311,7 +419,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:02:57.71+02:00"
+						"dateAndTimeString" : "2025-05-06T20:08:48.811+02:00"
 					}
 				},
 				"editEmail" : {
@@ -322,17 +430,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:03:56.246+02:00"
+						"dateAndTimeString" : "2025-05-06T20:11:07.144+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "sOOwfNvwDQCZDiFoC60Jfw=="
+					"uidString" : "EIjFPt3wDQCjokHHANfT7g=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Führen Sie das oben stehende Processing-Programm aus (Klick auf \" ▶ \" oder Klick in den Code und Ctrl+R). Sehen Sie das korrekte Ergebnis?"
+				"string" : "1. Passen Sie obige Programm so an, dass sich das Rechteck von rechts nach links bewegt."
 			},
 			{
 				"__type" : "textSnippet",
@@ -348,7 +456,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:03:57.761+02:00"
+						"dateAndTimeString" : "2025-05-06T20:11:08.522+02:00"
 					}
 				},
 				"editEmail" : {
@@ -359,17 +467,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:05:41.963+02:00"
+						"dateAndTimeString" : "2025-05-06T20:12:15.84+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "6DFFgNvwDQCc2HIKC60Jfw=="
+					"uidString" : "EF4ZR93wDQCpIVWUANfT7g=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "2. Verändern Sie im Programm einzelne Zahlen (der Maschinencode sollte automatisch angepasst werden; falls nicht, klicken Sie auf \" ▶a \" bzw. Ctrl+D). Wie verändert sich der Maschinencode?"
+				"string" : "2. Passen Sie das Programm so an, dass sich das Rechteck gleichzeitig kleiner wird (führen Sie dazu eine neue Variable ein)."
 			},
 			{
 				"__type" : "textSnippet",
@@ -385,7 +493,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:06:00.494+02:00"
+						"dateAndTimeString" : "2025-05-06T20:11:53.269+02:00"
 					}
 				},
 				"editEmail" : {
@@ -396,52 +504,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:06:41.582+02:00"
+						"dateAndTimeString" : "2025-05-06T20:12:50.826+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "4OuVh9vwDQChkDKyC60Jfw=="
+					"uidString" : "ICPESd3wDQCqnar9ANfT7g=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "3. Verändern Sie das Pluszeichen zu einem Minus, Mal und wieder zurück. Was erkennen Sie nun im Code?"
-			},
-			{
-				"__type" : "commentSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T20:21:30.573+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T20:21:34.279+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "4BgtbN3wDQC139o/ANfT7g=="
-				},
-				"string" : "Zur Kontrolle können Sie in der folgenden Ansicht den direkten Zusammenhang zwischen Processing-Befehlen und Maschinencodes durch Klicken untersuchen:",
-				"isHidden" : true
+				"string" : "3. Passen Sie das Programm so an, dass das Rechteck an den Seiten abprallt. (Tipp: Was ist nun zusätzlich *variabel*?)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -457,7 +530,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T20:21:33.159+02:00"
+						"dateAndTimeString" : "2025-05-06T20:12:53.92+02:00"
 					}
 				},
 				"editEmail" : {
@@ -468,91 +541,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T20:21:33.159+02:00"
+						"dateAndTimeString" : "2025-05-06T20:13:20.038+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "CLH/Zd3wDQCyWJPBANfT7g=="
+					"uidString" : "AJ1hTd3wDQCvTSCVANfT7g=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
-			},
-			{
-				"__type" : "elementSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T20:20:47.51+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T20:20:57.55+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "8AWcad3wDQC1jRxNANfT7g=="
-				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtBytecodePlusSourceFor:",
-				"elementHeight" : 228,
-				"codeHeight" : 61,
-				"codeVisible" : false
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:05:43.68+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:05:43.68+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "AGSVhtvwDQChNhmSC60Jfw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : ""
+				"string" : "4. Erstellen Sie eine eigene kleine \"C"
 			}
 		]
 	},
@@ -564,7 +563,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-05-06T17:51:32.157+02:00"
+			"dateAndTimeString" : "2025-05-06T18:51:12.651+02:00"
 		}
 	},
 	"editEmail" : {
@@ -575,15 +574,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-05-06T17:51:32.157+02:00"
+			"dateAndTimeString" : "2025-05-06T18:51:12.651+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Hochsprache und Maschinensprache"
+		"title" : "Animationen"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "482ed453-dbf0-0d00-8341-fbbc0bad097f"
+		"uuid" : "f82e3e29-dcf0-0d00-b92e-fe1f0329c5a3"
 	}
 }

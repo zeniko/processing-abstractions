@@ -364,7 +364,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:09:43.361+02:00"
+						"dateAndTimeString" : "2025-05-06T17:09:58.936+02:00"
 					}
 				},
 				"uid" : {
@@ -374,7 +374,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "2. Beginnen Sie dann bei [[Maschinensprache und Prozessor]]  (dabei werden Sie kurz [[Programmieren mit Processing]] (nur die erste Seite)."
+				"string" : "2. Beginnen Sie dann bei [[Maschinensprache und Prozessor]]  (dabei werden Sie kurz von [[Programmieren mit Processing]] die erste Seite repetieren)."
 			},
 			{
 				"__type" : "textSnippet",

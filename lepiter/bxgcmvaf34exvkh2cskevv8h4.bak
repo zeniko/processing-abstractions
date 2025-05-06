@@ -539,7 +539,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T15:55:55.414+02:00"
+						"dateAndTimeString" : "2025-05-06T15:55:58.881+02:00"
 					}
 				},
 				"uid" : {
@@ -549,7 +549,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Bevor Sie dies selbst machen, müssen Sie allerdings darauf achten, dass eine Funktion immer überprüft, ob sie sich selbst noch weiter aufrufen soll! Andernfalls riskieren Sie ein Programm, welches nie endet, da sich die Funktion immer wieder selbs"
+				"string" : "Bevor Sie dies selbst machen, müssen Sie allerdings darauf achten, dass eine Funktion immer überprüft, ob sie sich selbst noch weiter aufrufen soll! Andernfalls riskieren Sie ein Programm, welches nie endet, da sich die Funktion immer wieder selbst aufruft..."
 			},
 			{
 				"__type" : "textSnippet",
@@ -903,12 +903,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-04-01T23:23:58.426+02:00"
+			"dateAndTimeString" : "2025-05-06T19:54:16.318+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Funktionen und Rekursion"
+		"title" : "Funktionen"
 	},
 	"uid" : {
 		"__type" : "uuid",

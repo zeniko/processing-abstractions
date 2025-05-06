@@ -150,7 +150,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-05-06T13:49:10.527+02:00"
+												"dateAndTimeString" : "2025-05-06T21:57:50.278+02:00"
 											}
 										},
 										"uid" : {
@@ -160,7 +160,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "**Seiten können nicht direkt durchsucht werden.** Um Seiten zu finden, können Sie die Such-Funktion beim Inhaltsverzeichnis 🔍 verwenden. Um innerhalb einer Seite zu suchen, klicken Sie oben auf **`i`** und anschliessend auf das erscheinende 🔍.  Zurück kommen Sie via **ĭ**."
+										"string" : "**Seiten können nicht direkt durchsucht werden.** Um Seiten zu finden, können Sie die Such-Funktion beim Inhaltsverzeichnis 🔍 verwenden. Um innerhalb einer Seite zu suchen, klicken Sie oben auf **`i`** und anschliessend auf das erscheinende 🔍. Zurück kommen Sie via **ĭ**."
 									},
 									{
 										"__type" : "textSnippet",

@@ -174,14 +174,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T17:57:10.02+02:00"
+						"dateAndTimeString" : "2025-05-06T21:53:18.07+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "aIQeu1TwDQCTFTpUCEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) viewSelector: #gtAbstractionsFor:",
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) viewSelector: #gtAbstractionsFor:",
 				"elementHeight" : 538,
 				"codeHeight" : 50,
 				"codeVisible" : false

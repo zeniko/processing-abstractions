@@ -174,14 +174,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:55:13.436+02:00"
+						"dateAndTimeString" : "2025-05-06T21:52:51.003+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "IPItXtvwDQCM5w8vC60Jfw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtBytecodeFor:",
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtBytecodeFor:",
 				"elementHeight" : 251,
 				"codeHeight" : 50,
 				"codeVisible" : false
@@ -211,7 +211,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:01:35.527+02:00"
+						"dateAndTimeString" : "2025-05-06T20:40:17.44+02:00"
 					}
 				},
 				"uid" : {
@@ -221,7 +221,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Davon ist jeweils der blau hervorgehobene Code an der angegebenen Adresse gespeichert. Rechts daneben ist für menschliche Leser:innen eine knappe Übersetzung des Codes angezeigt (welche Sie noch nicht verstehen müssen)."
+				"string" : "Davon ist jeweils der blau hervorgehobene Code an der links davon angegebenen Adresse gespeichert. Rechts daneben ist für menschliche Leser:innen eine knappe Übersetzung des Codes angezeigt (welche Sie noch nicht verstehen müssen)."
 			},
 			{
 				"__type" : "textSnippet",
@@ -407,6 +407,115 @@
 					"__type" : "textStyle"
 				},
 				"string" : "3. Verändern Sie das Pluszeichen zu einem Minus, Mal und wieder zurück. Was erkennen Sie nun im Code?"
+			},
+			{
+				"__type" : "commentSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T20:21:30.573+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T20:21:34.279+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "4BgtbN3wDQC139o/ANfT7g=="
+				},
+				"string" : "Zur Kontrolle können Sie in der folgenden Ansicht den direkten Zusammenhang zwischen Processing-Befehlen und Maschinencodes durch Klicken untersuchen:",
+				"isHidden" : true
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T20:21:33.159+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T20:21:33.159+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "CLH/Zd3wDQCyWJPBANfT7g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			},
+			{
+				"__type" : "elementSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T20:20:47.51+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T20:20:57.55+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "8AWcad3wDQC1jRxNANfT7g=="
+				},
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet:(thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtBytecodePlusSourceFor:",
+				"elementHeight" : 228,
+				"codeHeight" : 61,
+				"codeVisible" : false
 			},
 			{
 				"__type" : "textSnippet",
