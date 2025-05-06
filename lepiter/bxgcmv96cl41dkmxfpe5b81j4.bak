@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T23:01:09.88+02:00"
+						"dateAndTimeString" : "2025-04-29T23:01:24.94+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,81 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Die Befehlsübersicht von Processing ist im [Original](https://processing.org/reference/) nur auf Englisch verfügbar. Soweit gilt dasselbe auch "
+				"string" : "Die Befehlsübersicht von Processing ist im [Original](https://processing.org/reference/) nur auf Englisch verfügbar. Soweit gilt dasselbe auch für die hier verwendete Processing-Variante: {{gtPage:Processing API|db=dl0rc62x02fk8k57e43hr8acw}}"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:13:23.788+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:14:35.151+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "+CRHHtnwDQCJOPJVD/7/uQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Beachten Sie, dass das hier verwendete Processing nicht exakt dem bisher verwendeten Processing mit Python-Syntax entspricht. Hier handelt es sich um eine von Grund auf neue Implementierung, welche nur das kann, was ich ihr explizit beigebracht habe."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:14:38.482+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:19:10.858+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "aOK6ItnwDQCObzEwD/7/uQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Sofern Sie \"unter die Haube\" schauen möchten, finden Sie hier eine Übersicht über alle implementierten Funktionen: {{gtMethod:ProcessingTranspiler>>#visitFunctionCallExpression:}} (klicken Sie auf den Pfeil, bei Interesse auf weitere Pfeile, ...)."
 			}
 		]
 	},

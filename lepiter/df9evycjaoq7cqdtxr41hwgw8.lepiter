@@ -364,7 +364,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T15:03:16.57+02:00"
+						"dateAndTimeString" : "2025-05-06T15:41:10.171+02:00"
 					}
 				},
 				"uid" : {
@@ -374,7 +374,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "2. Anschliessend repetieren Sie kurz [[Programmieren mit Processing]]."
+				"string" : "2. Anschliessend repetieren Sie kurz [[Programmieren mit Processing]] (nur die erste Seite)."
 			},
 			{
 				"__type" : "textSnippet",

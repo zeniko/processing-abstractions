@@ -140,14 +140,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-04T18:34:35.053+02:00"
+						"dateAndTimeString" : "2025-05-06T15:12:49.912+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "wH9nmVLwDQC+03E/CEFArw=="
 				},
-				"code" : "size(200, 300)\r# Variable für Farbe und Durchmesser\rx = 200\rwhile x > 0:\r\t# Zeichne konzentrische Kreise in ändernder Farbe\r\tfill(200 - x, 128, x)\r\tellipse(100, 100, x, x)\r\tx = x - 20"
+				"code" : "# Dimension des Ausgabe-Koordinatensystems (nicht in Pixel, die Ausgabe passend gezoomt)\rsize(200, 200)\r# Variable für Farbe und Durchmesser (hier beides)\rvar = 200\r# Schleife, wird wiederholt, solange die Bedingung wahr ist\rwhile var > 0:\r\t# Zeichne konzentrische Kreise in ändernder Farbe\r\tfill(200 - var, 128, var)\r\tellipse(100, 100, var, var)\r\tvar = var - 30"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -184,7 +184,7 @@
 				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtOutputFor:",
 				"elementHeight" : 245,
 				"codeHeight" : 28,
-				"codeVisible" : true
+				"codeVisible" : false
 			},
 			{
 				"__type" : "textSnippet",
@@ -216,7 +216,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:46:13.898+02:00"
+									"dateAndTimeString" : "2025-05-06T15:12:03.923+02:00"
 								}
 							},
 							"uid" : {
@@ -226,7 +226,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "1. Ändern Sie im obigen Programm einzelne Zahlen (und klicken Sie auf den *Refresh*-Knopf). Können Sie so bestimmen, was die einzelnen Zahlen bedeuten?"
+							"string" : "1. Ändern Sie im obigen Programm einzelne Zahlen (falls sich nichts ändert, klicken Sie auf \" ▶ \"). Können Sie so bestimmen, was die einzelnen Zahlen bedeuten?"
 						},
 						{
 							"__type" : "textSnippet",
@@ -323,7 +323,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:46:21.655+02:00"
+						"dateAndTimeString" : "2025-05-06T15:11:19.529+02:00"
 					}
 				},
 				"uid" : {
@@ -333,7 +333,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "## Aufgaben"
+				"string" : "## Aufgaben 📝"
 			}
 		]
 	},

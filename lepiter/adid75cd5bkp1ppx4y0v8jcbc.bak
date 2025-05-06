@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:38:16.989+02:00"
+						"dateAndTimeString" : "2025-04-30T00:38:33.343+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Teilweise beginnt das Programmieren mit \"turtles\". Folgendes Beispiel zei"
+				"string" : "Teilweise beginnt das Programmieren mit \"turtles\". Folgendes Beispiel zeigt, wie dies in Processing mit wenig Aufwand direkt implementiert werden kann:"
 			},
 			{
 				"__type" : "processingSnippet",
@@ -66,14 +66,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:36:42.816+02:00"
+						"dateAndTimeString" : "2025-04-30T00:38:37.632+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "0MbMpFPwDQCxj0WBCEFArw=="
 				},
-				"code" : "size(400, 400)\rdraw_n_eck(5)\r\rmove(0, height / 2, 0)\rkochpart(width, int(width / 3 ** 4))\r\rdef draw_n_eck(n):\r\n\tw = width / n * 3\r\n\tmove((width - w) / 2, 10, 0)\r\n\ti = 0\r\n\twhile i < n:\r\n\t\tfwd(w)\r\n\t\tturn(360 / n)\r\n\t\ti = i + 1\r\n\r\ndef kochpart(siz, limit):\r\n\tif siz < limit:\r\n\t\tfwd(siz)\r\n\t\treturn\r\n\t\r\n\tkochpart(siz / 3, limit)\r\n\tturn(-60)\r\n\tkochpart(siz / 3, limit)\r\n\tturn(120)\r\n\tkochpart(siz / 3, limit)\r\n\tturn(-60)\r\n\tkochpart(siz / 3, limit)\r\n\r\n# ****************************************** #\r\n# Schildkrötenbefehle: move, fwd, turn       #\r# ****************************************** #\r\n\r# x-/y-Koordinate der Schildkröte und Blickrichtung\r\nt_x = 0\r\nt_y = 0\r\nt_angle = 0\r\n\r\n# verschiebt die Schildkröte (angle gibt die Blickrichtung an)\r\ndef move(x, y, angle):\r\tglobal t_x, t_y, t_angle\r\n\tt_x = x\r\n\tt_y = y\r\n\tt_angle = angle\r\n\r\n# bewegt die Schildkröte um d nach vorne\r\ndef fwd(d):\r\tglobal t_x, t_y\r\n\toldX = t_x\r\n\toldY = t_y\r\n\tt_x = t_x + d * cos(radians(t_angle))\r\n\tt_y = t_y + d * sin(radians(t_angle))\r\n\tline(oldX, oldY, t_x, t_y)\r\n\r\n# dreht die Schildkröte um angle Grad\r\ndef turn(angle):\r\tglobal t_angle\r\n\tt_angle = t_angle + angle\r\n"
+				"code" : "size(400, 400)\rdraw_n_eck(5)\r\rmove(0, height / 2, 0)\rkochpart(width, int(width / 3 ** 4))\r\rdef draw_n_eck(n):\r\n\tw = width / n * 3\r\n\tmove((width - w) / 2, 10, 0)\r\n\ti = 0\r\n\twhile i < n:\r\n\t\tfwd(w)\r\n\t\tturn(360 / n)\r\n\t\ti = i + 1\r\n\r\ndef kochpart(siz, limit):\r\n\tif siz < limit:\r\n\t\tfwd(siz)\r\n\t\treturn\r\n\t\r\n\tkochpart(siz / 3, limit)\r\n\tturn(-60)\r\n\tkochpart(siz / 3, limit)\r\n\tturn(120)\r\n\tkochpart(siz / 3, limit)\r\n\tturn(-60)\r\n\tkochpart(siz / 3, limit)\r\n\r\n# ****************************************** #\r\n# Schildkrötenbefehle: move, fwd, turn       #\r# ****************************************** #\r\n\r# x-/y-Koordinate der Schildkröte und Blickrichtung\r\nt_x = 0\r\nt_y = 0\r\nt_angle = 0\r\n\r\n# verschiebt die Schildkröte (angle gibt die Blickrichtung an)\r\ndef move(x, y, angle):\r\tglobal t_x, t_y, t_angle\r\n\tt_x = x\r\n\tt_y = y\r\n\tt_angle = angle\r\n\r\n# bewegt die Schildkröte um d nach vorne\r\ndef fwd(d):\r\tglobal t_x, t_y\r\n\toldX = t_x\r\n\toldY = t_y\r\n\tt_x = t_x + d * cos(radians(t_angle))\r\n\tt_y = t_y + d * sin(radians(t_angle))\r\n\tline(oldX, oldY, t_x, t_y)\r\n\r\n# dreht die Schildkröte um angle Grad\r\ndef turn(angle):\r\tglobal t_angle\r\n\tt_angle = t_angle + angle"
 			}
 		]
 	},

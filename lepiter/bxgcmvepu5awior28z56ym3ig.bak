@@ -8,6 +8,43 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:41:43.432+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:42:23.839+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "sLC2ftnwDQCT5MlED/7/uQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "️ **Diese Seite nicht bearbeiten!** ⚠"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
 					"items" : [
 						{
 							"__type" : "textSnippet",
@@ -67,7 +104,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T23:02:44.382+02:00"
+						"dateAndTimeString" : "2025-05-06T15:38:49.36+02:00"
 					}
 				},
 				"uid" : {
@@ -77,7 +114,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Achten Sie darauf, dass Processing erkennt, welche Befehle zusammengehören, indem es jeweils den Abstand zum linken Rand (das Einrücken) beachtet. Anders formuliert:"
+				"string" : "Achten Sie darauf, dass Processing erkennt, welche Befehle zusammengehören, indem es jeweils den **Abstand zum linken Rand** (das Einrücken) beachtet. Anders formuliert:"
 			},
 			{
 				"__type" : "textSnippet",
@@ -214,7 +251,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T23:42:22.392+02:00"
+									"dateAndTimeString" : "2025-05-04T18:35:02.828+02:00"
 								}
 							},
 							"uid" : {
@@ -224,7 +261,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "1. Verändern Sie die Werte der Variablen und probieren Sie aus, welche Auswirkung diese hat (Tipp: Ctrl+G führt das Programm jeweils aus)."
+							"string" : "1. Verändern Sie die Werte der Variablen und probieren Sie aus, welche Auswirkung diese hat (Tipp: Ctrl+R führt das Programm jeweils aus)."
 						},
 						{
 							"__type" : "textSnippet",
@@ -284,7 +321,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T23:39:26.049+02:00"
+						"dateAndTimeString" : "2025-05-06T15:39:25.858+02:00"
 					}
 				},
 				"uid" : {
@@ -294,7 +331,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "## Aufgaben"
+				"string" : "## Aufgaben 📝"
 			}
 		]
 	},
