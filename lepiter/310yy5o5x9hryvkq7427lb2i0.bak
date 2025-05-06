@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:08:31.02+02:00"
+						"dateAndTimeString" : "2025-05-06T11:09:58.978+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:08:39.587+02:00"
+						"dateAndTimeString" : "2025-05-06T11:09:58.978+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "+EuFstXwDQCdGfx3BMwnMw=="
+					"uidString" : "0HHDt9XwDQCfcWWHBMwnMw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Willkommen bei \"Glamorous Toolkit\""
+				"string" : ""
 			},
 			{
 				"__type" : "textSnippet",
@@ -60,7 +60,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T21:55:09.562+02:00"
+									"dateAndTimeString" : "2025-04-29T22:28:23.259+02:00"
 								}
 							},
 							"editEmail" : {
@@ -71,17 +71,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:11:03.934+02:00"
+									"dateAndTimeString" : "2025-04-29T22:29:46.703+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "wKbv5VHwDQCQnJ4fCEFArw=="
+								"uidString" : "2KU/YFLwDQChU5wGCEFArw=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "... ein Notizbuch ähnlich zu OneNote oder [Jupyter](https://jupyter.org/try), welches interaktive Inhalte enthalten kann."
+							"string" : "Sie können in diesen Seiten alles verändern! Diese Änderungen sehen nur Sie und werden beim Schliessen der App auf Ihrer Festplatte gespeichert (sofern Sie **Save and quit** wählen)."
 						},
 						{
 							"__type" : "textSnippet",
@@ -97,7 +97,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T21:58:37.757+02:00"
+									"dateAndTimeString" : "2025-04-29T22:29:11.84+02:00"
 								}
 							},
 							"editEmail" : {
@@ -108,17 +108,54 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T12:00:11.143+02:00"
+									"dateAndTimeString" : "2025-04-29T22:31:37.144+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "SEKd9lHwDQCVIv7cCEFArw=="
+								"uidString" : "MB3vY1LwDQCkop86CEFArw=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "... eine Entwicklungsumgebung, in welcher Programme unter anderem in der Sprache [Smalltalk](https://de.wikipedia.org/wiki/Smalltalk_(Programmiersprache)) geschrieben werden können (und mit externer Unterstützung in Processing, Python, JavaScript, ...)"
+							"string" : "Falls Sie einzelne Seiten backupen möchten, klicken Sie ganz unten auf `zeniko:processing-abstractions` und ändern Sie es auf `Documents\\lepiter\\default`. Dann werden diese Seiten ausserhalb der Datenbank der App gespeichert:"
+						},
+						{
+							"__type" : "elementSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T22:35:01.191+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T22:35:04.839+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "WNHBeFLwDQCq8ZwECEFArw=="
+							},
+							"code" : "GtInspector newOn: LeDatabasesRegistry uniqueInstance defaultPrimaryDatabase monitor localRoot",
+							"elementHeight" : 260,
+							"codeHeight" : 50,
+							"codeVisible" : false
 						},
 						{
 							"__type" : "textSnippet",
@@ -134,7 +171,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:00:38.803+02:00"
+									"dateAndTimeString" : "2025-04-29T22:31:38.432+02:00"
 								}
 							},
 							"editEmail" : {
@@ -145,17 +182,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:12:07.932+02:00"
+									"dateAndTimeString" : "2025-04-29T22:38:40.343+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "OEbU/VHwDQCXu8snCEFArw=="
+								"uidString" : "AParbFLwDQCqtMSUCEFArw=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "... ein Betriebssystem im Betriebssystem, welches viele der grundlegenden Dienste anbietet, die Windows, macOS, Linux, iOS, Android, etc. auch bieten: Ein- und Ausgabe, Dateisystem, Suche, Internetverbindung, etc."
+							"string" : "Was Sie hier sehen, ist eine Ordneransicht, welche direkt in dieser Seite dynamisch eingebettet ist. Sie können diese entweder in Windows öffnen (mit dem Play-Icon) oder nebenan vergrössern (mit dem **i**-Icon)."
 						},
 						{
 							"__type" : "textSnippet",
@@ -171,7 +208,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:25:24.847+02:00"
+									"dateAndTimeString" : "2025-04-29T22:38:40.904+02:00"
 								}
 							},
 							"editEmail" : {
@@ -182,17 +219,54 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:12:41.26+02:00"
+									"dateAndTimeString" : "2025-04-29T22:40:36.193+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "mIFnVlLwDQCcYQRwCEFArw=="
+								"uidString" : "QF/ahVLwDQCwSvIjCEFArw=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Letztlich ist Glamorous Toolkit allerdings eine dynamische, formbare Umgebung, welche den eigenen Bedürfnissen angepasst und in der *alles* verknüpft und automatisiert werden kann."
+							"string" : "(Teil-)Ansichten können Sie wie gewohnt mit einem Klick auf **x** schliessen, zum Vergrössern/Verkleinern von Ansichten finden Sie oben links ein `+`bzw. `-`. (**Vorsicht**: Auf dieser Seite können Sie einzelne Abschnitte auch mit **x** löschen, diese sind dann aber weg!)"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T22:42:37.254+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-29T22:43:45.428+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "oOtsk1LwDQC6GDQDCEFArw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Leider hakt die Tastatur manchmal. In dem Fall drücken Sie kurz zweimal hintereinander die Windows-Taste (um die App kurz in den Hintergrund zu verschieben)."
 						}
 					]
 				},
@@ -204,7 +278,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T21:53:09.284+02:00"
+						"dateAndTimeString" : "2025-04-29T22:26:41.482+02:00"
 					}
 				},
 				"editEmail" : {
@@ -215,17 +289,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:11:02.448+02:00"
+						"dateAndTimeString" : "2025-04-29T22:28:05.39+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "oCgJ41HwDQCPdrGMCEFArw=="
+					"uidString" : "uMH4WlLwDQCgFuyWCEFArw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Glamorous Toolkit ist nicht bloss eine App. Es ist ..."
+				"string" : "## Wichtig"
 			},
 			{
 				"__type" : "textSnippet",
@@ -241,7 +315,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:22:23.996+02:00"
+						"dateAndTimeString" : "2025-05-06T11:21:34.593+02:00"
 					}
 				},
 				"editEmail" : {
@@ -252,61 +326,23 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:53:19.833+02:00"
+						"dateAndTimeString" : "2025-05-06T11:21:34.593+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "YIQr5NXwDQCu8sG4BMwnMw=="
+					"uidString" : "6K854dXwDQCunGZzBMwnMw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "## Aufgaben 📝"
+				"string" : ""
 			},
 			{
-				"__type" : "textSnippet",
+				"__type" : "pharoSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:15:57.557+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:59:45.772+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "qJC3zNXwDQCps8j5BMwnMw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[Wichtige Hinweise]] und [[Reflexion]]"
-						}
-					]
+					"items" : [ ]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -316,7 +352,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:15:19.475+02:00"
+						"dateAndTimeString" : "2025-05-06T11:21:39.413+02:00"
 					}
 				},
 				"editEmail" : {
@@ -327,17 +363,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:17:20.984+02:00"
+						"dateAndTimeString" : "2025-05-06T11:21:51.282+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "ONfdytXwDQCnjmfEBMwnMw=="
+					"uidString" : "4BiD4dXwDQCuo/aIBMwnMw=="
 				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst mindestens folgende Unterseiten durch:"
+				"code" : ""
 			}
 		]
 	},
@@ -349,7 +382,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T17:28:28.389+01:00"
+			"dateAndTimeString" : "2025-05-06T11:09:58.929+02:00"
 		}
 	},
 	"editEmail" : {
@@ -360,15 +393,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T17:28:43.323+01:00"
+			"dateAndTimeString" : "2025-05-06T11:09:58.929+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Arbeiten mit Glamorous Toolkit"
+		"title" : "Wichtige Hinweise"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "887297f2-8eed-0d00-829f-edbd080ebfe2"
+		"uuid" : "68b2c2b7-d5f0-0d00-9f70-ffe204cc2733"
 	}
 }

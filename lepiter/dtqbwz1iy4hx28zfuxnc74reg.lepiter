@@ -71,7 +71,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:02:00.212+02:00"
+									"dateAndTimeString" : "2025-05-06T11:04:41.562+02:00"
 								}
 							},
 							"uid" : {
@@ -81,7 +81,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "... was Glamorous Toolkit ist, wie es sich von anderen Entwicklungsumgebungen unterscheidet und wie Sie damit umgehen (unter [[Arbeiten mit Glamorous Toolkit]])."
+							"string" : "... zuerst kurz, was diess \"Glamorous Toolkit\" ist, wie es sich von anderen Entwicklungsumgebungen unterscheidet und wie Sie damit umgehen (unter [[Arbeiten mit Glamorous Toolkit]])."
 						},
 						{
 							"__type" : "textSnippet",
@@ -219,7 +219,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:08:26.57+02:00"
+									"dateAndTimeString" : "2025-05-06T11:05:37.119+02:00"
 								}
 							},
 							"uid" : {
@@ -229,7 +229,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "... und finden [[Weiterführende Ideen]] für ein eigenes Informatikprojekt."
+							"string" : "... unter [[Weiterführende Ideen]] Vorschläge für ein eigenes Informatikprojekt kennen."
 						}
 					]
 				},
@@ -278,7 +278,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:13:40.256+02:00"
+						"dateAndTimeString" : "2025-05-06T11:22:36.695+02:00"
 					}
 				},
 				"editEmail" : {
@@ -289,17 +289,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:14:35+02:00"
+						"dateAndTimeString" : "2025-05-06T11:47:06.787+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "AHFtvx/uDQClOt4kAft/yQ=="
+					"uidString" : "2Ent5NXwDQCu+IY9BMwnMw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Bitte wählen Sie nun im Inhaltsverzeichnis (*ToC*) links oder durch einen Doppelklick auf folgenden Link das erste Kapitel: [[Arbeiten mit Glamorous Toolkit]]."
+				"string" : "## Aufgaben 📝"
 			},
 			{
 				"__type" : "textSnippet",
@@ -315,7 +315,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:11:20.161+02:00"
+						"dateAndTimeString" : "2025-05-06T11:22:43.94+02:00"
 					}
 				},
 				"editEmail" : {
@@ -326,7 +326,191 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:11:26.368+02:00"
+						"dateAndTimeString" : "2025-05-06T11:48:00.034+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "oNZb5dXwDQCvOAMoBMwnMw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Sie werden auf diesen Seiten immer wieder Aufgaben finden (mit dem Symbol 📝). Bearbeiten Sie diese, überprüfen Sie sich selbst und holen Sie Hilfe, falls etwas nicht klappt."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T11:48:17.847+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T11:48:23.412+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "WCjJQNbwDQCzYM+5BMwnMw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Klicken Sie auf das folgende Symbol:"
+						},
+						{
+							"__type" : "commentSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T11:48:43.688+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T11:50:51.697+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "oGd+QNbwDQCzXLPEBMwnMw=="
+							},
+							"string" : "Gut gemacht 😉. Falls eine Aufgabe Lösungen hat, stehen diese hier. Sie können sämtliche Lösungen einer Seite mit dem gelben Icon in der oberen rechten Ecke der Seite ein- bzw. ausblenden (das Icon fehlt, falls es keine Lösungen hat). Klicken Sie nun auf das Icon...",
+							"isHidden" : true
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-01T23:13:40.256+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T11:52:08.674+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "AHFtvx/uDQClOt4kAft/yQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Bitte wählen Sie im Inhaltsverzeichnis (*ToC*) links oder, falls dieses nicht sichtbar ist,  durch einen Klick auf folgenden Link das erste Kapitel: [[Arbeiten mit Glamorous Toolkit]]."
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T11:51:31.697+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T11:51:59.574+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "+DlXTNbwDQC7aXP2BMwnMw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Machen Sie nun als erstes bitte folgendes:"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T11:52:38.325+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T11:52:41.64+02:00"
 					}
 				},
 				"uid" : {
@@ -336,7 +520,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "## Hinweis"
+				"string" : "## Impressum"
 			},
 			{
 				"__type" : "textSnippet",

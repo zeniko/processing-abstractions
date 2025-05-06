@@ -8,6 +8,43 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T11:08:31.02+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T11:08:39.587+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "+EuFstXwDQCdGfx3BMwnMw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Willkommen bei \"Glamorous Toolkit\""
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
 					"items" : [
 						{
 							"__type" : "textSnippet",
@@ -34,7 +71,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T21:58:35.131+02:00"
+									"dateAndTimeString" : "2025-05-06T11:11:03.934+02:00"
 								}
 							},
 							"uid" : {
@@ -44,7 +81,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "ein Notizbuch ähnlich zu OneNote oder [Jupyter](https://jupyter.org/try), welches interaktive Inhalte enthalten kann (und via Git mit der Cloud synchronisiert werden kann)"
+							"string" : "... ein Notizbuch ähnlich zu OneNote oder [Jupyter](https://jupyter.org/try), welches interaktive Inhalte enthalten kann."
 						},
 						{
 							"__type" : "textSnippet",
@@ -71,7 +108,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-02T12:19:43.647+02:00"
+									"dateAndTimeString" : "2025-05-06T12:00:11.143+02:00"
 								}
 							},
 							"uid" : {
@@ -81,7 +118,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "eine Entwicklungsumgebung, in welcher Programme in der Sprache [Smalltalk](https://de.wikipedia.org/wiki/Smalltalk_(Programmiersprache)) geschrieben werden können"
+							"string" : "... eine Entwicklungsumgebung, in welcher Programme unter anderem in der Sprache [Smalltalk](https://de.wikipedia.org/wiki/Smalltalk_(Programmiersprache)) geschrieben werden können (und mit externer Unterstützung in Processing, Python, JavaScript, ...)"
 						},
 						{
 							"__type" : "textSnippet",
@@ -108,7 +145,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:24:42.005+02:00"
+									"dateAndTimeString" : "2025-05-06T11:12:07.932+02:00"
 								}
 							},
 							"uid" : {
@@ -118,7 +155,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "ein Betriebssystem im Betriebssystem, welches viele der grundlegenden Dienste, die z.B. Windows, macOS, Linux, iOS, Android, etc. bieten: Datenein- und Ausgabe, Dateisystem, Suche, Internetverbindung, etc."
+							"string" : "... ein Betriebssystem im Betriebssystem, welches viele der grundlegenden Dienste anbietet, die Windows, macOS, Linux, iOS, Android, etc. auch bieten: Ein- und Ausgabe, Dateisystem, Suche, Internetverbindung, etc."
 						},
 						{
 							"__type" : "textSnippet",
@@ -145,7 +182,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:26:37.974+02:00"
+									"dateAndTimeString" : "2025-05-06T12:01:15.023+02:00"
 								}
 							},
 							"uid" : {
@@ -155,7 +192,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "letztlich ist Glamorous Toolkit aber eine dynamische, formbare Umgebung, welche den eigenen Bedürfnissen angepasst und in der *alles* automatisiert werden kann."
+							"string" : "Letztlich ist Glamorous Toolkit allerdings eine dynamische, formbare Umgebung, welche den eigenen Bedürfnissen angepasst und innerhalb derer *alles* verknüpft und automatisiert werden kann."
 						}
 					]
 				},
@@ -178,7 +215,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T21:53:57.482+02:00"
+						"dateAndTimeString" : "2025-05-06T11:11:02.448+02:00"
 					}
 				},
 				"uid" : {
@@ -188,7 +225,44 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Glamorous Toolkit ist nicht bloss eine App. Es ist:"
+				"string" : "Glamorous Toolkit ist nicht bloss eine App. Es ist ..."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T11:22:23.996+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T11:53:19.833+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "YIQr5NXwDQCu8sG4BMwnMw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "## Aufgaben 📝"
 			},
 			{
 				"__type" : "textSnippet",
@@ -209,7 +283,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:28:23.259+02:00"
+									"dateAndTimeString" : "2025-05-06T11:15:57.557+02:00"
 								}
 							},
 							"editEmail" : {
@@ -220,202 +294,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:29:46.703+02:00"
+									"dateAndTimeString" : "2025-05-06T11:59:45.772+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "2KU/YFLwDQChU5wGCEFArw=="
+								"uidString" : "qJC3zNXwDQCps8j5BMwnMw=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Sie können in diesen Seiten alles verändern! Diese Änderungen sehen nur Sie und werden beim Schliessen der App auf Ihrer Festplatte gespeichert (sofern Sie **Save and quit** wählen)."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:29:11.84+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:31:37.144+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "MB3vY1LwDQCkop86CEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Falls Sie einzelne Seiten backupen möchten, klicken Sie ganz unten auf `zeniko:processing-abstractions` und ändern Sie es auf `Documents\\lepiter\\default`. Dann werden diese Seiten ausserhalb der Datenbank der App gespeichert:"
-						},
-						{
-							"__type" : "elementSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:35:01.191+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:35:04.839+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "WNHBeFLwDQCq8ZwECEFArw=="
-							},
-							"code" : "GtInspector newOn: LeDatabasesRegistry uniqueInstance defaultPrimaryDatabase monitor localRoot",
-							"elementHeight" : 260,
-							"codeHeight" : 50,
-							"codeVisible" : false
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:31:38.432+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:38:40.343+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "AParbFLwDQCqtMSUCEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Was Sie hier sehen, ist eine Ordneransicht, welche direkt in dieser Seite dynamisch eingebettet ist. Sie können diese entweder in Windows öffnen (mit dem Play-Icon) oder nebenan vergrössern (mit dem **i**-Icon)."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:38:40.904+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:40:36.193+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "QF/ahVLwDQCwSvIjCEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "(Teil-)Ansichten können Sie wie gewohnt mit einem Klick auf **x** schliessen, zum Vergrössern/Verkleinern von Ansichten finden Sie oben links ein `+`bzw. `-`. (**Vorsicht**: Auf dieser Seite können Sie einzelne Abschnitte auch mit **x** löschen, diese sind dann aber weg!)"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:42:37.254+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:43:45.428+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "oOtsk1LwDQC6GDQDCEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Leider hakt die Tastatur manchmal. In dem Fall drücken Sie kurz zweimal hintereinander die Windows-Taste (um die App kurz in den Hintergrund zu verschieben)."
+							"string" : "[[Wichtige Hinweise]] und [[Reflexion]]"
 						}
 					]
 				},
@@ -427,7 +316,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:26:41.482+02:00"
+						"dateAndTimeString" : "2025-05-06T11:15:19.475+02:00"
 					}
 				},
 				"editEmail" : {
@@ -438,239 +327,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:28:05.39+02:00"
+						"dateAndTimeString" : "2025-05-06T11:17:20.984+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "uMH4WlLwDQCgFuyWCEFArw=="
+					"uidString" : "ONfdytXwDQCnjmfEBMwnMw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "## Wichtig"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T21:54:01.044+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:27:14.41+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "IPQe5lHwDQCQp7nXCEFArw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "## Entwicklungsumgebung"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:40:41.69+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:41:25.578+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "kGsNjVLwDQC2Kjw7CEFArw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Die Entwicklungsumgebung finden Sie im \"Hamburger\"-Menü ganz oben rechts als `Coder`:"
-			},
-			{
-				"__type" : "elementSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T21:59:10.865+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T21:59:14.191+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "aHKW+FHwDQCV8t9MCEFArw=="
-				},
-				"code" : "GtCoderStencil new",
-				"elementHeight" : 291,
-				"codeHeight" : 50,
-				"codeVisible" : false
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:27:18.837+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:27:36.36+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "CNsyXVLwDQCgpLatCEFArw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "## Git (Cloud-Anbindung)"
-			},
-			{
-				"__type" : "elementSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T21:57:55.84+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T21:58:03.48+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "AKgd9FHwDQCT71vMCEFArw=="
-				},
-				"code" : "GtGitStencil new",
-				"elementHeight" : 342,
-				"codeHeight" : 27,
-				"codeVisible" : false
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:41:36.529+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:48:48.316+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "aDJSkFLwDQC3/Ia8CEFArw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "(Wenn Sie in einer Ansichten in die untere rechte Ecke klicken, erscheint ein Buch-Icon. Ein Klick auf dieses verrät Ihnen, mit welchem Befehl diese Ansicht hergezaubert wurde.)"
+				"string" : "Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst mindestens folgende Unterseiten durch:"
 			}
 		]
 	},
