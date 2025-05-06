@@ -767,7 +767,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T12:44:35.082+02:00"
+						"dateAndTimeString" : "2025-05-06T12:44:40.25+02:00"
 					}
 				},
 				"uid" : {
@@ -777,7 +777,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Damit arbeiten Sie hier nun mit einer Entwicklungsumgebung, welche letztlich auf eine Programmier-Herausforderung Anfang der 1970er-Jahre zurückgeht und seither kontinuierlich weiterentwickelt wurde. Wenn Sie tief genug graben, finden Sie Überbleibsel aus all den vergangenen Zeiten (das nennt sich "
+				"string" : "Damit arbeiten Sie hier nun mit einer Entwicklungsumgebung, welche letztlich auf eine Programmier-Herausforderung Anfang der 1970er-Jahre zurückgeht und seither kontinuierlich weiterentwickelt wurde. Wenn Sie tief genug graben, finden Sie Überbleibsel aus all den vergangenen Zeiten (das nennt sich Code-Archäologie)..."
 			}
 		]
 	},

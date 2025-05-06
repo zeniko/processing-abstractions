@@ -14,12 +14,25 @@ ProcessingAbstractionsHomeSection >> cardPriorities [
 { #category : #card }
 ProcessingAbstractionsHomeSection >> projectCard [
 	<gtSectionCard>
-	^ GtHomeCard page
+	^ GtHomeCard lazy
 		title: 'Unterrichtseinheiten';
 		description: 'Material für Schüler:innen';
-		setPriority;
 		databaseName: 'zeniko:processing-abstractions';
 		pageName: 'Einleitung';
+		setPriority;
+		loadLepiter: [
+			Metacello new
+				repository: 'github://zeniko/gt-exploration:main/src';
+				baseline: 'GtExploration';
+				load.
+			#BaselineOfGtExploration asClass loadLepiter.
+			Metacello new
+				repository: 'github://zeniko/processing-abstractions:main/src';
+				baseline: 'ProcessingAbstractions';
+				load.
+			#BaselineOfProcessingAbstractions asClass loadLepiter.
+			self class updateGtWorld
+		];
 		assertInvariant;
 		yourself
 ]

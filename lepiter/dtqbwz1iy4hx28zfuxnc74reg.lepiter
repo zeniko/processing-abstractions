@@ -368,7 +368,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:48:23.412+02:00"
+									"dateAndTimeString" : "2025-05-06T14:43:46.829+02:00"
 								}
 							},
 							"uid" : {
@@ -378,7 +378,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Klicken Sie auf das folgende Symbol:"
+							"string" : "1. Klicken Sie auf das folgende Symbol:"
 						},
 						{
 							"__type" : "commentSnippet",
@@ -440,7 +440,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:52:08.674+02:00"
+									"dateAndTimeString" : "2025-05-06T14:43:49.077+02:00"
 								}
 							},
 							"uid" : {
@@ -450,7 +450,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Bitte wählen Sie im Inhaltsverzeichnis (*ToC*) links oder, falls dieses nicht sichtbar ist,  durch einen Klick auf folgenden Link das erste Kapitel: [[Arbeiten mit Glamorous Toolkit]]."
+							"string" : "2. Bitte wählen Sie im Inhaltsverzeichnis (*ToC*) links oder, falls dieses nicht sichtbar ist,  durch einen Klick auf folgenden Link das erste Kapitel: [[Arbeiten mit Glamorous Toolkit]]."
 						}
 					]
 				},

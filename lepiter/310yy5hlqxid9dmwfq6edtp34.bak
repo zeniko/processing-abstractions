@@ -8,7 +8,156 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [ ]
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T14:49:19.63+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T14:50:00.991+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "gCoHxdXwDQCm9GryBMwnMw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Einer Datei, welche den gesamten Zustand der App zum Zustand des letzten Beendens enthält (ein sogenanntes *Image* - ein Abbild):"
+						},
+						{
+							"__type" : "elementSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T14:52:36.671+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T14:56:06.578+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "MKbx09jwDQChgVgcDBnJ5A=="
+							},
+							"code" : "GtInspector forObject: FileLocator imageDirectory viewSelector: #gtItemsFor:",
+							"elementHeight" : 228,
+							"codeHeight" : 32,
+							"codeVisible" : false
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T14:58:14.283+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T14:58:46.46+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "eAcUxdXwDQCm+hTIBMwnMw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Ihre lokale Datenbank, welche in Ihrem Dokumente-Ordner ausserhalb der App gespeichert wird:"
+						},
+						{
+							"__type" : "elementSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T14:58:53.946+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T14:58:54.735+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "kGxu6tjwDQCl7f4TDBnJ5A=="
+							},
+							"code" : "GtInspector newOn: LeDatabasesRegistry uniqueInstance defaultPrimaryDatabase monitor localRoot",
+							"elementHeight" : 209,
+							"codeHeight" : 19,
+							"codeVisible" : false
+						}
+					]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -29,7 +178,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:13:40.962+02:00"
+						"dateAndTimeString" : "2025-05-06T14:48:57.893+02:00"
 					}
 				},
 				"uid" : {
@@ -39,81 +188,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Im Unterschied zu OneNote werden Änderung in Glomorous Toolkit nicht automatisch mit der Cloud synchronisiert: Alle Änderungen, die Sie vornehmen finden sich stattdessen an einem von zwei Orten:"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:13:41.52+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:13:41.52+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "gCoHxdXwDQCm9GryBMwnMw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : ""
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:13:42.363+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:13:42.363+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "eAcUxdXwDQCm+hTIBMwnMw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : ""
+				"string" : "Im Unterschied zu OneNote werden Änderung in Glamorous Toolkit nicht automatisch mit der Cloud synchronisiert. Alle Änderungen, die Sie vornehmen finden sich stattdessen an einem von zwei Orten:"
 			},
 			{
 				"__type" : "textSnippet",
@@ -140,7 +215,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:13:42.715+02:00"
+						"dateAndTimeString" : "2025-05-06T14:59:40.927+02:00"
 					}
 				},
 				"uid" : {
@@ -150,7 +225,81 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "## Synchronisieren mit Git"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T14:59:41.479+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:01:38.486+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "WLhD7djwDQCmoegFDBnJ5A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Um Daten mit der Cloud zu synchronisieren wird dafür eine separate Versionskontrolle wie z.B. [Git](https://de.wikipedia.org/wiki/Git) benötigt. Wie eine solche eingerichtet und verwendet wird, ist aber nicht Teil dieses Kurses. In jedem Fall müssten somit Änderungen noch immer explizit hochgeladen werden - ganz automatisch funktioniert das **noch** nicht (was natürlich veränder- und implementierbar wäre)."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:01:41.099+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:02:27.333+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "+Plk9NjwDQCuozrxDBnJ5A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Derzeit sind von folgenden Quellen Daten geladen, welche aktualisiert werden könnten (mit ⬇)"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -185,9 +334,9 @@
 					"uidString" : "6OZGxdXwDQCnBt+ABMwnMw=="
 				},
 				"code" : "GtGitStencil new",
-				"elementHeight" : 100,
-				"codeHeight" : 50,
-				"codeVisible" : true
+				"elementHeight" : 216,
+				"codeHeight" : 25,
+				"codeVisible" : false
 			}
 		]
 	},
@@ -210,12 +359,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-05-06T11:10:00.008+02:00"
+			"dateAndTimeString" : "2025-05-06T14:59:28.603+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Synchronisieren mit Git"
+		"title" : "Daten sichern und synchronisieren"
 	},
 	"uid" : {
 		"__type" : "uuid",

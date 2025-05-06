@@ -182,7 +182,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:12:41.26+02:00"
+									"dateAndTimeString" : "2025-05-06T12:01:15.023+02:00"
 								}
 							},
 							"uid" : {
@@ -192,7 +192,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Letztlich ist Glamorous Toolkit allerdings eine dynamische, formbare Umgebung, welche den eigenen Bedürfnissen angepasst und in der *alles* verknüpft und automatisiert werden kann."
+							"string" : "Letztlich ist Glamorous Toolkit allerdings eine dynamische, formbare Umgebung, welche den eigenen Bedürfnissen angepasst und innerhalb derer *alles* verknüpft und automatisiert werden kann."
 						}
 					]
 				},
@@ -294,7 +294,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:59:45.772+02:00"
+									"dateAndTimeString" : "2025-05-06T15:02:47.648+02:00"
 								}
 							},
 							"uid" : {
@@ -304,7 +304,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Wichtige Hinweise]] und [[Reflexion]]"
+							"string" : "[[Wichtige Hinweise]] und [[Alles ist inspizierbar]]."
 						}
 					]
 				},
@@ -327,7 +327,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:17:20.984+02:00"
+						"dateAndTimeString" : "2025-05-06T15:02:50.881+02:00"
 					}
 				},
 				"uid" : {
@@ -337,7 +337,81 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst mindestens folgende Unterseiten durch:"
+				"string" : "1. Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst mindestens folgende Unterseiten durch:"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:02:52.528+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:03:16.57+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "mOGm+NjwDQCxH/5xDBnJ5A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "2. Anschliessend repetieren Sie kurz [[Programmieren mit Processing]]."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:03:20.67+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T15:03:58.107+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "SEtU+tjwDQCyMlFEDBnJ5A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "3. Schliesslich beginnen Sie bei [[Maschinensprache und Prozessor]] (für Forg"
 			}
 		]
 	},

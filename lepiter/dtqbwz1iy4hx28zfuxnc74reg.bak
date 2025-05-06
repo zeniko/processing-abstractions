@@ -413,7 +413,7 @@
 								"uidString" : "oGd+QNbwDQCzXLPEBMwnMw=="
 							},
 							"string" : "Gut gemacht 😉. Falls eine Aufgabe Lösungen hat, stehen diese hier. Sie können sämtliche Lösungen einer Seite mit dem gelben Icon in der oberen rechten Ecke der Seite ein- bzw. ausblenden (das Icon fehlt, falls es keine Lösungen hat). Klicken Sie nun auf das Icon...",
-							"isHidden" : false
+							"isHidden" : true
 						},
 						{
 							"__type" : "textSnippet",

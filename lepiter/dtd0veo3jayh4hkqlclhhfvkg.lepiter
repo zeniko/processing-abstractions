@@ -145,7 +145,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:14:47.734+02:00"
+									"dateAndTimeString" : "2025-05-06T14:09:53.883+02:00"
 								}
 							},
 							"uid" : {
@@ -155,7 +155,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Reflexion]]"
+							"string" : "[[Alles ist inspizierbar]]"
 						},
 						{
 							"__type" : "textSnippet",
@@ -182,7 +182,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:09:34.138+02:00"
+									"dateAndTimeString" : "2025-05-06T14:59:28.609+02:00"
 								}
 							},
 							"uid" : {
@@ -192,7 +192,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Synchronisieren mit Git]]"
+							"string" : "[[Daten sichern und synchronisieren]]"
 						}
 					]
 				},
