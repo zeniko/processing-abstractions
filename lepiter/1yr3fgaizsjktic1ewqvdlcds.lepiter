@@ -401,7 +401,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T22:51:52.207+02:00"
+						"dateAndTimeString" : "2025-05-07T21:49:48.074+02:00"
 					}
 				},
 				"uid" : {
@@ -435,16 +435,16 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T22:45:14.612+02:00"
+						"dateAndTimeString" : "2025-05-07T21:50:03.107+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "IDePaN/wDQC3+0VOCbxHlA=="
 				},
-				"code" : "GtInspector forObject: (Stepper for: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program runSteps view: #gtAbstractionsFor:)",
-				"elementHeight" : 438,
-				"codeHeight" : 55,
+				"code" : "snippet := (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first.\rGtInspector forObject: (Stepper for: [ (ProcessingSource fromSnippet: snippet) program runSteps ] view: #gtAbstractionsFor:)",
+				"elementHeight" : 442,
+				"codeHeight" : 87,
 				"codeVisible" : false
 			},
 			{

@@ -215,7 +215,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:49:28.325+02:00"
+						"dateAndTimeString" : "2025-05-08T00:52:25.164+02:00"
 					}
 				},
 				"uid" : {
@@ -594,6 +594,80 @@
 					"__type" : "textStyle"
 				},
 				"string" : "{{gtMethod:ProcessingTokenExtractor>>#visitFunctionCallExpression:|expanded}}"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-08T00:50:50.872+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-08T00:53:40.072+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "2BA/TfXwDQC1lKe2DGzSSw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "4. Die Struktur, die so entsteht, heisst \"abstrakter Syntax-Baum\" (AST). Erkennen Sie den Baum unten?"
+			},
+			{
+				"__type" : "elementSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-08T00:50:55.611+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-08T00:51:26.913+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "eGSHTfXwDQC1mb6XDGzSSw=="
+				},
+				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtTreeSceneryFor:",
+				"elementHeight" : 832,
+				"codeHeight" : 50,
+				"codeVisible" : false
 			}
 		]
 	},

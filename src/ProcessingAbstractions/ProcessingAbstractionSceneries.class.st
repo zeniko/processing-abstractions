@@ -224,7 +224,12 @@ ProcessingAbstractionSceneries >> SteuerwerkChat [
 	item5 := scenery
 			addItem: (GtSceneryMindMapNodeStencil new
 					label: 'Merkt sich die Zahl';
-					width: 128.93202209472656) asItem.
+					width: 128.93202209472656;
+					backgroundColor: (Color
+							r: 0.8699902248289345
+							g: 0.9755620723362659
+							b: 0.9951124144672532
+							alpha: 1.0)) asItem.
 	item5 position: 250.0 @ 137.80399990081787.
 	item5 extent: 128.93202209472656 @ 28.0.
 	item6 := scenery
@@ -242,7 +247,12 @@ ProcessingAbstractionSceneries >> SteuerwerkChat [
 	item8 := scenery
 			addItem: (GtSceneryMindMapNodeStencil new
 					label: 'Rechnet';
-					width: 62.93202209472656) asItem.
+					width: 62.93202209472656;
+					backgroundColor: (Color
+							r: 0.8699902248289345
+							g: 0.9755620723362659
+							b: 0.9951124144672532
+							alpha: 1.0)) asItem.
 	item8 position: 260.0 @ 319.80399990081787.
 	item8 extent: 62.93202209472656 @ 28.0.
 	item9 := scenery
@@ -260,7 +270,12 @@ ProcessingAbstractionSceneries >> SteuerwerkChat [
 	item11 := scenery
 			addItem: (GtSceneryMindMapNodeStencil new
 					label: 'Speichert';
-					width: 82.93202209472656) asItem.
+					width: 82.93202209472656;
+					backgroundColor: (Color
+							r: 0.8699902248289345
+							g: 0.9755620723362659
+							b: 0.9951124144672532
+							alpha: 1.0)) asItem.
 	item11 position: 264.0 @ 460.80399990081787.
 	item11 extent: 82.93202209472656 @ 28.0.
 	scenery

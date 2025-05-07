@@ -248,16 +248,16 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T21:11:11.1+02:00"
+						"dateAndTimeString" : "2025-05-07T21:50:26.79+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "uFsYwN3wDQCNMAgrCcaC0g=="
 				},
-				"code" : "GtInspector forObject: (Stepper for: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program runSteps view: #gtAbstractionsFor:)",
-				"elementHeight" : 547,
-				"codeHeight" : 50,
+				"code" : "snippet := (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first.\rGtInspector forObject: (Stepper for: [ (ProcessingSource fromSnippet: snippet) program runSteps ] view: #gtAbstractionsFor:)",
+				"elementHeight" : 540,
+				"codeHeight" : 90,
 				"codeVisible" : false
 			},
 			{

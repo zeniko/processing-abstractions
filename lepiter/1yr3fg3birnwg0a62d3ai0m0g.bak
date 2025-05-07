@@ -140,7 +140,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T22:56:27.912+02:00"
+						"dateAndTimeString" : "2025-05-07T21:10:52.957+02:00"
 					}
 				},
 				"uid" : {
@@ -150,7 +150,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Wir betrachten ein weiteres Mal das folgende Program:"
+				"string" : "Wir betrachten ein weiteres Mal das folgende Programm:"
 			},
 			{
 				"__type" : "processingSnippet",
