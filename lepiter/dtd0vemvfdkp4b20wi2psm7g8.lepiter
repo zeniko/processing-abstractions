@@ -406,7 +406,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T17:06:39.444+02:00"
+									"dateAndTimeString" : "2025-05-07T21:24:00.329+02:00"
 								}
 							},
 							"uid" : {
@@ -416,7 +416,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Die **Apps**, welche Sie letztlich tatsächlich verwenden und welche via Betriebsystem und Treiber auf die Hardware-Komponenten zugreifen, deren Prozessoren aus verschiedenen Teilen aufgebaut sind, welche aus aus Gattern gebauten Logikschaltungen bestehen, die letztendlich auf Silizium-Basis in Hochpräzisionsarbeit erstellt wurden."
+							"string" : "Die **Apps**, welche Sie letztlich tatsächlich verwenden und welche via Betriebssystem und Treiber auf die Hardware-Komponenten zugreifen, deren Prozessoren aus verschiedenen Teilen aufgebaut sind, welche aus aus Gattern gebauten Logikschaltungen bestehen, die letztendlich auf Silizium-Basis in Hochpräzisionsarbeit erstellt wurden."
 						}
 					]
 				},

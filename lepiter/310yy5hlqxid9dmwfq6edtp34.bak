@@ -289,7 +289,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T15:02:27.333+02:00"
+						"dateAndTimeString" : "2025-05-06T15:02:31.551+02:00"
 					}
 				},
 				"uid" : {
@@ -299,7 +299,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Derzeit sind von folgenden Quellen Daten geladen, welche aktualisiert werden könnten (mit ⬇)"
+				"string" : "Derzeit sind von folgenden Quellen Daten geladen, welche aktualisiert werden könnten (mit ⬇ ):"
 			},
 			{
 				"__type" : "elementSnippet",

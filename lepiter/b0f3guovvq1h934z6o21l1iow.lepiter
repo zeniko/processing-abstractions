@@ -167,7 +167,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T22:27:41.134+02:00"
+						"dateAndTimeString" : "2025-05-07T21:05:00.969+02:00"
 					}
 				},
 				"editEmail" : {
@@ -178,15 +178,15 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T22:33:37.307+02:00"
+						"dateAndTimeString" : "2025-05-07T21:05:10.369+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "yLBqL9/wDQClZnbuCXgyIQ=="
+					"uidString" : "KPibJfLwDQCDrQNlD3Z/FQ=="
 				},
-				"code" : "| scenery item1 item2 item3 item4 item5 item6 item7 item8 item9 item10 item11 |\rscenery := GtScenery new.\ritem1 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Was kommt als nächstes?';\r\t\t\t\twidth: 167.93202209472656) asItem.\ritem1 position: 117.0 @ 33.80399990081787.\ritem1 extent: 167.93202209472656 @ 28.0.\ritem2 := scenery\r\t\taddItem: (GtSceneryTextLabelStencil new\r\t\t\t\tlabel: 'Steuerwerk';\r\t\t\t\twidth: 102.93202209472656) asItem.\ritem2 position: -31.0 @ 215.80399990081787.\ritem2 extent: 102.93202209472656 @ 28.0.\ritem3 := scenery\r\t\taddItem: (GtSceneryTextLabelStencil new\r\t\t\t\tlabel: 'Rechenwerk';\r\t\t\t\twidth: 102.93202209472656) asItem.\ritem3 position: 416.0 @ 244.80399990081787.\ritem3 extent: 102.93202209472656 @ 28.0.\ritem4 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Hier ist eine Zahl!';\r\t\t\t\twidth: 120.93202209472656) asItem.\ritem4 position: 119.0 @ 81.80399990081787.\ritem4 extent: 120.93202209472656 @ 28.0.\ritem5 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Merkt sich die Zahl';\r\t\t\t\twidth: 128.93202209472656) asItem.\ritem5 position: 250.0 @ 137.80399990081787.\ritem5 extent: 128.93202209472656 @ 28.0.\ritem6 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Was kommt als nächstes?';\r\t\t\t\twidth: 170.93202209472656) asItem.\ritem6 position: 115.0 @ 195.80399990081787.\ritem6 extent: 170.93202209472656 @ 28.0.\ritem7 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Hier ist eine Rechenoperation!';\r\t\t\t\twidth: 139.93202209472656) asItem.\ritem7 position: 112.0 @ 242.80399990081787.\ritem7 extent: 139.93202209472656 @ 46.0.\ritem8 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Rechnet';\r\t\t\t\twidth: 62.93202209472656) asItem.\ritem8 position: 260.0 @ 319.80399990081787.\ritem8 extent: 62.93202209472656 @ 28.0.\ritem9 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Was kommt als nächstes?';\r\t\t\t\twidth: 167.93202209472656) asItem.\ritem9 position: 110.0 @ 370.80399990081787.\ritem9 extent: 167.93202209472656 @ 28.0.\ritem10 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Speichere das Ergebnis!';\r\t\t\t\twidth: 158.93202209472656) asItem.\ritem10 position: 109.0 @ 410.80399990081787.\ritem10 extent: 158.93202209472656 @ 28.0.\ritem11 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Speichert';\r\t\t\t\twidth: 82.93202209472656) asItem.\ritem11 position: 264.0 @ 460.80399990081787.\ritem11 extent: 82.93202209472656 @ 28.0.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item2\r\tto: item1.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item2\r\tto: item4.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item3\r\tto: item5.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item2\r\tto: item6.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item2\r\tto: item7.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item3\r\tto: item8.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item2\r\tto: item9.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item2\r\tto: item10.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item3\r\tto: item11.\rscenery",
-				"elementHeight" : 449,
+				"code" : "ProcessingAbstractionSceneries new SteuerwerkChat",
+				"elementHeight" : 453,
 				"codeHeight" : 50,
 				"codeVisible" : false
 			},

@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:17:45.998+02:00"
+						"dateAndTimeString" : "2025-05-07T21:06:26.107+02:00"
 					}
 				},
 				"editEmail" : {
@@ -103,15 +103,15 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:48:54.123+02:00"
+						"dateAndTimeString" : "2025-05-07T21:06:34.306+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "yG4P29rwDQCTfx50D/7/uQ=="
+					"uidString" : "eBKvKvLwDQCEiHu1D3Z/FQ=="
 				},
-				"code" : "| scenery item1 item2 item3 item4 item5 item6 item7 item8 item9 item10 item11 item12 item13 item14 item15 item16 item17 item18 |\rscenery := GtScenery new.\ritem1 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Befehl lesen';\r\t\t\t\twidth: 102.93202209472656) asItem.\ritem1 position: 267.2960662841797 @ 358.3019999504089.\ritem1 extent: 102.93202209472656 @ 28.0.\ritem2 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Zuständige Schaltung auswählen';\r\t\t\t\twidth: 222.93202209472656) asItem.\ritem2 position: 207.2960662841797 @ 426.3019999504089.\ritem2 extent: 222.93202209472656 @ 28.0.\ritem3 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Zahl aus dem Speicher';\r\t\t\t\twidth: 151.7320220947264) asItem.\ritem3 position: 427.0280883789063 @ 358.3019999504089.\ritem3 extent: 151.7320220947264 @ 28.0.\ritem4 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Multiplexer';\r\t\t\t\twidth: 91.73202209472652) asItem.\ritem4 position: 457.0280883789063 @ 426.3019999504089.\ritem4 extent: 91.73202209472652 @ 28.0.\ritem5 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Ergebnis speichern/ausgeben';\r\t\t\t\twidth: 179.73202209472657) asItem.\ritem5 position: 228.8960662841797 @ 494.3019999504089.\ritem5 extent: 179.73202209472657 @ 28.0.\ritem6 := scenery\r\t\taddItem: (GtSceneryTextLabelStencil new\r\t\t\t\tlabel: 'Arbeitsschritt';\r\t\t\t\twidth: 102.93202209472656) asItem.\ritem6 position: 275.5 @ 239.3019999504089.\ritem6 extent: 102.93202209472656 @ 28.0.\ritem7 := scenery\r\t\taddItem: (GtSceneryTextLabelStencil new\r\t\t\t\tlabel: 'Umsetzung';\r\t\t\t\twidth: 102.93202209472656) asItem.\ritem7 position: 457.43202209472656 @ 238.3019999504089.\ritem7 extent: 102.93202209472656 @ 28.0.\ritem8 := scenery\r\t\taddItem: (GtSceneryTextLabelStencil new\r\t\t\t\tlabel: 'Erklärung';\r\t\t\t\twidth: 102.93202209472656) asItem.\ritem8 position: 829.3640441894531 @ 243.3019999504089.\ritem8 extent: 102.93202209472656 @ 28.0.\ritem9 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'parallele Verbindungen, welche zum Prozessor Strom/Nicht-Strom leiten';\r\t\t\t\twidth: 439.7320220947263) asItem.\ritem9 position: 652.7601104736327 @ 358.3019999504089.\ritem9 extent: 439.7320220947263 @ 28.0.\ritem10 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Schaltung, welche anhand einer Bit-Folge (Zahl) eine von mehreren weiteren Schaltungen (via AND-Gatter) aktiviert';\r\t\t\t\twidth: 402.93202209472656) asItem.\ritem10 position: 671.1601104736326 @ 426.3019999504089.\ritem10 extent: 402.93202209472656 @ 46.0.\ritem11 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Bit-Folge';\r\t\t\t\twidth: 154.1320220947265) asItem.\ritem11 position: 425.8280883789063 @ 494.3019999504089.\ritem11 extent: 154.1320220947265 @ 28.0.\ritem12 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'gespeichert in Flip-Flop-Schaltung (Register/Stack)';\r\t\t\t\twidth: 309.33202209472665) asItem.\ritem12 position: 717.9601104736325 @ 512.3019999504089.\ritem12 extent: 309.33202209472665 @ 28.0.\ritem13 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Befehlszähler auslesen';\r\t\t\t\twidth: 162.1320220947265) asItem.\ritem13 position: 237.69606628417978 @ 290.3019999504089.\ritem13 extent: 162.1320220947265 @ 28.0.\ritem14 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Zahl aus Register';\r\t\t\t\twidth: 122.1320220947265) asItem.\ritem14 position: 441.8280883789063 @ 290.3019999504089.\ritem14 extent: 122.1320220947265 @ 28.0.\ritem15 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'gespeichert in Flip-Flop-Schaltung';\r\t\t\t\twidth: 250.93202209472656) asItem.\ritem15 position: 747.1601104736326 @ 290.3019999504089.\ritem15 extent: 250.93202209472656 @ 28.0.\ritem16 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Befehlszähler vergrössern';\r\t\t\t\twidth: 174.13202209472655) asItem.\ritem16 position: 231.69606628417978 @ 562.3019999504089.\ritem16 extent: 174.13202209472655 @ 28.0.\ritem17 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'Addierwerk';\r\t\t\t\twidth: 102.93202209472656) asItem.\ritem17 position: 451.4280883789063 @ 562.3019999504089.\ritem17 extent: 102.93202209472656 @ 28.0.\ritem18 := scenery\r\t\taddItem: (GtSceneryMindMapNodeStencil new\r\t\t\t\tlabel: 'parallele Volladdierer-Schaltungen';\r\t\t\t\twidth: 222.1320220947265) asItem.\ritem18 position: 761.5601104736324 @ 580.3019999504089.\ritem18 extent: 222.1320220947265 @ 28.0.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item1\r\tto: item2.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item3\r\tto: item4.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item9\r\tto: item10.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item2\r\tto: item5.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item4\r\tto: item11.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item10\r\tto: item12.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item13\r\tto: item1.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item14\r\tto: item3.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item15\r\tto: item9.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item5\r\tto: item16.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item11\r\tto: item17.\rscenery\r\taddConnectionWithStencil: (GtSceneryStraightArcStencil new curvatureFraction: 0)\r\tfrom: item12\r\tto: item18.\rscenery",
-				"elementHeight" : 343,
+				"code" : "ProcessingAbstractionSceneries new SteuerwerkAblauf",
+				"elementHeight" : 333,
 				"codeHeight" : 50,
 				"codeVisible" : false
 			},
@@ -433,15 +433,15 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T22:59:40.774+02:00"
+						"dateAndTimeString" : "2025-05-06T23:00:00.042+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "sJxLnd/wDQCZU+JCCbxHlA=="
 				},
-				"string" : "Der Befehlszähler wird dreimal jeweils um eins erhöht (für jeden Code, der anschliessend ausgeführt wird. Das Rechenwerk erhält die folgenden Anweisungen: Lege den Wert von `var` auf den Stapel! Lege eine 1 auf den ",
-				"isHidden" : false
+				"string" : "Der Befehlszähler wird dreimal jeweils um eins erhöht (für jeden Code, der anschliessend ausgeführt wird. Das Rechenwerk erhält die folgenden Anweisungen: Lege den Wert von `var` auf den Stapel! Lege eine 1 auf den Stapel! Addiere die obersten zwei Werte des Stapels (und lege das Ergebnis wieder auf den Stapel)!",
+				"isHidden" : true
 			},
 			{
 				"__type" : "textSnippet",

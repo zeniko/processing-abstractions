@@ -541,7 +541,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T20:13:20.038+02:00"
+						"dateAndTimeString" : "2025-05-06T20:13:31.373+02:00"
 					}
 				},
 				"uid" : {
@@ -551,7 +551,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "4. Erstellen Sie eine eigene kleine \"C"
+				"string" : "4. Erstellen Sie eine eigene kleine \"Choreographie\" mit mehreren bunten Formen."
 			}
 		]
 	},

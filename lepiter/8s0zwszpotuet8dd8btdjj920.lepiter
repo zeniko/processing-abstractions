@@ -509,7 +509,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:52:46.877+02:00"
+						"dateAndTimeString" : "2025-05-07T21:22:00.323+02:00"
 					}
 				},
 				"uid" : {
@@ -519,7 +519,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "2. Schreiben Sie das obige Program um (oder kopieren Sie ein kompliziertes Programm von einer der vorher angetroffenen Seiten) und stellen Sie sich folgendes Vorgehen des Parsers vor:"
+				"string" : "2. Schreiben Sie das obige Programm um (oder kopieren Sie ein kompliziertes Programm von einer der vorher angetroffenen Seiten) und stellen Sie sich folgendes Vorgehen des Parsers vor:"
 			},
 			{
 				"__type" : "textSnippet",

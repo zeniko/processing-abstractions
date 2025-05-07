@@ -248,7 +248,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:02:41.799+02:00"
+						"dateAndTimeString" : "2025-05-07T21:21:35.586+02:00"
 					}
 				},
 				"uid" : {
@@ -258,7 +258,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Wie das obige Programm in unten stehende Zahlen übersetzt wird, betrachten wir in [[Funktionen eines Compilers]]; was der Prozessor mit den Zahlen macht, auf den folgenden Seiten."
+				"string" : "Wie das obige Programm in untenstehende Zahlen übersetzt wird, betrachten wir in [[Funktionen eines Compilers]]; was der Prozessor mit den Zahlen macht, auf den folgenden Seiten."
 			},
 			{
 				"__type" : "textSnippet",
@@ -322,7 +322,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:03:56.246+02:00"
+						"dateAndTimeString" : "2025-05-07T21:21:39.578+02:00"
 					}
 				},
 				"uid" : {
@@ -332,7 +332,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Führen Sie das oben stehende Processing-Programm aus (Klick auf \" ▶ \" oder Klick in den Code und Ctrl+R). Sehen Sie das korrekte Ergebnis?"
+				"string" : "1. Führen Sie das obenstehende Processing-Programm aus (Klick auf \" ▶ \" oder Klick in den Code und Ctrl+R). Sehen Sie das korrekte Ergebnis?"
 			},
 			{
 				"__type" : "textSnippet",

@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:10:05.66+02:00"
+						"dateAndTimeString" : "2025-05-07T21:23:03.176+02:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Alte Prozessoren haben teilweise auf Schaltungen für Multiplikation, Division, Wurzelziehen, etc. verzichtet, da all diese Operationen aus grundlegenderen Operationen zusammengestell werden können (Multiplikation als wiederholte Addition, Division als wiederholte Subtraktion, etc.)."
+				"string" : "Alte Prozessoren haben teilweise auf Schaltungen für Multiplikation, Division, Wurzelziehen, etc. verzichtet, da all diese Operationen aus grundlegenderen Operationen zusammengestellt werden können (Multiplikation als wiederholte Addition, Division als wiederholte Subtraktion, etc.)."
 			},
 			{
 				"__type" : "textSnippet",
@@ -177,7 +177,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:15:42.124+02:00"
+						"dateAndTimeString" : "2025-05-07T21:22:54.055+02:00"
 					}
 				},
 				"uid" : {
@@ -187,7 +187,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Betrachten Sie das unten stehende Programm: Können Sie vermuten, was dieses Programm macht? Probieren Sie es anschliessend aus (\" ▶ \")."
+				"string" : "1. Betrachten Sie das untenstehende Programm: Können Sie vermuten, was dieses Programm macht? Probieren Sie es anschliessend aus (\" ▶ \")."
 			},
 			{
 				"__type" : "textSnippet",
@@ -214,7 +214,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:16:45.703+02:00"
+						"dateAndTimeString" : "2025-05-07T21:23:18.253+02:00"
 					}
 				},
 				"uid" : {
@@ -224,7 +224,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "2. Betrachten Sie den Maschinen-Code für das Programm: Wie viele verschiedene Befehle erkennen Sie? (Wird ein Befehl wiederholt, zählt er nur einmal, da dafür ja jedesmal dieselbe Schaltung verwendet werden kann.)"
+				"string" : "2. Betrachten Sie den Maschinen-Code für das Programm: Wie viele verschiedene Befehle erkennen Sie? (Wird ein Befehl wiederholt, zählt er nur einmal, da dafür ja jedes Mal dieselbe Schaltung verwendet werden kann.)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -251,7 +251,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:17:21.578+02:00"
+						"dateAndTimeString" : "2025-05-07T21:23:23.961+02:00"
 					}
 				},
 				"uid" : {
@@ -261,7 +261,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "3. Schreiben Sie das Program um. Welche weiteren Befehle (und dazu passende Codes) finden Sie?"
+				"string" : "3. Schreiben Sie das Programm um. Welche weiteren Befehle (und dazu passende Codes) finden Sie?"
 			},
 			{
 				"__type" : "processingSnippet",

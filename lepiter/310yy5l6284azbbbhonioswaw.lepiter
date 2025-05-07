@@ -323,7 +323,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T12:29:16.722+02:00"
+						"dateAndTimeString" : "2025-05-07T21:26:26.256+02:00"
 					}
 				},
 				"uid" : {
@@ -333,7 +333,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "\"Squeak\" war eine der ersten auf Smalltalk basierenden Entwicklungsumgebungen, welche von mit dem Ziel entwickelt wurde, Programmiereinsteiger:innen eine Einsteiger:innen-freundliche, vollständige Programmiererfahrung zu bieten."
+				"string" : "\"Squeak\" war eine der ersten auf Smalltalk basierenden Entwicklungsumgebungen, welche mit dem Ziel entwickelt wurde, Programmiereinsteiger:innen eine Einsteiger:innen-freundliche, vollständige Programmiererfahrung zu bieten."
 			},
 			{
 				"__type" : "textSnippet",
@@ -360,7 +360,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T12:34:47.771+02:00"
+						"dateAndTimeString" : "2025-05-07T21:18:10.417+02:00"
 					}
 				},
 				"uid" : {
@@ -370,7 +370,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Squeak wurde unter anderem im Rahmen der in den 1990er-Jahren lancierten [One Laptop per Child](https://de.wikipedia.org/wiki/OLPC_XO-1)-Initiative auf 100$-Laptops gratis verteilt, aber auch u.a. von Walt Disney für interne multimedia Projekte verwendet und von Alan Kay und seinem Team fortlaufend weiterentwickelt:"
+				"string" : "Squeak wurde unter anderem im Rahmen der in den 1990er-Jahren lancierten [One Laptop per Child](https://de.wikipedia.org/wiki/OLPC_XO-1)-Initiative auf 100$-Laptops gratis verteilt, aber auch u.a. von Walt Disney für interne Multimedia-Projekte verwendet und von Alan Kay und seinem Team fortlaufend weiterentwickelt:"
 			},
 			{
 				"__type" : "textSnippet",

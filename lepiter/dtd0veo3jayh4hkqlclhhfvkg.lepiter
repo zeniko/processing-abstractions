@@ -295,7 +295,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:16:24.451+02:00"
+									"dateAndTimeString" : "2025-05-07T21:24:21.481+02:00"
 								}
 							},
 							"uid" : {
@@ -305,7 +305,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Häufig verwendete Befehle]]"
+							"string" : "[[Oft verwendete Befehle]]"
 						},
 						{
 							"__type" : "textSnippet",

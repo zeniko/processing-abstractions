@@ -257,7 +257,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T22:54:33.524+02:00"
+									"dateAndTimeString" : "2025-05-07T21:11:34.275+02:00"
 								}
 							},
 							"uid" : {
@@ -267,7 +267,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Werte werden immer oben drauf gelegt (nie dazwischen eingeschoben)"
+							"string" : "Werte werden immer obendrauf gelegt (nie dazwischen eingeschoben)"
 						},
 						{
 							"__type" : "textSnippet",
@@ -551,7 +551,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T22:50:26.588+02:00"
+									"dateAndTimeString" : "2025-05-07T21:11:45.984+02:00"
 								}
 							},
 							"uid" : {
@@ -561,7 +561,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Im zweiten Schritt liegen zuerst 2 und dann oben drauf 1 auf dem Stapel, bevor sie addiert werden."
+							"string" : "Im zweiten Schritt liegen zuerst 2 und dann obendrauf 1 auf dem Stapel, bevor sie addiert werden."
 						},
 						{
 							"__type" : "textSnippet",

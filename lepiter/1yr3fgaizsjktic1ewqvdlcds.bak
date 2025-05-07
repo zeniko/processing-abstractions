@@ -706,43 +706,6 @@
 					"__type" : "textStyle"
 				},
 				"string" : "2. Verwenden Sie in Ihrem Alltag an anderen Stellen Stapel?"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T22:55:37.322+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T22:55:38.173+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "EE5Tk9/wDQCVL8l+CbxHlA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "3. "
 			}
 		]
 	},

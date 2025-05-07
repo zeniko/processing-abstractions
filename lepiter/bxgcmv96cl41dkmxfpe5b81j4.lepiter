@@ -136,12 +136,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-04-01T23:16:56.44+02:00"
+			"dateAndTimeString" : "2025-05-07T21:24:21.477+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Häufig verwendete Befehle"
+		"title" : "Oft verwendete Befehle"
 	},
 	"uid" : {
 		"__type" : "uuid",

@@ -546,7 +546,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:56:18.941+02:00"
+						"dateAndTimeString" : "2025-05-06T23:56:34.635+02:00"
 					}
 				},
 				"uid" : {
@@ -556,7 +556,44 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "3. Betrachten Sie den folgenden Code, welcher das oben beschrieben Vorgehe"
+				"string" : "3. Betrachten Sie den folgenden Code, welcher das oben beschrieben Vorgehen umdreht: Woraus besteht nun also ein Funktionsaufruf?"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T23:56:36.619+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T23:56:44.43+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "KLdvbeDwDQCIlpgMCbxHlA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "{{gtMethod:ProcessingTokenExtractor>>#visitFunctionCallExpression:|expanded}}"
 			}
 		]
 	},

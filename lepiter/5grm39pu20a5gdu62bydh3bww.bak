@@ -34,7 +34,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T23:59:14.109+02:00"
+									"dateAndTimeString" : "2025-05-06T23:59:32.397+02:00"
 								}
 							},
 							"uid" : {
@@ -44,7 +44,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "In eine grundlegendere Sprache (hier Smalltalk, in anderen Fällen z.B. C)."
+							"string" : "In eine grundlegendere Sprache (hier Smalltalk, in anderen Fällen z.B. C oder - für den Browser - JavaScript)."
 						},
 						{
 							"__type" : "textSnippet",
@@ -546,7 +546,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:07:13.356+02:00"
+						"dateAndTimeString" : "2025-05-07T21:20:28.994+02:00"
 					}
 				},
 				"uid" : {
@@ -556,7 +556,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Soweit erkennen Sie wohl keinen grossen Unterschied, ausser dass die Befehle etwas anders angeordnet sind (vgl. die unten stehenden Aufgaben)."
+				"string" : "Soweit erkennen Sie wohl keinen grossen Unterschied, ausser dass die Befehle etwas anders angeordnet sind (vgl. die untenstehenden Aufgaben)."
 			},
 			{
 				"__type" : "textSnippet",
@@ -720,7 +720,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:08:43.572+02:00"
+						"dateAndTimeString" : "2025-05-07T21:20:46.874+02:00"
 					}
 				},
 				"editEmail" : {
@@ -731,7 +731,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:11:31.317+02:00"
+						"dateAndTimeString" : "2025-05-07T21:20:46.874+02:00"
 					}
 				},
 				"uid" : {
@@ -741,7 +741,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Beachten Sie, dass bei der letzten Darstellung die Zahlen vor den spitzen Klammern bloss Zeilennummern sind, welche nicht an den Prozessor gesandt werden müssen (zählen kann dieser selbst). Die eigentlichen Befehle stehen in den spitzen Klammern (in hexadezimaler Schreibweise)."
+				"string" : ""
 			},
 			{
 				"__type" : "textSnippet",

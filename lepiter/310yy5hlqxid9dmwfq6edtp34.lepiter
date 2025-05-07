@@ -252,7 +252,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T15:01:38.486+02:00"
+						"dateAndTimeString" : "2025-05-07T21:12:20.492+02:00"
 					}
 				},
 				"uid" : {
@@ -262,7 +262,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Um Daten mit der Cloud zu synchronisieren wird dafür eine separate Versionskontrolle wie z.B. [Git](https://de.wikipedia.org/wiki/Git) benötigt. Wie eine solche eingerichtet und verwendet wird, ist aber nicht Teil dieses Kurses. In jedem Fall müssten somit Änderungen noch immer explizit hochgeladen werden - ganz automatisch funktioniert das **noch** nicht (was natürlich veränder- und implementierbar wäre)."
+				"string" : "Um Daten mit der Cloud zu synchronisieren, wird dafür eine separate Versionskontrolle wie z.B. [Git](https://de.wikipedia.org/wiki/Git) benötigt. Wie eine solche eingerichtet und verwendet wird, ist aber nicht Teil dieses Kurses. In jedem Fall müssten somit Änderungen noch immer explizit hochgeladen werden - ganz automatisch funktioniert das **noch** nicht (was natürlich veränder- und implementierbar wäre)."
 			},
 			{
 				"__type" : "textSnippet",

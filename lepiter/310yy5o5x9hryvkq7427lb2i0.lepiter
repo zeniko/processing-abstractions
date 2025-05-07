@@ -741,7 +741,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T14:14:18.698+02:00"
+									"dateAndTimeString" : "2025-05-07T21:19:25.825+02:00"
 								}
 							},
 							"uid" : {
@@ -751,7 +751,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "3. Verschieben Sie diese Seite in Ihre persönliche Datenbank, kontrollieren Sie, dass Sie oben erscheint, und anschliessend verschiebenen Sie wieder zurück, damit Sie sie hier wieder finden. (Tipp: Kurz warten, dann neu laden: 🔁)."
+							"string" : "3. Verschieben Sie diese Seite in Ihre persönliche Datenbank, kontrollieren Sie, dass Sie oben erscheint, und anschliessend verschieben Sie sie wieder zurück, damit Sie sie hier wieder finden. (Tipp: Kurz warten, dann neu laden: 🔁)."
 						},
 						{
 							"__type" : "textSnippet",
@@ -778,7 +778,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T14:12:27.334+02:00"
+									"dateAndTimeString" : "2025-05-07T21:19:38.68+02:00"
 								}
 							},
 							"uid" : {
@@ -788,7 +788,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Falls etwas nicht klappt, *helfen Sie sich gegenseitig*. Die Antwort zur ersten Aufgabe finden Sie hier:"
+							"string" : "Falls etwas nicht funktioniert, *helfen Sie sich gegenseitig*. Die Antwort zur ersten Aufgabe finden Sie hier:"
 						},
 						{
 							"__type" : "commentSnippet",

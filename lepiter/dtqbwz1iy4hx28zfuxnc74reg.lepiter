@@ -71,7 +71,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:04:41.562+02:00"
+									"dateAndTimeString" : "2025-05-07T21:24:48.91+02:00"
 								}
 							},
 							"uid" : {
@@ -81,7 +81,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "... zuerst kurz, was diess \"Glamorous Toolkit\" ist, wie es sich von anderen Entwicklungsumgebungen unterscheidet und wie Sie damit umgehen (unter [[Arbeiten mit Glamorous Toolkit]])."
+							"string" : "... zuerst kurz, was dieses \"Glamorous Toolkit\" ist, wie es sich von anderen Entwicklungsumgebungen unterscheidet und wie Sie damit umgehen (unter [[Arbeiten mit Glamorous Toolkit]])."
 						},
 						{
 							"__type" : "textSnippet",
@@ -547,7 +547,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:13:15.399+02:00"
+						"dateAndTimeString" : "2025-05-07T21:25:56.734+02:00"
 					}
 				},
 				"uid" : {
@@ -557,7 +557,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Dieser Kurs entsteht im Rahmen eines Individuellen Projekts unter Betreuung von Oscar Nierstrasz und Timo Kehrer von der *Software Development Group* des Instituts für Informatik an der Universität Bern."
+				"string" : "Dieser Kurs entsteht im Rahmen eines Individuellen Projekts unter Betreuung von Oscar Nierstrasz und Timo Kehrer von der [Software Engineering Group](https://seg.inf.unibe.ch) des Instituts für Informatik an der Universität Bern."
 			},
 			{
 				"__type" : "textSnippet",

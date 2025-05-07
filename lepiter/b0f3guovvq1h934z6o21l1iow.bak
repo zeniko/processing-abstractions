@@ -191,6 +191,43 @@
 				"codeVisible" : false
 			},
 			{
+				"__type" : "elementSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-07T21:05:00.969+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-07T21:05:10.369+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "KPibJfLwDQCDrQNlD3Z/FQ=="
+				},
+				"code" : "ProcessingAbstractionSceneries new SteuerwerkChat",
+				"elementHeight" : 100,
+				"codeHeight" : 50,
+				"codeVisible" : true
+			},
+			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
@@ -215,7 +252,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T22:37:36.65+02:00"
+						"dateAndTimeString" : "2025-05-06T22:37:54.282+02:00"
 					}
 				},
 				"uid" : {
@@ -225,7 +262,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Das Rechenwerk entspricht also ungefähr Ihrem Taschenrechner (daher auch der Name \"*Computer*\" = \"Rechner\") und das Steuerwerk "
+				"string" : "Das Rechenwerk entspricht also ungefähr Ihrem Taschenrechner (daher auch der Name \"*Computer*\" = \"Rechner\") und die Rolle des Steuerwerks hatten bisher Sie."
 			},
 			{
 				"__type" : "textSnippet",
