@@ -114,6 +114,80 @@
 					"__type" : "textStyle"
 				},
 				"string" : "Sofern Sie \"unter die Haube\" schauen möchten, finden Sie hier eine Übersicht über alle implementierten Funktionen: {{gtMethod:ProcessingTranspiler>>#visitFunctionCallExpression:}} (klicken Sie auf den Pfeil, bei Interesse auf weitere Pfeile, ...)."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-08T22:46:47.955+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-08T22:46:55.397+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "UIp0rwfxDQCJFJOHA2iQXA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "## Einschränkungen"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-08T22:48:54.184+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-08T22:50:48.178+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "wFTprwfxDQCJfXvYA2iQXA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Ebenso kennt das hier verwendete Processing nicht sämtliche in Python bekannte Strukturen. Falls Sie also Python über gelernte Inhalte hinaus kennen, kann es sein, dass Sie unterwegs eine Fehlermeldung \"*Unsupported*\" oder \"*NotImplemented* \" erhalten."
 			}
 		]
 	},

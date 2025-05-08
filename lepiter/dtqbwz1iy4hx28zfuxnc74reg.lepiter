@@ -108,7 +108,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:03:10.252+02:00"
+									"dateAndTimeString" : "2025-05-08T22:45:11.526+02:00"
 								}
 							},
 							"uid" : {
@@ -118,7 +118,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "... anhand der Programmiersprache Processing zu programmieren (bzw. Sie repetieren die Kenntnisse aus dem vergangenen Schuljahr; unter [[Programmieren mit Processing]])."
+							"string" : "... anhand der Programmiersprache Processing zu programmieren (bzw. Sie repetieren die Kenntnisse aus dem vergangenen Schuljahr; unter [[Wiederholung: Programmieren mit Processing]])."
 						},
 						{
 							"__type" : "textSnippet",
@@ -219,7 +219,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:05:37.119+02:00"
+									"dateAndTimeString" : "2025-05-08T22:44:56.632+02:00"
 								}
 							},
 							"uid" : {
@@ -229,7 +229,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "... unter [[Weiterführende Ideen]] Vorschläge für ein eigenes Informatikprojekt kennen."
+							"string" : "... unter [[Anhang]] Vorschläge für ein eigenes Informatikprojekt kennen."
 						}
 					]
 				},
@@ -595,6 +595,43 @@
 					"__type" : "textStyle"
 				},
 				"string" : "Derzeit ist dieser Kurs noch im Entwicklungsstadium. Unvollständige Ecken und Enden sind zu erwarten. Falls Sie Fehler finden oder Verbesserungsvorschläge haben, teilen Sie mir diese gerne mit: <mailto:simon.buenzli@gymneufeld.ch> (falls der Link nicht funktioniert, stattdessen: <https://inf.zeniko.ch/>)."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-08T22:34:29.309+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-08T22:35:39.812+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "SLZtgwfxDQCHwZGQA2iQXA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Die Entwicklung dieses Kurses ist in {{gtPage:Individual Project|db=5rgxfv9r684digmpw7ph7kbt4}} dokumentiert."
 			}
 		]
 	},

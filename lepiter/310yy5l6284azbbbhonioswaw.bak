@@ -249,7 +249,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T12:21:57.627+02:00"
+						"dateAndTimeString" : "2025-05-08T22:56:37.006+02:00"
 					}
 				},
 				"uid" : {
@@ -259,7 +259,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Der heute noch gebräuchliche Standard ist Smalltalk-80, welcher 1980 am *Xerox Palo Alto Research Center* entwickelt wurde. Das Xerox PARC wurde von der früher ikonischen Fotokopier-Firma Xerox gegründet wurde (*to xerox* bedeutet heute noch: fotokopieren)."
+				"string" : "Der heute noch gebräuchliche Standard ist Smalltalk-80, welcher 1980 am *Xerox Palo Alto Research Center* entwickelt wurde. Das Xerox PARC wurde von der früher ikonischen Fotokopier-Firma Xerox gegründet wurde (*to xerox* bedeutet heute noch: fotokopieren). Die ursprüngliche Spezifikation von von Smalltalk-80 könnten Sie im 700-seitigen Buch [Smalltalk-80. The Language and its Implementation](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf) veröffentlicht werden."
 			},
 			{
 				"__type" : "textSnippet",
@@ -519,43 +519,6 @@
 					"__type" : "textStyle"
 				},
 				"string" : "Wie Squeak zuvor wurde und wird auch Pharo unter anderem an Universitäten für die Lehre verwendet und bis heute weiterentwickelt."
-			},
-			{
-				"__type" : "pictureSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-07T21:27:13.3+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-07T21:27:14.91+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "ILoFdfLwDQCHL7WqD3Z/FQ=="
-				},
-				"url" : "https://upload.wikimedia.org/wikipedia/commons/2/2a/Pharo_v3-0.png",
-				"caption" : "",
-				"previewHeight" : 0,
-				"reference" : ""
 			},
 			{
 				"__type" : "textSnippet",
@@ -837,12 +800,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-05-06T11:09:57.221+02:00"
+			"dateAndTimeString" : "2025-05-08T22:52:42.576+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Historisches"
+		"title" : "Historisches zu Glamorous Toolkit"
 	},
 	"uid" : {
 		"__type" : "uuid",

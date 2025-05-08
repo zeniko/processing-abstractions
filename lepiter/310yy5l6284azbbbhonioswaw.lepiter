@@ -249,7 +249,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T12:21:57.627+02:00"
+						"dateAndTimeString" : "2025-05-08T22:57:04.421+02:00"
 					}
 				},
 				"uid" : {
@@ -259,7 +259,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Der heute noch gebräuchliche Standard ist Smalltalk-80, welcher 1980 am *Xerox Palo Alto Research Center* entwickelt wurde. Das Xerox PARC wurde von der früher ikonischen Fotokopier-Firma Xerox gegründet wurde (*to xerox* bedeutet heute noch: fotokopieren)."
+				"string" : "Der heute noch gebräuchliche Standard ist Smalltalk-80, welcher 1980 am *Xerox Palo Alto Research Center* entwickelt wurde. Das Xerox PARC wurde von der früher ikonischen Fotokopier-Firma Xerox gegründet wurde (*to xerox* bedeutet heute noch: fotokopieren). Die ursprüngliche Spezifikation von von Smalltalk-80 könnten Sie im 700-seitigen Buch [Smalltalk-80. The Language and its Implementation](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf) von Adele Goldberg und David Robson nachlesen."
 			},
 			{
 				"__type" : "textSnippet",
@@ -800,12 +800,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-05-06T11:09:57.221+02:00"
+			"dateAndTimeString" : "2025-05-08T22:52:42.576+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Historisches"
+		"title" : "Historisches zu Glamorous Toolkit"
 	},
 	"uid" : {
 		"__type" : "uuid",

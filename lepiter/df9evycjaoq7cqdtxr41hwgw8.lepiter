@@ -327,7 +327,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T15:02:50.881+02:00"
+						"dateAndTimeString" : "2025-05-08T23:00:58.955+02:00"
 					}
 				},
 				"uid" : {
@@ -337,7 +337,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst mindestens folgende Unterseiten durch:"
+				"string" : "1. Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst diese Unterseiten durch:"
 			},
 			{
 				"__type" : "textSnippet",
@@ -364,7 +364,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T21:58:13.359+02:00"
+						"dateAndTimeString" : "2025-05-08T22:45:11.532+02:00"
 					}
 				},
 				"uid" : {
@@ -374,7 +374,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "2. Beginnen Sie dann bei [[Maschinensprache und Prozessor]] (dabei werden Sie kurz von [[Programmieren mit Processing]] die erste Seite repetieren)."
+				"string" : "2. Beginnen Sie dann bei [[Maschinensprache und Prozessor]] (dabei werden Sie kurz von [[Wiederholung: Programmieren mit Processing]] die erste Seite repetieren)."
 			},
 			{
 				"__type" : "textSnippet",

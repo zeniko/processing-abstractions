@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:47:27.602+02:00"
+						"dateAndTimeString" : "2025-05-08T23:00:32.844+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "In diesem Anhang finden Sie weitere Informationen zu dieser App/Umgebung und weiteren Möglichkeiten im Umgang damit."
 			}
 		]
 	},
@@ -62,12 +62,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T17:29:08.136+01:00"
+			"dateAndTimeString" : "2025-05-08T22:44:56.629+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Weiterführende Ideen"
+		"title" : "Anhang"
 	},
 	"uid" : {
 		"__type" : "uuid",

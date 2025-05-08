@@ -280,46 +280,55 @@ ProcessingAbstractionSceneries >> SteuerwerkChat [
 	item11 extent: 82.93202209472656 @ 28.0.
 	scenery
 		addConnectionWithStencil: (GtSceneryStraightArcStencil new
+				arrowHeadType: #none;
 				curvatureFraction: 0)
 		from: item2
 		to: item1.
 	scenery
 		addConnectionWithStencil: (GtSceneryStraightArcStencil new
+				arrowHeadType: #none;
 				curvatureFraction: 0)
 		from: item2
 		to: item4.
 	scenery
 		addConnectionWithStencil: (GtSceneryStraightArcStencil new
+				arrowHeadType: #none;
 				curvatureFraction: 0)
 		from: item3
 		to: item5.
 	scenery
 		addConnectionWithStencil: (GtSceneryStraightArcStencil new
+				arrowHeadType: #none;
 				curvatureFraction: 0)
 		from: item2
 		to: item6.
 	scenery
 		addConnectionWithStencil: (GtSceneryStraightArcStencil new
+				arrowHeadType: #none;
 				curvatureFraction: 0)
 		from: item2
 		to: item7.
 	scenery
 		addConnectionWithStencil: (GtSceneryStraightArcStencil new
+				arrowHeadType: #none;
 				curvatureFraction: 0)
 		from: item3
 		to: item8.
 	scenery
 		addConnectionWithStencil: (GtSceneryStraightArcStencil new
+				arrowHeadType: #none;
 				curvatureFraction: 0)
 		from: item2
 		to: item9.
 	scenery
 		addConnectionWithStencil: (GtSceneryStraightArcStencil new
+				arrowHeadType: #none;
 				curvatureFraction: 0)
 		from: item2
 		to: item10.
 	scenery
 		addConnectionWithStencil: (GtSceneryStraightArcStencil new
+				arrowHeadType: #none;
 				curvatureFraction: 0)
 		from: item3
 		to: item11.

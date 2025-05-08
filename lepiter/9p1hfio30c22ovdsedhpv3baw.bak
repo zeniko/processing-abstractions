@@ -211,7 +211,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T19:57:12.263+02:00"
+						"dateAndTimeString" : "2025-05-07T21:22:19.872+02:00"
 					}
 				},
 				"uid" : {
@@ -221,7 +221,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Beachten Sie dabei einerseits die Syntax der Zeilen mit `def` (diese führt [[Funktionen]] ein), welche vorerst Zeichen-für-Zeichen stimmen muss; und andererseits bei den darauf folgenden Befehlen das Einrücken (**Abstand zu linken Rand**), welcher einheitlich sein muss, damit der Computer erkennen kann, welche Befehle zusammengehören sollen."
+				"string" : "Beachten Sie dabei einerseits die Syntax der Zeilen mit `def` (diese führt [[Funktionen]] ein), welche vorerst Zeichen-für-Zeichen stimmen muss; und andererseits bei den darauffolgenden Befehlen das Einrücken (**Abstand zu linken Rand**), welcher einheitlich sein muss, damit der Computer erkennen kann, welche Befehle zusammengehören sollen."
 			},
 			{
 				"__type" : "textSnippet",

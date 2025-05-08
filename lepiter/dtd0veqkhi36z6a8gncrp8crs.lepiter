@@ -140,7 +140,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T15:13:02.14+02:00"
+						"dateAndTimeString" : "2025-05-08T23:48:35.611+02:00"
 					}
 				},
 				"uid" : {
@@ -174,7 +174,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-04T18:34:00.169+02:00"
+						"dateAndTimeString" : "2025-05-08T23:48:23.821+02:00"
 					}
 				},
 				"uid" : {
@@ -356,12 +356,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T17:28:49.395+01:00"
+			"dateAndTimeString" : "2025-05-08T22:45:11.52+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Programmieren mit Processing"
+		"title" : "Wiederholung: Programmieren mit Processing"
 	},
 	"uid" : {
 		"__type" : "uuid",
