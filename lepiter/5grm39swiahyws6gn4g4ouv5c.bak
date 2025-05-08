@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T17:51:08.495+02:00"
+						"dateAndTimeString" : "2025-05-09T01:16:46.611+02:00"
 					}
 				},
 				"uid" : {
@@ -174,7 +174,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:39:29.264+02:00"
+						"dateAndTimeString" : "2025-05-09T01:16:42.818+02:00"
 					}
 				},
 				"uid" : {
@@ -245,14 +245,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:35:24.49+02:00"
+						"dateAndTimeString" : "2025-05-09T01:15:42.532+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "kMr7FeDwDQCcQeQVCbxHlA=="
 				},
-				"code" : "GtInspector forObject: (ViewComparison newFor: {\r\n\t(ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program -> #gtSourceBytesFor:.\r\n\t(ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) second) program -> #gtSourceBytesFor:.\r\n}) viewSelector: #gtCompareFor:",
+				"code" : "ViewComparison newFor: {\r\n\t(ProcessingSource fromPage: thisSnippet page at: 1) program -> #gtSourceBytesFor:.\r\n\t(ProcessingSource fromPage: thisSnippet page at: 2) program -> #gtSourceBytesFor:.\r\n}",
 				"elementHeight" : 339,
 				"codeHeight" : 50,
 				"codeVisible" : false
@@ -329,7 +329,7 @@
 				"code" : "GtInspector forObject: (ViewComparison newFor: {\r\n\t(ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program -> #gtTokensFor:.\r\n\t(ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) second) program -> #gtTokensFor:.\r\n}) viewSelector: #gtCompareFor:",
 				"elementHeight" : 261,
 				"codeHeight" : 50,
-				"codeVisible" : false
+				"codeVisible" : true
 			},
 			{
 				"__type" : "textSnippet",

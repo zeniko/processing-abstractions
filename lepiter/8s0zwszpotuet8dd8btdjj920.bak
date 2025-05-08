@@ -215,7 +215,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-08T00:52:25.164+02:00"
+						"dateAndTimeString" : "2025-05-09T01:18:31.416+02:00"
 					}
 				},
 				"uid" : {
@@ -286,14 +286,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:46:03.045+02:00"
+						"dateAndTimeString" : "2025-05-09T01:18:17.086+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "cEhBSlTwDQCLUiM7CEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtTokensPlusTreeFor:",
+				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtTokensPlusTreeFor:",
 				"elementHeight" : 343,
 				"codeHeight" : 50,
 				"codeVisible" : false
@@ -620,7 +620,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-08T00:53:33.657+02:00"
+						"dateAndTimeString" : "2025-05-08T00:53:40.072+02:00"
 					}
 				},
 				"uid" : {
@@ -630,7 +630,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "4. Die Struktur, die so entsteht, heisst \"abstrakter Syntax-Baum\" (AST). Erkennen Sie de"
+				"string" : "4. Die Struktur, die so entsteht, heisst \"abstrakter Syntax-Baum\" (AST). Erkennen Sie den Baum unten?"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -667,7 +667,7 @@
 				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtTreeSceneryFor:",
 				"elementHeight" : 832,
 				"codeHeight" : 50,
-				"codeVisible" : false
+				"codeVisible" : true
 			}
 		]
 	},

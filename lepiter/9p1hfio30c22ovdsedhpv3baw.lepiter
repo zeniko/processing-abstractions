@@ -319,16 +319,16 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T20:07:37.607+02:00"
+						"dateAndTimeString" : "2025-05-09T01:23:02.702+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "4KMzOt3wDQCicJ05ANfT7g=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) second) viewSelector: #gtOutputFor:",
-				"elementHeight" : 244,
-				"codeHeight" : 50,
+				"code" : "(ProcessingSource fromPage: thisSnippet page at: 2) renderLive",
+				"elementHeight" : 241,
+				"codeHeight" : 27,
 				"codeVisible" : false
 			},
 			{

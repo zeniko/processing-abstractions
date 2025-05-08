@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:05:57.935+02:00"
+						"dateAndTimeString" : "2025-05-09T01:05:09.997+02:00"
 					}
 				},
 				"uid" : {
@@ -174,16 +174,16 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T21:52:51.003+02:00"
+						"dateAndTimeString" : "2025-05-09T01:11:05.131+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "IPItXtvwDQCM5w8vC60Jfw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtBytecodeFor:",
-				"elementHeight" : 251,
-				"codeHeight" : 50,
+				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtBytecodeFor:",
+				"elementHeight" : 247,
+				"codeHeight" : 30,
 				"codeVisible" : false
 			},
 			{
@@ -505,54 +505,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T22:02:44.132+02:00"
+						"dateAndTimeString" : "2025-05-09T01:11:05.25+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "8AWcad3wDQC1jRxNANfT7g=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtBytecodePlusSourceFor:",
-				"elementHeight" : 228,
-				"codeHeight" : 61,
+				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtBytecodePlusSourceFor:",
+				"elementHeight" : 241,
+				"codeHeight" : 48,
 				"codeVisible" : false
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:05:43.68+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:05:43.68+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "AGSVhtvwDQChNhmSC60Jfw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : ""
 			}
 		]
 	},

@@ -137,14 +137,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T21:53:18.07+02:00"
+						"dateAndTimeString" : "2025-05-09T01:21:28.682+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "aIQeu1TwDQCTFTpUCEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) viewSelector: #gtAbstractionsFor:",
+				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtAbstractionsFor:",
 				"elementHeight" : 538,
 				"codeHeight" : 50,
 				"codeVisible" : false
@@ -322,16 +322,16 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-02T12:17:48.717+02:00"
+						"dateAndTimeString" : "2025-05-09T01:21:51.65+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "2HXhMobwDQC8MAQpB7e7BA=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first)",
-				"elementHeight" : 597,
-				"codeHeight" : 50,
+				"code" : "GtInspector forObject: (ProcessingSource fromPage: thisSnippet page)",
+				"elementHeight" : 596,
+				"codeHeight" : 31,
 				"codeVisible" : false
 			}
 		]

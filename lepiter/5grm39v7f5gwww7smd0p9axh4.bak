@@ -18,43 +18,6 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:26:38.964+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:26:38.964+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "IF2N3lTwDQCjTZxiCEFArw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : ""
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2025-04-30T01:16:41.028+02:00"
 					}
 				},
@@ -174,14 +137,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T21:53:18.07+02:00"
+						"dateAndTimeString" : "2025-05-09T01:21:28.682+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "aIQeu1TwDQCTFTpUCEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) viewSelector: #gtAbstractionsFor:",
+				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtAbstractionsFor:",
 				"elementHeight" : 538,
 				"codeHeight" : 50,
 				"codeVisible" : false
@@ -190,119 +153,7 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:18:54.475+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:19:54.458+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "+NLdwlTwDQCX3qVACEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "1. Erklären Sie in eigenen Worten, was der Computer machen muss, um das obige Programm in die angezeigte Ausgabe zu verwandeln."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:19:33.518+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:19:48.487+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "sJIxxVTwDQCa2l1HCEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "2. Benennen Sie die einzelnen Schritte in der korrekten Reihenfolge."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:19:55.751+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:26:04.783+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "WNKExlTwDQCcjWsxCEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "3. Erkennen Sie anhand des Maschinencodes Unterschiede zum ursprünglichen Python-Programm? Sie können sämtliche Schritte unten noch einmal einzeln untersuchen (für eine Vergrösserung: **i** und anschliessend `+` klicken)."
-						}
-					]
+					"items" : [ ]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -323,7 +174,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:18:54.216+02:00"
+						"dateAndTimeString" : "2025-05-06T23:47:00.891+02:00"
 					}
 				},
 				"uid" : {
@@ -333,7 +184,118 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "## Aufgaben"
+				"string" : "## Aufgaben 📝"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-30T01:18:54.475+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-30T01:19:54.458+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "+NLdwlTwDQCX3qVACEFArw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "1. Erklären Sie in eigenen Worten, was der Computer machen muss, um das obige Programm in die angezeigte Ausgabe zu verwandeln."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-30T01:19:33.518+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-30T01:19:48.487+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "sJIxxVTwDQCa2l1HCEFArw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "2. Benennen Sie die einzelnen Schritte in der korrekten Reihenfolge."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-30T01:19:55.751+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-30T01:26:04.783+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "WNKExlTwDQCcjWsxCEFArw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "3. Erkennen Sie anhand des Maschinencodes Unterschiede zum ursprünglichen Python-Programm? Sie können sämtliche Schritte unten noch einmal einzeln untersuchen (für eine Vergrösserung: **i** und anschliessend `+` klicken)."
 			},
 			{
 				"__type" : "elementSnippet",
@@ -360,17 +322,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-02T12:17:48.717+02:00"
+						"dateAndTimeString" : "2025-05-09T01:21:51.65+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "2HXhMobwDQC8MAQpB7e7BA=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first)",
+				"code" : "GtInspector forObject: (ProcessingSource fromPage: thisSnippet page)",
 				"elementHeight" : 597,
 				"codeHeight" : 50,
-				"codeVisible" : false
+				"codeVisible" : true
 			}
 		]
 	},

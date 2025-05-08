@@ -435,14 +435,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T21:54:31.488+02:00"
+						"dateAndTimeString" : "2025-05-09T01:19:36.406+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "EFRuj1TwDQC5Z1GdCEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtTreePlusSourceFor:",
+				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtTreePlusSourceFor:",
 				"elementHeight" : 266,
 				"codeHeight" : 50,
 				"codeVisible" : false
@@ -509,14 +509,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T21:54:37.71+02:00"
+						"dateAndTimeString" : "2025-05-09T01:20:00.469+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "oNauh1TwDQC4HTT9CEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtTranspilationFor:",
+				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtTranspilationFor:",
 				"elementHeight" : 196,
 				"codeHeight" : 50,
 				"codeVisible" : false
@@ -620,14 +620,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T21:54:45.762+02:00"
+						"dateAndTimeString" : "2025-05-09T01:20:25.292+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "kNqdmlTwDQC/7sz+CEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtIntermediaryRepresentationPlusSourceFor:",
+				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtIntermediaryRepresentationPlusSourceFor:",
 				"elementHeight" : 201,
 				"codeHeight" : 50,
 				"codeVisible" : false
@@ -694,17 +694,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T21:54:56.354+02:00"
+						"dateAndTimeString" : "2025-05-09T01:20:53.625+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "OECvnlTwDQCBQuzsCEFArw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtBytecodePlusSourceFor:",
+				"code" : "(ProcessingSource fromPage: thisSnippet page) program viewSelector: #gtBytecodePlusSourceFor:",
 				"elementHeight" : 215,
 				"codeHeight" : 50,
-				"codeVisible" : false
+				"codeVisible" : true
 			},
 			{
 				"__type" : "textSnippet",

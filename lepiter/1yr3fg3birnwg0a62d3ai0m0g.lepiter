@@ -177,7 +177,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T20:44:38.061+02:00"
+						"dateAndTimeString" : "2025-05-09T01:09:46.927+02:00"
 					}
 				},
 				"uid" : {
@@ -248,16 +248,16 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-07T21:50:26.79+02:00"
+						"dateAndTimeString" : "2025-05-09T01:08:57.128+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "uFsYwN3wDQCNMAgrCcaC0g=="
 				},
-				"code" : "snippet := (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first.\rGtInspector forObject: (Stepper for: [ (ProcessingSource fromSnippet: snippet) program runSteps ] view: #gtAbstractionsFor:)",
-				"elementHeight" : 540,
-				"codeHeight" : 90,
+				"code" : "Stepper for: [ (ProcessingSource fromPage: thisSnippet page) program runSteps ] view: #gtAbstractionsFor:",
+				"elementHeight" : 520,
+				"codeHeight" : 47,
 				"codeVisible" : false
 			},
 			{

@@ -435,16 +435,16 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-07T21:50:03.107+02:00"
+						"dateAndTimeString" : "2025-05-09T01:06:53.673+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "IDePaN/wDQC3+0VOCbxHlA=="
 				},
-				"code" : "snippet := (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first.\rGtInspector forObject: (Stepper for: [ (ProcessingSource fromSnippet: snippet) program runSteps ] view: #gtAbstractionsFor:)",
-				"elementHeight" : 442,
-				"codeHeight" : 87,
+				"code" : "Stepper for: [ (ProcessingSource fromPage: thisSnippet page) program runSteps ] view: #gtAbstractionsFor:",
+				"elementHeight" : 482,
+				"codeHeight" : 47,
 				"codeVisible" : false
 			},
 			{

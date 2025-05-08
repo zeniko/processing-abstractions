@@ -18,43 +18,6 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:51:12.672+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:51:21.55+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "AIE+KdzwDQC5L8Q1AynFow=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "⚠️ **Diese Seite nicht bearbeiten!** ⚠"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2025-05-06T18:59:02.216+02:00"
 					}
 				},
@@ -356,17 +319,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T20:07:37.607+02:00"
+						"dateAndTimeString" : "2025-05-09T01:22:55.926+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "4KMzOt3wDQCicJ05ANfT7g=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) second) viewSelector: #gtOutputFor:",
+				"code" : "(ProcessingSource fromPage: thisSnippet page at: 2) viewSelector: #gtOutputFor:",
 				"elementHeight" : 244,
 				"codeHeight" : 50,
-				"codeVisible" : false
+				"codeVisible" : true
 			},
 			{
 				"__type" : "textSnippet",

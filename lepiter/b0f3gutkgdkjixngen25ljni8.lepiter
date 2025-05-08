@@ -288,7 +288,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:13:14.66+02:00"
+						"dateAndTimeString" : "2025-05-09T01:13:40.323+02:00"
 					}
 				},
 				"uid" : {
@@ -359,14 +359,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:11:28.285+02:00"
+						"dateAndTimeString" : "2025-05-09T01:11:05.121+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "ACYSy9/wDQCv39/pCbxHlA=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtBytecodePlusSourceFor:",
+				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtBytecodePlusSourceFor:",
 				"elementHeight" : 327,
 				"codeHeight" : 50,
 				"codeVisible" : false

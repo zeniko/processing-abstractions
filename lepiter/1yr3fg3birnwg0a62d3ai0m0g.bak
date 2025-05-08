@@ -177,14 +177,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T20:44:38.061+02:00"
+						"dateAndTimeString" : "2025-05-09T01:09:14.755+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "IHLSvt3wDQCNGfwSCcaC0g=="
 				},
-				"code" : "# Merke die Zahl 2 in der Variable 'var'\rvar = 2\r# Nimm den Wert von 'var' und vergrössere ihn um 1\rvar = var + 1\r# Zeige den Wert von 'var' an\rprint(var)"
+				"code" : "# Merke die Zahl 2 in der Variable 'var'\rvar = 2\r# Nimm den Wert von 'var' und vergrössere ihn um 1\rvar = var + 2\r# Zeige den Wert von 'var' an\rprint(var)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -248,16 +248,16 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T21:11:11.1+02:00"
+						"dateAndTimeString" : "2025-05-09T01:08:57.128+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "uFsYwN3wDQCNMAgrCcaC0g=="
 				},
-				"code" : "GtInspector forObject: (Stepper for: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program runSteps view: #gtAbstractionsFor:)",
-				"elementHeight" : 547,
-				"codeHeight" : 50,
+				"code" : "Stepper for: [ (ProcessingSource fromPage: thisSnippet page) program runSteps ] view: #gtAbstractionsFor:",
+				"elementHeight" : 520,
+				"codeHeight" : 47,
 				"codeVisible" : false
 			},
 			{
