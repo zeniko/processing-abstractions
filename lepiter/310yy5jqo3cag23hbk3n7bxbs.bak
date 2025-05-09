@@ -71,7 +71,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T18:55:36.193+02:00"
+									"dateAndTimeString" : "2025-05-09T23:38:12.691+02:00"
 								}
 							},
 							"uid" : {
@@ -81,7 +81,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Die ganze Umgebung ist (wie in den meisten anderen modernen Anwendungen auch) aus vielen Einzelteilen aufgebaut. Diese können via Ctrl+Shift+Alt+Klick im \"{{gtPage:Driller|db=2j9m7db2i4oz116bexd7wbdxo}}\" untersucht werden (**Rückkehr via `x` oben rechts**)."
+							"string" : "Die ganze Umgebung ist (wie in den meisten anderen modernen Anwendungen auch) aus vielen neben-/übereinander gelegten Einzelteilen aufgebaut. Diese können via Ctrl+Shift+Alt+Klick untersucht werden (**Rückkehr via `x` oben rechts**)."
 						},
 						{
 							"__type" : "textSnippet",
@@ -190,7 +190,7 @@
 								"uidString" : "aHKW+FHwDQCV8t9MCEFArw=="
 							},
 							"code" : "GtCoderStencil new",
-							"elementHeight" : 382,
+							"elementHeight" : 460,
 							"codeHeight" : 50,
 							"codeVisible" : false
 						},
@@ -219,7 +219,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T14:43:18.277+02:00"
+									"dateAndTimeString" : "2025-05-07T21:12:48.962+02:00"
 								}
 							},
 							"uid" : {
@@ -229,7 +229,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "(Wenn Sie in einer Ansichten in die untere rechte Ecke klicken oder vom Absatz ober-/unterhalb mit den Pfeiltasten hineingehen, erscheint ein Buch-Icon 🕮. Ein Klick auf dieses verrät Ihnen, mit welchem Befehl diese Ansicht hergezaubert wurde.)"
+							"string" : "(Wenn Sie in einer Ansicht in die untere rechte Ecke klicken oder vom Absatz ober-/unterhalb mit den Pfeiltasten hineingehen, erscheint ein Buch-Icon 🕮. Ein Klick auf dieses verrät Ihnen, mit welchem Befehl diese Ansicht hergezaubert wurde.)"
 						}
 					]
 				},

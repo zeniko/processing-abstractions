@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:11:36.847+02:00"
+						"dateAndTimeString" : "2025-05-09T23:18:52.4+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T17:05:12.924+02:00"
+						"dateAndTimeString" : "2025-05-09T23:19:41.346+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "sFoSuB/uDQCeoctHAft/yQ=="
+					"uidString" : "gKEAQBzxDQC/uHIzB75YqQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : " Herzlich willkommen zum geführten Kurs \"Abstraktionsebenen bei Programmiersprachen (*Processing Abstractions*)\"."
+				"string" : "Glamorous Toolkit wird von einer kleinen Anzahl Entwickler aktiv weiterentwickelt. Entsprechend funktionieren gewisse Dinge (noch) nicht so einfach, wie Sie sich dies von Windows allenfalls gewohnt sind."
 			},
 			{
 				"__type" : "textSnippet",
@@ -60,7 +60,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:01:06.012+02:00"
+									"dateAndTimeString" : "2025-05-09T23:20:38.904+02:00"
 								}
 							},
 							"editEmail" : {
@@ -71,17 +71,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-07T21:24:48.91+02:00"
+									"dateAndTimeString" : "2025-05-09T23:20:38.904+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "KMzRkR/uDQCBwvk0Aft/yQ=="
+								"uidString" : "2LxZRhzxDQCExl0/B75YqQ=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "... zuerst kurz, was dieses \"Glamorous Toolkit\" ist, wie es sich von anderen Entwicklungsumgebungen unterscheidet und wie Sie damit umgehen (unter [[Arbeiten mit Glamorous Toolkit]])."
+							"string" : "**Seiten bzw. mehrere Absätze können nicht gemeinsam kopiert werden.**"
 						},
 						{
 							"__type" : "textSnippet",
@@ -97,7 +97,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:02:01.877+02:00"
+									"dateAndTimeString" : "2025-05-09T23:19:46.623+02:00"
 								}
 							},
 							"editEmail" : {
@@ -108,17 +108,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-08T22:45:11.526+02:00"
+									"dateAndTimeString" : "2025-05-09T23:20:38.905+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "cMvMlR/uDQCEqJUHAft/yQ=="
+								"uidString" : "GAI8QxzxDQCD2HBnB75YqQ=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "... anhand der Programmiersprache Processing zu programmieren (bzw. Sie repetieren die Kenntnisse aus dem vergangenen Schuljahr; unter [[Wiederholung: Programmieren mit Processing]])."
+							"string" : "Um einzelne Absätze herumzuschieben, verwenden Sie das Hamburger-Menü ≡ unten rechts beim Absatz bzw. die Tastenkombination Shift+Alt+Pfeil."
 						},
 						{
 							"__type" : "textSnippet",
@@ -134,7 +134,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:04:03.445+02:00"
+									"dateAndTimeString" : "2025-05-09T23:20:40.565+02:00"
 								}
 							},
 							"editEmail" : {
@@ -145,17 +145,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:05:08.753+02:00"
+									"dateAndTimeString" : "2025-05-09T23:21:38.726+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "CAEMnR/uDQCKCcdIAft/yQ=="
+								"uidString" : "CBlzRhzxDQCEzqLYB75YqQ=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "... was ein Prozessor von Ihren Programmen tatsächlich sieht (*spoiler alert*: nur Zahlen) und wie Programme darauf ausgeführt werden (unter [[Maschinensprache und Prozessor]])."
+							"string" : "Um mehrere Absätze herumzuschieben, können Sie diese zuerst durch Einrücken (via Hamburger-Menü ≡ oder Shift+Alt+Pfeil) zusammenfassen und anschliessend en ersten Absatz verschieben."
 						},
 						{
 							"__type" : "textSnippet",
@@ -171,7 +171,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:03:10.617+02:00"
+									"dateAndTimeString" : "2025-05-09T23:21:39.041+02:00"
 								}
 							},
 							"editEmail" : {
@@ -182,54 +182,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:06:02.858+02:00"
+									"dateAndTimeString" : "2025-05-09T23:23:27.429+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "2OHlmR/uDQCImHyzAft/yQ=="
+								"uidString" : "GFfvSRzxDQCI9pXCB75YqQ=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "... wie Programme von einem Compiler in Maschinensprache übersetzt werden und welche Schritte dabei nötig und welche Abwägungen dabei gemacht werden müssen (unter [[Funktionen eines Compilers]])."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:08:26.57+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-08T22:44:56.632+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "KPW6rB/uDQCXYZh2Aft/yQ=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "... unter [[Anhang]] Vorschläge für ein eigenes Informatikprojekt kennen."
+							"string" : "Um mehrere Absätze auf eine andere Seite zu kopieren, benötigen Sie bereits die Programmierbarkeit der Umgebung: {{gtPage: How do I move a bunch of snippets from one page to another?|db=2j9m7db2i4oz116bexd7wbdxo}}"
 						}
 					]
 				},
@@ -241,7 +204,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T21:05:58.906+02:00"
+						"dateAndTimeString" : "2025-05-09T23:18:33.412+02:00"
 					}
 				},
 				"editEmail" : {
@@ -252,17 +215,315 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:00:54.559+02:00"
+						"dateAndTimeString" : "2025-05-09T23:20:23.636+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "kITG9h3uDQC+eFZbAft/yQ=="
+					"uidString" : "oOXePhzxDQC/qY7fB75YqQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "In diesem Kurs lernen Sie ..."
+				"string" : "## Wie können Abstätze kopiert werden?"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-09T23:27:33.183+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-09T23:27:33.183+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "MCILXxzxDQCMCs73B75YqQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "**Seiten können nicht direkt durchsucht werden.**"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-09T23:27:28.973+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-09T23:27:33.185+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "yOjKXhzxDQCL7vFCB75YqQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Um Seiten zu finden, können Sie die Such-Funktion beim Inhaltsverzeichnis 🔍 verwenden. Um innerhalb einer Seite zu suchen, klicken Sie oben auf **`i`** und anschliessend auf das erscheinende 🔍. Zurück kommen Sie via **ĭ**."
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-09T23:19:48.144+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-09T23:27:28.545+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "mDNTQxzxDQCD3riNB75YqQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "## Wie können Seiten durchsucht werden?"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-09T23:29:42.585+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-09T23:29:44.044+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "2KLBZhzxDQCNLBczB75YqQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Sie können in diesen Seiten alles verändern! Diese Änderungen sehen nur Sie und werden beim Schliessen der App auf Ihrer Festplatte gespeichert (sofern Sie **Save and quit** wählen)."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-09T23:29:56.707+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-09T23:29:57.245+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "0CKZZxzxDQCNSTbSB75YqQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Falls Sie einzelne Seiten backupen möchten, klicken Sie ganz unten auf `zeniko:processing-abstractions` und ändern Sie es auf `Documents\\lepiter\\default`. Dann werden diese Seiten ausserhalb der Datenbank der App gespeichert:"
+						},
+						{
+							"__type" : "elementSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-09T23:30:14.183+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-09T23:30:27.495+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "cMyjaBzxDQCNaVJeB75YqQ=="
+							},
+							"code" : "GtInspector newOn: LeDatabasesRegistry uniqueInstance defaultPrimaryDatabase monitor localRoot",
+							"elementHeight" : 211,
+							"codeHeight" : 50,
+							"codeVisible" : false
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-09T23:30:11.511+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-09T23:30:12.166+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "IP96aBzxDQCNX9opB75YqQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Was Sie hier sehen, ist eine Ordneransicht, welche direkt in dieser Seite dynamisch eingebettet ist. Sie können diese bei Bedarf hier in Windows öffnen (mit dem `[▶]`)."
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-09T23:27:29.423+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-09T23:29:23.92+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "mMbRXhzxDQCL9GaBB75YqQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "## Wie können Änderungen gesichert werden?"
 			},
 			{
 				"__type" : "textSnippet",
@@ -278,7 +539,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:22:36.695+02:00"
+						"dateAndTimeString" : "2025-05-09T23:31:35.74+02:00"
 					}
 				},
 				"editEmail" : {
@@ -289,12 +550,49 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:47:06.787+02:00"
+						"dateAndTimeString" : "2025-05-09T23:31:35.74+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "2Ent5NXwDQCu+IY9BMwnMw=="
+					"uidString" : "eEKAbRzxDQCN0vj2B75YqQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-09T23:29:42.887+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-09T23:31:41.016+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "cELGZhzxDQCNMk/dB75YqQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
@@ -315,7 +613,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:22:43.94+02:00"
+						"dateAndTimeString" : "2025-05-09T23:31:46.409+02:00"
 					}
 				},
 				"editEmail" : {
@@ -326,164 +624,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:48:00.034+02:00"
+						"dateAndTimeString" : "2025-05-09T23:31:54.792+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "oNZb5dXwDQCvOAMoBMwnMw=="
+					"uidString" : "QA4jbhzxDQCN4Y0vB75YqQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Sie werden auf diesen Seiten immer wieder Aufgaben finden (mit dem Symbol 📝). Bearbeiten Sie diese, überprüfen Sie sich selbst und holen Sie Hilfe, falls etwas nicht klappt."
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:48:17.847+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T14:43:46.829+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "WCjJQNbwDQCzYM+5BMwnMw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "1. Klicken Sie auf das folgende Symbol:"
-						},
-						{
-							"__type" : "commentSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:48:43.688+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:50:51.697+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "oGd+QNbwDQCzXLPEBMwnMw=="
-							},
-							"string" : "Gut gemacht 😉. Falls eine Aufgabe Lösungen hat, stehen diese hier. Sie können sämtliche Lösungen einer Seite mit dem gelben Icon in der oberen rechten Ecke der Seite ein- bzw. ausblenden (das Icon fehlt, falls es keine Lösungen hat). Klicken Sie nun auf das Icon...",
-							"isHidden" : true
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:13:40.256+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T21:58:40.443+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "AHFtvx/uDQClOt4kAft/yQ=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "2. Bitte wählen Sie im Inhaltsverzeichnis (*ToC*) links oder, falls dieses nicht sichtbar ist, durch einen Klick auf folgenden Link das erste Kapitel: [[Arbeiten mit Glamorous Toolkit]]."
-						}
-					]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:51:31.697+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:51:59.574+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "+DlXTNbwDQC7aXP2BMwnMw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Machen Sie nun als erstes bitte folgendes:"
+				"string" : "1. Wie viele Absätze auf dieser Seite enthalten \"rückgängig\"?"
 			},
 			{
 				"__type" : "textSnippet",
@@ -499,7 +650,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:52:38.325+02:00"
+						"dateAndTimeString" : "2025-05-09T23:32:11.23+02:00"
 					}
 				},
 				"editEmail" : {
@@ -510,20 +661,20 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:52:41.64+02:00"
+						"dateAndTimeString" : "2025-05-09T23:32:13.69+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "6MITtx/uDQCearH5Aft/yQ=="
+					"uidString" : "SMudbxzxDQCOAr7RB75YqQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "## Impressum"
+				"string" : "2. Verschieben Sie diese Seite in Ihre persönliche Datenbank, kontrollieren Sie, dass Sie oben erscheint, und anschliessend verschieben Sie sie wieder zurück, damit Sie sie hier wieder finden. (Tipp: Kurz warten, dann neu laden: 🔁)."
 			},
 			{
-				"__type" : "textSnippet",
+				"__type" : "commentSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -536,7 +687,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:12:25.622+02:00"
+						"dateAndTimeString" : "2025-05-09T23:32:37.162+02:00"
 					}
 				},
 				"editEmail" : {
@@ -547,91 +698,15 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-07T21:25:56.734+02:00"
+						"dateAndTimeString" : "2025-05-09T23:32:37.162+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "CJr6uh/uDQCg1j6aAft/yQ=="
+					"uidString" : "KHwpcRzxDQCOId87B75YqQ=="
 				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Dieser Kurs entsteht im Rahmen eines Individuellen Projekts unter Betreuung von Oscar Nierstrasz und Timo Kehrer von der [Software Engineering Group](https://seg.inf.unibe.ch) des Instituts für Informatik an der Universität Bern."
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:06:04.302+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:11:13.93+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "yB5ApB/uDQCSFkzPAft/yQ=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Derzeit ist dieser Kurs noch im Entwicklungsstadium. Unvollständige Ecken und Enden sind zu erwarten. Falls Sie Fehler finden oder Verbesserungsvorschläge haben, teilen Sie mir diese gerne mit: <mailto:simon.buenzli@gymneufeld.ch> (falls der Link nicht funktioniert, stattdessen: <https://inf.zeniko.ch/>)."
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-08T22:34:29.309+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-08T22:35:39.812+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "SLZtgwfxDQCHwZGQA2iQXA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Die Entwicklung dieses Kurses ist in {{gtPage:Individual Project|db=5rgxfv9r684digmpw7ph7kbt4}} dokumentiert."
+				"string" : "",
+				"isHidden" : false
 			}
 		]
 	},
@@ -643,7 +718,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T17:08:37.069+01:00"
+			"dateAndTimeString" : "2025-05-09T23:18:33.368+02:00"
 		}
 	},
 	"editEmail" : {
@@ -654,15 +729,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T17:08:37.069+01:00"
+			"dateAndTimeString" : "2025-05-09T23:18:33.368+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Einleitung"
+		"title" : "Wie geht ...? Häufig gestellte Fragen"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "b82ab1aa-8eed-0d00-8ab8-2d23081d89e9"
+		"uuid" : "d835de3e-1cf1-0d00-bfa8-029507be58a9"
 	}
 }

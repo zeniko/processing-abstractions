@@ -71,7 +71,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T18:55:36.193+02:00"
+									"dateAndTimeString" : "2025-05-09T23:38:12.691+02:00"
 								}
 							},
 							"uid" : {
@@ -81,7 +81,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Die ganze Umgebung ist (wie in den meisten anderen modernen Anwendungen auch) aus vielen Einzelteilen aufgebaut. Diese können via Ctrl+Shift+Alt+Klick im \"{{gtPage:Driller|db=2j9m7db2i4oz116bexd7wbdxo}}\" untersucht werden (**Rückkehr via `x` oben rechts**)."
+							"string" : "Die ganze Umgebung ist (wie in den meisten anderen modernen Anwendungen auch) aus vielen neben-/übereinander gelegten Einzelteilen aufgebaut. Diese können via Ctrl+Shift+Alt+Klick untersucht werden (**Rückkehr via `x` oben rechts**)."
 						},
 						{
 							"__type" : "textSnippet",
@@ -190,7 +190,7 @@
 								"uidString" : "aHKW+FHwDQCV8t9MCEFArw=="
 							},
 							"code" : "GtCoderStencil new",
-							"elementHeight" : 382,
+							"elementHeight" : 460,
 							"codeHeight" : 50,
 							"codeVisible" : false
 						},
@@ -294,7 +294,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T14:48:39.963+02:00"
+									"dateAndTimeString" : "2025-05-09T23:53:42.519+02:00"
 								}
 							},
 							"uid" : {
@@ -304,7 +304,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "1. Untersuchen Sie dieses Element via Ctrl+Shift+Alt+Klick (zuerst alle drei Tasten gedrückt halten, dann erst klicken). Doppelklicken Sie anschliessend auf das hervorgehobene Listenelement, vergrössen Sie es (mit **`+`**) und untersuchen Sie dessen Detailansichten (insbesondere *Raw* - Rohdaten - und *Meta* - Programmierbefehle)."
+							"string" : "1. Untersuchen Sie dieses Element via Ctrl+Shift+Alt+Klick (zuerst alle drei Tasten gedrückt halten, dann erst klicken). Doppelklicken Sie anschliessend auf das hervorgehobene Listenelement, vergrössen Sie es (mit **`⊕`**) und untersuchen Sie dessen Detailansichten (insbesondere *Raw* - Rohdaten - und *Meta* - Programmierbefehle)."
 						},
 						{
 							"__type" : "textSnippet",
