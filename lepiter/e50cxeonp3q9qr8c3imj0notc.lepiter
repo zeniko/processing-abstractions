@@ -397,16 +397,16 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T23:52:16.997+02:00"
+						"dateAndTimeString" : "2025-05-09T08:40:25.56+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "AO8IcFPwDQCkqd0/CEFArw=="
 				},
-				"code" : "\rGtInspector new object: (StepperExamples new sierpinskiStepper stepTo: 1)",
-				"elementHeight" : 656,
-				"codeHeight" : 70,
+				"code" : "StepperExamples new sierpinskiStepper stepTo: 1",
+				"elementHeight" : 686,
+				"codeHeight" : 33,
 				"codeVisible" : false
 			}
 		]

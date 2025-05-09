@@ -330,8 +330,8 @@
 					"uidString" : "2HXhMobwDQC8MAQpB7e7BA=="
 				},
 				"code" : "GtInspector forObject: (ProcessingSource fromPage: thisSnippet page)",
-				"elementHeight" : 597,
-				"codeHeight" : 50,
+				"elementHeight" : 596,
+				"codeHeight" : 31,
 				"codeVisible" : true
 			}
 		]

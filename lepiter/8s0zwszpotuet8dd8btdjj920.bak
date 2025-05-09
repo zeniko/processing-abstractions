@@ -657,17 +657,54 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-08T00:51:26.913+02:00"
+						"dateAndTimeString" : "2025-05-09T07:04:02.58+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "eGSHTfXwDQC1mb6XDGzSSw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program viewSelector: #gtTreeSceneryFor:",
-				"elementHeight" : 832,
-				"codeHeight" : 50,
-				"codeVisible" : true
+				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtTreeSceneryFor:",
+				"elementHeight" : 718,
+				"codeHeight" : 84,
+				"codeVisible" : false
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-09T07:02:57.587+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-09T07:02:57.587+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "UBPdnQ7xDQC8BOtIBQQtAA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
 			}
 		]
 	},
