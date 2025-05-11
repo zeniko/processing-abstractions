@@ -22,7 +22,11 @@ BaselineOfProcessingAbstractions class >> loadLepiter [
 { #category : #baseline }
 BaselineOfProcessingAbstractions >> baseline: spec [
 	<baseline>
-		^ spec for: #common do: [
-			spec package: 'ProcessingAbstractions'
-		]
+	^ spec for: #common do: [
+		spec
+			baseline: 'GtExploration'
+				with: [ spec repository: 'github://zeniko/gt-exploration:main/src' ];
+			package: 'ProcessingAbstractions'
+				with: [ spec requires: 'GtExploration' ]
+	]
 ]

@@ -8,6 +8,117 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-04-29T22:28:23.259+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T21:42:15.979+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "2KU/YFLwDQChU5wGCEFArw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Sie können in diesen Seiten alles verändern! Diese Änderungen sehen nur Sie und werden beim Schliessen der ganzen App auf Ihrer Festplatte gespeichert (sofern Sie **Save and quit** wählen)."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T14:03:41.016+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-09T23:52:58.328+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "2Bv3JNjwDQCtKCZuDBnJ5A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "(Teil-)Ansichten können Sie wie gewohnt mit einem Klick auf **x** schliessen, zum Vergrössern/Verkleinern von Ansichten finden Sie oben links ein `⊕`bzw. `⊖`."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T21:48:47.178+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T21:49:03.688+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "ED2COUPxDQC5v9CSBwMADw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Bei den meisten Apps, die Sie verwenden, arbeiten Entwickler an separaten Versionen, welche in regelmässigen Abständen - wenn sie einigermassen fehlerfrei sind - veröffentlicht werden. Glamorous Toolkit funktioniert anders: Hier sehen Sie die (fast neuste) Entwicklerversion."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
 					"items" : [
 						{
 							"__type" : "textSnippet",
@@ -23,7 +134,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T13:39:17.492+02:00"
+									"dateAndTimeString" : "2025-05-09T23:43:31.152+02:00"
 								}
 							},
 							"editEmail" : {
@@ -34,203 +145,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T13:39:17.492+02:00"
+									"dateAndTimeString" : "2025-05-09T23:49:41.507+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "UH27zdfwDQCQeu55DBnJ5A=="
+								"uidString" : "mJQkmBzxDQC+GXxKDXarXg=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Bei den meisten Apps, die Sie verwenden, arbeiten Entwickler an separaten Versionen, welche in regelmässigen Abständen - wenn sie einigermassen fehlerfrei sind - veröffentlicht werden. Glamorous Toolkit funktioniert anders:"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [
-									{
-										"__type" : "textSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [ ]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-05-09T23:43:31.152+02:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-05-09T23:49:41.507+02:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "mJQkmBzxDQC+GXxKDXarXg=="
-										},
-										"paragraphStyle" : {
-											"__type" : "textStyle"
-										},
-										"string" : "**Scrollen funktioniert holprig.** Teile von Seiten sind selbst scrollbar, daher halten Sie den Cursor am besten jeweils am Seitenrand. Zudem müssen Sie neu geladene Seiten teilweise zuerst nach oben scrollen."
-									},
-									{
-										"__type" : "textSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [ ]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-05-06T13:40:31.159+02:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-05-06T13:41:36.733+02:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "2JYf0tfwDQCVGBFpDBnJ5A=="
-										},
-										"paragraphStyle" : {
-											"__type" : "textStyle"
-										},
-										"string" : "**Die Tastatur hakt manchmal.** Falls Sie nicht wie erwartet funktioniert, drücken Sie zweimal kurz hintereinander die Windows-Taste (Win+Win)."
-									},
-									{
-										"__type" : "textSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [ ]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-05-06T13:59:26.399+02:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-05-06T14:02:02.178+02:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "MPbJFdjwDQCmxlUuDBnJ5A=="
-										},
-										"paragraphStyle" : {
-											"__type" : "textStyle"
-										},
-										"string" : "**Es gibt nur wenig Menüs und Symbolleisten.** Viele Befehle werden am besten via Tastenkombinationen gegeben. Merken Sie sich v.a. weiterhin **`Ctrl+Z`** (und, um das Rückgängig-Machen rückgängig zu machen, `Ctrl+Shift+Z`)."
-									},
-									{
-										"__type" : "textSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [ ]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-05-06T14:44:25.595+02:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-05-06T14:45:02.468+02:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "kGysttjwDQCT2NDGDBnJ5A=="
-										},
-										"paragraphStyle" : {
-											"__type" : "textStyle"
-										},
-										"string" : "**Bei zu schnellem Bearbeiten gibt es manchmal Fehlermeldungen.** Falls sich ein zusätzliches Fenster öffnet, dürfen Sie dieses ohne Konsequenzen wieder schliessen und weiterarbeiten."
-									}
-								]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T13:37:52.176+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T13:40:30.81+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "iItsx9fwDQCJjr/sDBnJ5A=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Hier sehen Sie die (fast neuste) Entwicklerversion. Diese ist \"*bleeding edge*\", was bedeutet, dass sie einerseits die neusten *Features* enthält, aber an manchen Stellen auch unerwartete Fehler. Bekannt sind unter anderem:"
+							"string" : "**Scrollen funktioniert holprig.** Teile von Seiten sind selbst scrollbar, daher halten Sie den Cursor am besten jeweils am Seitenrand. Zudem müssen Sie neu geladene Seiten teilweise zuerst nach oben scrollen."
 						},
 						{
 							"__type" : "textSnippet",
@@ -246,7 +171,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:28:23.259+02:00"
+									"dateAndTimeString" : "2025-05-06T14:44:25.595+02:00"
 								}
 							},
 							"editEmail" : {
@@ -257,17 +182,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T22:29:46.703+02:00"
+									"dateAndTimeString" : "2025-05-06T14:45:02.468+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "2KU/YFLwDQChU5wGCEFArw=="
+								"uidString" : "kGysttjwDQCT2NDGDBnJ5A=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Sie können in diesen Seiten alles verändern! Diese Änderungen sehen nur Sie und werden beim Schliessen der App auf Ihrer Festplatte gespeichert (sofern Sie **Save and quit** wählen)."
+							"string" : "**Bei zu schnellem Bearbeiten gibt es manchmal Fehlermeldungen.** Falls sich ein zusätzliches Fenster öffnet, dürfen Sie dieses ohne Konsequenzen wieder schliessen und weiterarbeiten."
 						},
 						{
 							"__type" : "textSnippet",
@@ -283,7 +208,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T14:03:41.016+02:00"
+									"dateAndTimeString" : "2025-05-06T13:40:31.159+02:00"
 								}
 							},
 							"editEmail" : {
@@ -294,17 +219,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T14:03:41.016+02:00"
+									"dateAndTimeString" : "2025-05-06T13:41:36.733+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "2Bv3JNjwDQCtKCZuDBnJ5A=="
+								"uidString" : "2JYf0tfwDQCVGBFpDBnJ5A=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "(Teil-)Ansichten können Sie wie gewohnt mit einem Klick auf **x** schliessen, zum Vergrössern/Verkleinern von Ansichten finden Sie oben links ein `+`bzw. `-`."
+							"string" : "**Die Tastatur hakt manchmal.** Falls Sie nicht wie erwartet funktioniert, drücken Sie zweimal kurz hintereinander die Windows-Taste (Win+Win)."
 						}
 					]
 				},
@@ -316,7 +241,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:09:58.978+02:00"
+						"dateAndTimeString" : "2025-05-11T21:48:21.051+02:00"
 					}
 				},
 				"editEmail" : {
@@ -327,7 +252,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T13:36:37.056+02:00"
+						"dateAndTimeString" : "2025-05-11T21:49:08.465+02:00"
 					}
 				},
 				"uid" : {
@@ -337,7 +262,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "## Unerklärliche Verhaltensweisen"
+				"string" : "Diese Version ist \"*bleeding edge*\", was bedeutet, dass sie einerseits die neusten *Features* enthält, aber an manchen Stellen auch unerwartete Fehler. Bekannt sind unter anderem:"
 			},
 			{
 				"__type" : "textSnippet",
@@ -364,7 +289,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T23:50:20.492+02:00"
+						"dateAndTimeString" : "2025-05-11T21:43:32.07+02:00"
 					}
 				},
 				"uid" : {
@@ -374,125 +299,50 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "**Vorsicht**: Auf dieser Seite können Sie einzelne Abschnitte auch mit **x** löschen. Im Zweifelsfalls funktioniert wie immer **`Ctrl+Z`**."
+				"string" : "**Vorsicht**: Auf dieser Seite können Sie einzelne Abschnitte auch mit **x** löschen. Im Zweifelsfalls funktioniert wie immer **`Ctrl+Z`** (und `Ctrl+Shift+Z`, um das Rückgängig-Machen rückgängig zu machen)."
 			},
 			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T14:06:17.531+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-09T23:32:03.074+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "eFpLLtjwDQCwWhv4DBnJ5A=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "1. Löschen Sie einen Absatz. Stellen Sie ihn anschliessend wieder her."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-09T23:51:05.369+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-09T23:52:47.304+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "qGU3sxzxDQCDSRkgDXarXg=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "2. Verkleinern Sie diese Ansicht mit ⊖ oben links. Vergrössern Sie sie dann wieder mit ⊕."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T14:07:33.76+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-07T21:19:38.68+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "4BofMtjwDQCzzNhODBnJ5A=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Falls etwas nicht funktioniert, *helfen Sie sich gegenseitig*. Die Antwort zur ersten Aufgabe finden Sie hier:"
-						}
-					]
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T21:49:43.368+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T21:50:44.506+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "QKHbPEPxDQC6JCn7BwMADw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Weitere Hinweise zu Glamorous Toolkit finden Sie im [[Anhang]], unter anderem unter [[Wie geht ...? Häufig gestellte Fragen]]. Gehen Sie dorthin, wenn Sie Hilfe benötigen oder falls Sie später über "
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -524,6 +374,117 @@
 					"__type" : "textStyle"
 				},
 				"string" : "## Aufgaben 📝"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T14:06:17.531+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-09T23:32:03.074+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "eFpLLtjwDQCwWhv4DBnJ5A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "1. Löschen Sie einen Absatz. Stellen Sie ihn anschliessend wieder her."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-09T23:51:05.369+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-09T23:53:06.96+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "qGU3sxzxDQCDSRkgDXarXg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "2. Verkleinern Sie diese Ansicht mit `⊖` oben links. Vergrössern Sie sie dann wieder mit `⊕`."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T14:07:33.76+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T20:56:35.473+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "4BofMtjwDQCzzNhODBnJ5A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Falls etwas nicht funktioniert, *helfen Sie sich gegenseitig*."
 			}
 		]
 	},

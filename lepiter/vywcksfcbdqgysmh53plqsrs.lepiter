@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:16:41.028+02:00"
+						"dateAndTimeString" : "2025-05-11T22:22:37.401+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,51 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:18:14.498+02:00"
+						"dateAndTimeString" : "2025-05-11T22:23:42.399+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "iGKitlTwDQCS+6hFCEFArw=="
+					"uidString" : "qPuEskPxDQCI/YPXBwMADw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Betrachten Sie nun zuerst folgendes Programm"
-			},
-			{
-				"__type" : "processingSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:16:49.266+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T17:57:49.946+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "UElnu1TwDQCTIcdzCEFArw=="
-				},
-				"code" : "size(200, 200)\ra = 200\rwhile a > 0:\r\tellipse(100, 100, a, a)\r\ta = a - 20"
+				"string" : "Prozessoren wie jene von Intel, AMD, Apple, etc. verstehen jeweils ihre eigene Form von Maschinensprache. Daher muss ein Programm für jede Prozessorarchitektur neu compiliert werden."
 			},
 			{
 				"__type" : "textSnippet",
@@ -89,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:18:05.151+02:00"
+						"dateAndTimeString" : "2025-05-11T22:24:27.858+02:00"
 					}
 				},
 				"editEmail" : {
@@ -100,54 +66,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:18:46.139+02:00"
+						"dateAndTimeString" : "2025-05-11T22:26:32.413+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "GDPtv1TwDQCVVfHdCEFArw=="
+					"uidString" : "aPvPtkPxDQCM7kf+BwMADw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Hier finden Sie einen Teil der Ansichten erneut:"
-			},
-			{
-				"__type" : "elementSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:16:44.497+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T01:21:28.682+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "aIQeu1TwDQCTFTpUCEFArw=="
-				},
-				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtAbstractionsFor:",
-				"elementHeight" : 538,
-				"codeHeight" : 50,
-				"codeVisible" : false
+				"string" : "Es gibt nun Umgebungen wie z.B. Glamorous Toolkit hier oder Ihr Webbrowser, welche selbst einen virtuellen Prozessor enthalten, der in einer eigenen Maschinensprache angesprochen wird. Der Vorteil davon ist, dass jeweils eine die App, welche die virtuelle Maschine auf einem tatsächlichen Prozessor ausführt, neu compiliert werden muss. Alle anderen Programme können unverändert auf allen Prozessoren jeweils in der virtuellen Maschine ausgeführt werden."
 			},
 			{
 				"__type" : "textSnippet",
@@ -163,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:18:50.491+02:00"
+						"dateAndTimeString" : "2025-05-11T22:29:54.107+02:00"
 					}
 				},
 				"editEmail" : {
@@ -174,17 +103,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:47:00.891+02:00"
+						"dateAndTimeString" : "2025-05-11T22:30:17.09+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "eAihwlTwDQCXgOYtCEFArw=="
+					"uidString" : "8C4pykPxDQCi9A1IBwMADw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "## Aufgaben 📝"
+				"string" : "Virtuelle Maschinen sind somit abstrahierte Prozessoren, welche aber dieselben Aufgaben in derselben Weise ausführen."
 			},
 			{
 				"__type" : "textSnippet",
@@ -200,7 +129,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:18:54.475+02:00"
+						"dateAndTimeString" : "2025-05-11T22:26:33.576+02:00"
 					}
 				},
 				"editEmail" : {
@@ -211,17 +140,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:19:54.458+02:00"
+						"dateAndTimeString" : "2025-05-11T22:27:39.613+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "+NLdwlTwDQCX3qVACEFArw=="
+					"uidString" : "QLqYwEPxDQCYTaf9BwMADw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Erklären Sie in eigenen Worten, was der Computer machen muss, um das obige Programm in die angezeigte Ausgabe zu verwandeln."
+				"string" : "Programme in Glamorous Toolkit werden nun also in die unter [[Maschinensprache und Prozessor]] angetroffene Maschinensprache übersetzt. Glamorous Toolkit selbst müssen Sie dagegen für Windows oder Mac, etc. separat herunterladen."
 			},
 			{
 				"__type" : "textSnippet",
@@ -237,7 +166,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:19:33.518+02:00"
+						"dateAndTimeString" : "2025-05-11T22:27:40.457+02:00"
 					}
 				},
 				"editEmail" : {
@@ -248,17 +177,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:19:48.487+02:00"
+						"dateAndTimeString" : "2025-05-11T22:28:52.151+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "sJIxxVTwDQCa2l1HCEFArw=="
+					"uidString" : "KECVxEPxDQCd2ii/BwMADw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "2. Benennen Sie die einzelnen Schritte in der korrekten Reihenfolge."
+				"string" : "Apps für den Browser werden teilweise nach [WebAssembly](https://de.wikipedia.org/wiki/WebAssembly) compiliert, welche in Mozilla Firefox, Google Chrome, Microsoft Edge, Apple Safari, etc. auf allen unterstützten Plattformen und Computern ausgeführt werden können."
 			},
 			{
 				"__type" : "textSnippet",
@@ -274,7 +203,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:19:55.751+02:00"
+						"dateAndTimeString" : "2025-05-11T22:30:32.487+02:00"
 					}
 				},
 				"editEmail" : {
@@ -285,20 +214,20 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:26:04.783+02:00"
+						"dateAndTimeString" : "2025-05-11T22:35:25.661+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "WNKExlTwDQCcjWsxCEFArw=="
+					"uidString" : "WDjWzkPxDQCmH44nBwMADw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "3. Erkennen Sie anhand des Maschinencodes Unterschiede zum ursprünglichen Python-Programm? Sie können sämtliche Schritte unten noch einmal einzeln untersuchen (für eine Vergrösserung: **i** und anschliessend `+` klicken)."
+				"string" : "Um ältere Programme auf modernen Computern auszuführen, werden machmal auch ältere Prozessoren virtuell nachgebildet. Solche sogenannte [Emulatoren](https://de.wikipedia.org/wiki/Emulator) erlauben es beispielsweise Spiele von vor 30 oder 40 Jahren noch immer zu spielen, auch wenn diese für heute nicht mehr produzierte Prozessoren compiliert wurden (für ausserhalb des Unterrichts: <https://playclassic.games/>)."
 			},
 			{
-				"__type" : "elementSnippet",
+				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -311,7 +240,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-02T12:17:47.159+02:00"
+						"dateAndTimeString" : "2025-05-11T22:30:44.786+02:00"
 					}
 				},
 				"editEmail" : {
@@ -322,17 +251,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T01:21:51.65+02:00"
+						"dateAndTimeString" : "2025-05-11T22:36:16.92+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "2HXhMobwDQC8MAQpB7e7BA=="
+					"uidString" : "UOORz0PxDQCmmGf+BwMADw=="
 				},
-				"code" : "GtInspector forObject: (ProcessingSource fromPage: thisSnippet page)",
-				"elementHeight" : 596,
-				"codeHeight" : 31,
-				"codeVisible" : false
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Falls Sie am anderen Ende eine stark reduzierte virtuelle Maschine direkt programmieren möchten, schauen Sie sich den [Little Man Computer](https://oinf.ch/interactive/little-man-computer/) an."
 			}
 		]
 	},
@@ -344,7 +273,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-04-01T23:55:00.812+02:00"
+			"dateAndTimeString" : "2025-05-11T22:22:37.385+02:00"
 		}
 	},
 	"editEmail" : {
@@ -355,15 +284,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-05-11T22:51:47.751+02:00"
+			"dateAndTimeString" : "2025-05-11T22:22:37.385+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Repetition: Compiler"
+		"title" : "Prozessoren und virtuelle Maschinen"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "f8b44753-20ee-0d00-a747-1aba03b7525c"
+		"uuid" : "28bd84b2-43f1-0d00-88fc-31110703000f"
 	}
 }

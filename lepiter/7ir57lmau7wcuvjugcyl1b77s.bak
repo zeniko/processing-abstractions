@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T01:05:09.997+02:00"
+						"dateAndTimeString" : "2025-05-11T22:08:34.245+02:00"
 					}
 				},
 				"uid" : {
@@ -137,7 +137,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:55:59.01+02:00"
+						"dateAndTimeString" : "2025-05-11T22:07:17.045+02:00"
 					}
 				},
 				"uid" : {
@@ -147,7 +147,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Tatsächlich sieht der Prozessor vom obigen Programm vielmehr folgendes:"
+				"string" : "Tatsächlich sieht ein Prozessor vom obigen Programm vielmehr beispielsweise folgendes:"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -174,14 +174,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T01:04:45.551+02:00"
+						"dateAndTimeString" : "2025-05-09T01:11:05.131+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "IPItXtvwDQCM5w8vC60Jfw=="
 				},
-				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveFor: #gtBytecodeFor:",
+				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtBytecodeFor:",
 				"elementHeight" : 247,
 				"codeHeight" : 30,
 				"codeVisible" : false
@@ -441,7 +441,7 @@
 					"uidString" : "4BgtbN3wDQC139o/ANfT7g=="
 				},
 				"string" : "Zur Kontrolle können Sie in der folgenden Ansicht den direkten Zusammenhang zwischen Processing-Befehlen und Maschinencodes durch Klicken untersuchen:",
-				"isHidden" : true
+				"isHidden" : false
 			},
 			{
 				"__type" : "textSnippet",
@@ -505,14 +505,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T01:05:25.863+02:00"
+						"dateAndTimeString" : "2025-05-09T01:11:05.25+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "8AWcad3wDQC1jRxNANfT7g=="
 				},
-				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveFor: #gtBytecodePlusSourceFor:",
+				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtBytecodePlusSourceFor:",
 				"elementHeight" : 241,
 				"codeHeight" : 48,
 				"codeVisible" : false

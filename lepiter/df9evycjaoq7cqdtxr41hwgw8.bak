@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:08:39.587+02:00"
+						"dateAndTimeString" : "2025-05-11T20:54:16.931+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Willkommen bei \"Glamorous Toolkit\""
+				"string" : "Willkommen bei \"Glamorous Toolkit\"!"
 			},
 			{
 				"__type" : "textSnippet",
@@ -268,45 +268,7 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T11:15:57.557+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T15:02:47.648+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "qJC3zNXwDQCps8j5BMwnMw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[Wichtige Hinweise]] und [[Alles ist inspizierbar]]."
-						}
-					]
+					"items" : [ ]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -327,7 +289,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T15:02:50.881+02:00"
+						"dateAndTimeString" : "2025-05-11T21:47:37.467+02:00"
 					}
 				},
 				"uid" : {
@@ -337,7 +299,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst mindestens folgende Unterseiten durch:"
+				"string" : "1. Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst die Unterseite [[Wichtige Hinweise]] durch."
 			},
 			{
 				"__type" : "textSnippet",
@@ -353,7 +315,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:09:03.2+02:00"
+						"dateAndTimeString" : "2025-05-06T11:15:57.557+02:00"
 					}
 				},
 				"editEmail" : {
@@ -364,17 +326,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-08T22:45:11.532+02:00"
+						"dateAndTimeString" : "2025-05-11T22:43:41.809+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "AC/mu9rwDQCFoQY0D/7/uQ=="
+					"uidString" : "qJC3zNXwDQCps8j5BMwnMw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "2. Beginnen Sie dann bei [[Maschinensprache und Prozessor]] (dabei werden Sie kurz von [[Wiederholung: Programmieren mit Processing]] die erste Seite repetieren)."
+				"string" : "2. Beginnen Sie dann bei [[Maschinensprache und Prozessor]]."
 			},
 			{
 				"__type" : "textSnippet",
@@ -401,7 +363,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:09:32.744+02:00"
+						"dateAndTimeString" : "2025-05-11T20:55:25.06+02:00"
 					}
 				},
 				"uid" : {
@@ -411,7 +373,44 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "3. Schliesslich bearbeiten Sie [[Funktionen eines Compilers]], sofern die Zeit dazu ausreicht (bzw. als Hausaufgabe)."
+				"string" : "3. Schliesslich bearbeiten Sie [[Funktionen eines Compilers]], soweit die Zeit dazu ausreicht."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T22:43:02.083+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T22:46:13.953+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "uCWE+0PxDQC5UIjGBwMADw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "4. Sofern Sie die ersten drei Kapitel bereits durchgearbeitet haben, empfehle ich Ihnen die Seiten [[Alles ist inspizierbar]] und [[Funktionen]], wobei Sie bei letzterer die soweit angetroffenen Fähigkeiten dieser Umgebung nutzen können, um den Ablauf und Aufbau der beschriebenen Programme zu untersuchen."
 			}
 		]
 	},

@@ -215,7 +215,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:19:41.528+02:00"
+						"dateAndTimeString" : "2025-05-11T23:02:13.114+02:00"
 					}
 				},
 				"uid" : {
@@ -225,7 +225,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Das Übersetzen von einer in die andere Form nennt sich kompilieren (zusammenstellen) und besteht aus folgenden Schritten:"
+				"string" : "Das Übersetzen von einer in die andere Form nennt sich compilieren (zusammenstellen) und besteht aus folgenden Schritten:"
 			}
 		]
 	},

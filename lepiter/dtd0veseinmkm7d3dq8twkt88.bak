@@ -182,7 +182,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T23:25:12.727+02:00"
+									"dateAndTimeString" : "2025-05-06T23:25:35.847+02:00"
 								}
 							},
 							"uid" : {
@@ -192,7 +192,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "**Compiler**: Nun wird das Übersetzte in die Codes übersetzt, welche ein Prozessor tatsächlich versteht: [[Maschinensprache]]"
+							"string" : "**Compiler**: Nun wird das Übersetzte in die Codes übersetzt, welche ein Prozessor tatsächlich versteht: [[Maschinensprache]]. (Das Gelesene wird letztlich in Form neuronaler Verbindungen in Ihrem Gehirn gespeichert.)"
 						}
 					]
 				},

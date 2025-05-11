@@ -294,7 +294,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T14:48:39.963+02:00"
+									"dateAndTimeString" : "2025-05-09T23:53:42.519+02:00"
 								}
 							},
 							"uid" : {
@@ -304,7 +304,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "1. Untersuchen Sie dieses Element via Ctrl+Shift+Alt+Klick (zuerst alle drei Tasten gedrückt halten, dann erst klicken). Doppelklicken Sie anschliessend auf das hervorgehobene Listenelement, vergrössen Sie es (mit **`+`**) und untersuchen Sie dessen Detailansichten (insbesondere *Raw* - Rohdaten - und *Meta* - Programmierbefehle)."
+							"string" : "1. Untersuchen Sie dieses Element via Ctrl+Shift+Alt+Klick (zuerst alle drei Tasten gedrückt halten, dann erst klicken). Doppelklicken Sie anschliessend auf das hervorgehobene Listenelement, vergrössen Sie es (mit **`⊕`**) und untersuchen Sie dessen Detailansichten (insbesondere *Raw* - Rohdaten - und *Meta* - Programmierbefehle)."
 						},
 						{
 							"__type" : "textSnippet",
@@ -331,7 +331,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T15:58:24.765+02:00"
+									"dateAndTimeString" : "2025-05-11T21:45:45.494+02:00"
 								}
 							},
 							"uid" : {
@@ -341,7 +341,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "2. Klicken Sie unten auf den Pfeil neben *2 explicit references*. Was wird hier angezeigt?"
+							"string" : "2. Klicken Sie unten auf den Pfeil neben *3 explicit references*. Was wird hier angezeigt?"
 						},
 						{
 							"__type" : "commentSnippet",

@@ -332,7 +332,7 @@
 				"code" : "GtInspector forObject: (ProcessingSource fromPage: thisSnippet page)",
 				"elementHeight" : 596,
 				"codeHeight" : 31,
-				"codeVisible" : true
+				"codeVisible" : false
 			}
 		]
 	},

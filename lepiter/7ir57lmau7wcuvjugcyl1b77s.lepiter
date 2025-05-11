@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T01:05:09.997+02:00"
+						"dateAndTimeString" : "2025-05-11T22:08:34.245+02:00"
 					}
 				},
 				"uid" : {
@@ -137,7 +137,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T17:55:59.01+02:00"
+						"dateAndTimeString" : "2025-05-11T22:07:17.045+02:00"
 					}
 				},
 				"uid" : {
@@ -147,7 +147,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Tatsächlich sieht der Prozessor vom obigen Programm vielmehr folgendes:"
+				"string" : "Tatsächlich sieht ein Prozessor vom obigen Programm vielmehr beispielsweise folgendes:"
 			},
 			{
 				"__type" : "elementSnippet",

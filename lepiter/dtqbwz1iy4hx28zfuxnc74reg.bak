@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T17:05:12.924+02:00"
+						"dateAndTimeString" : "2025-05-09T19:48:01.846+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : " Herzlich willkommen zum geführten Kurs \"Abstraktionsebenen bei Programmiersprachen (*Processing Abstractions*)\"."
+				"string" : "Herzlich willkommen zum geführten Kurs \"Abstraktionsebenen bei Programmiersprachen (*Processing Abstractions*)\"."
 			},
 			{
 				"__type" : "textSnippet",
@@ -82,43 +82,6 @@
 								"__type" : "textStyle"
 							},
 							"string" : "... zuerst kurz, was dieses \"Glamorous Toolkit\" ist, wie es sich von anderen Entwicklungsumgebungen unterscheidet und wie Sie damit umgehen (unter [[Arbeiten mit Glamorous Toolkit]])."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:02:01.877+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-08T22:45:11.526+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "cMvMlR/uDQCEqJUHAft/yQ=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "... anhand der Programmiersprache Processing zu programmieren (bzw. Sie repetieren die Kenntnisse aus dem vergangenen Schuljahr; unter [[Wiederholung: Programmieren mit Processing]])."
 						},
 						{
 							"__type" : "textSnippet",
@@ -208,6 +171,43 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-04-01T23:02:01.877+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-11T20:51:32.009+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "cMvMlR/uDQCEqJUHAft/yQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "... allenfalls repetieren Sie anhand der Programmiersprache Processing zu programmieren (unter [[Wiederholung: Programmieren mit Processing]])."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
 									"dateAndTimeString" : "2025-04-01T23:08:26.57+02:00"
 								}
 							},
@@ -219,7 +219,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-08T22:44:56.632+02:00"
+									"dateAndTimeString" : "2025-05-11T20:52:16.792+02:00"
 								}
 							},
 							"uid" : {
@@ -229,7 +229,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "... unter [[Anhang]] Vorschläge für ein eigenes Informatikprojekt kennen."
+							"string" : "... unter [[Anhang]] weitere Informationen zu \"Glamorous Toolkit\" und allenfalls Ideen für eine Informatik-Maturaarbeit kennen."
 						}
 					]
 				},

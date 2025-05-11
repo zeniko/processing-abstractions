@@ -539,43 +539,6 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T23:31:35.74+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T23:31:35.74+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "eEKAbRzxDQCN0vj2B75YqQ=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : ""
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2025-05-09T23:29:42.887+02:00"
 					}
 				},
@@ -624,7 +587,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T23:31:54.792+02:00"
+						"dateAndTimeString" : "2025-05-11T21:51:17.179+02:00"
 					}
 				},
 				"uid" : {
@@ -634,7 +597,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Wie viele Absätze auf dieser Seite enthalten \"rückgängig\"?"
+				"string" : "1. Wie viele Absätze auf dieser Seite enthalten das Wort \"Seiten\"?"
 			},
 			{
 				"__type" : "textSnippet",
@@ -674,6 +637,43 @@
 				"string" : "2. Verschieben Sie diese Seite in Ihre persönliche Datenbank, kontrollieren Sie, dass Sie oben erscheint, und anschliessend verschieben Sie sie wieder zurück, damit Sie sie hier wieder finden. (Tipp: Kurz warten, dann neu laden: 🔁)."
 			},
 			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T20:56:41.665+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T20:56:42.427+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "6LE2f0LxDQC1OReTBwMADw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : " Die Antwort zur ersten Aufgabe finden Sie hier:"
+			},
+			{
 				"__type" : "commentSnippet",
 				"children" : {
 					"__type" : "snippets",
@@ -698,15 +698,15 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T23:32:37.917+02:00"
+						"dateAndTimeString" : "2025-05-11T21:51:56.809+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "KHwpcRzxDQCOId87B75YqQ=="
 				},
-				"string" : "Es sind zwei Absätze: Einer zu Tastenkombinationen und die Aufgabenstellung.",
-				"isHidden" : true
+				"string" : "Es sind sieben Absätze (ohne diesen diesem hier!).",
+				"isHidden" : false
 			}
 		]
 	},

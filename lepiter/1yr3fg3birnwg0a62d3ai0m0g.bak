@@ -177,14 +177,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T01:09:14.755+02:00"
+						"dateAndTimeString" : "2025-05-09T01:09:46.927+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "IHLSvt3wDQCNGfwSCcaC0g=="
 				},
-				"code" : "# Merke die Zahl 2 in der Variable 'var'\rvar = 2\r# Nimm den Wert von 'var' und vergrössere ihn um 1\rvar = var + 2\r# Zeige den Wert von 'var' an\rprint(var)"
+				"code" : "# Merke die Zahl 2 in der Variable 'var'\rvar = 2\r# Nimm den Wert von 'var' und vergrössere ihn um 1\rvar = var + 1\r# Zeige den Wert von 'var' an\rprint(var)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -433,7 +433,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:00:00.042+02:00"
+						"dateAndTimeString" : "2025-05-11T22:18:08.66+02:00"
 					}
 				},
 				"uid" : {
@@ -441,7 +441,116 @@
 					"uidString" : "sJxLnd/wDQCZU+JCCbxHlA=="
 				},
 				"string" : "Der Befehlszähler wird dreimal jeweils um eins erhöht (für jeden Code, der anschliessend ausgeführt wird. Das Rechenwerk erhält die folgenden Anweisungen: Lege den Wert von `var` auf den Stapel! Lege eine 1 auf den Stapel! Addiere die obersten zwei Werte des Stapels (und lege das Ergebnis wieder auf den Stapel)!",
-				"isHidden" : true
+				"isHidden" : false
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T22:19:33.55+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T22:19:33.55+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "sKOPp0PxDQCCzl6bBwMADw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Korrigieren Sie zuerst Ihre Antworten (gelbes Icon oberhalb)."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T22:18:29.635+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T22:19:35.738+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "6FfAo0PxDQCAY8LUBwMADw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "3. Was geschieht bei Schritt 3 zusätzlich?"
+			},
+			{
+				"__type" : "commentSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T22:18:08.9+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T22:21:17.235+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "oPuDokPxDQCAXovJBwMADw=="
+				},
+				"string" : "Sie sehen nun alle Befehle von Schritt 2 und einen neuen. Der Befehlszähler wird dafür um 1 vergrössert, dann wird dieser Befehl ausgeführt: Das Ergebnis vom Stapel wird (wiederum) im für `var` reservierten Speicherbereich 3 gp",
+				"isHidden" : false
 			},
 			{
 				"__type" : "textSnippet",
