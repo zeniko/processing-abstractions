@@ -34,7 +34,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T23:59:32.397+02:00"
+									"dateAndTimeString" : "2025-05-12T00:20:28.581+02:00"
 								}
 							},
 							"uid" : {
@@ -44,7 +44,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "In eine grundlegendere Sprache (hier Smalltalk, in anderen Fällen z.B. C oder - für den Browser - JavaScript)."
+							"string" : "In eine grundlegendere Sprache; hier Smalltalk, in anderen Fällen z.B. C/C++ oder - für den Browser - JavaScript."
 						},
 						{
 							"__type" : "textSnippet",
@@ -108,7 +108,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T00:55:39.782+02:00"
+									"dateAndTimeString" : "2025-05-12T00:20:54.098+02:00"
 								}
 							},
 							"uid" : {
@@ -118,7 +118,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "In Maschinensprache: Das sind letztlich die Bytes, welche der Prozessor (oder in unserem Fall zuerst ein virtueller Prozessor) erhält."
+							"string" : "In Maschinensprache: Das sind letztlich die Bytes, welche der Prozessor (oder in unserem Fall ein virtueller Prozessor) erhält."
 						}
 					]
 				},
@@ -290,7 +290,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T00:56:32.01+02:00"
+						"dateAndTimeString" : "2025-05-12T00:21:28.384+02:00"
 					}
 				},
 				"uid" : {
@@ -300,7 +300,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Die Übersetzung in Maschinensprache nennt sich \"compilieren\". Die anderen Übersetzungen finden oft statt, da auf den unterschiedlichen Stufen verschiedenes relevant ist:"
+				"string" : "Die Übersetzung in Maschinensprache nennt sich \"compilieren\", andere Übersetzungen werden oft auch \"transpilieren\" genannt. Die anderen Übersetzungen finden oft statt, da auf den unterschiedlichen Stufen verschiedenes relevant ist:"
 			},
 			{
 				"__type" : "textSnippet",
@@ -398,7 +398,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:04:27.996+02:00"
+						"dateAndTimeString" : "2025-05-12T00:22:53.232+02:00"
 					}
 				},
 				"uid" : {
@@ -408,7 +408,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Hier zuerst noch einmal der AST:"
+				"string" : "Hier zur Wiederholung zuerst noch einmal der abstrakte Syntax-Baum (AST) mit den strukturierten *Token*:"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -546,7 +546,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-07T21:20:28.994+02:00"
+						"dateAndTimeString" : "2025-05-12T00:19:18.663+02:00"
 					}
 				},
 				"uid" : {
@@ -572,7 +572,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:07:15.56+02:00"
+						"dateAndTimeString" : "2025-05-12T00:23:10.321+02:00"
 					}
 				},
 				"editEmail" : {
@@ -583,54 +583,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:07:35.119+02:00"
+						"dateAndTimeString" : "2025-05-12T00:23:14.495+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "QDo1mVTwDQC+I0s+CEFArw=="
+					"uidString" : "aJWiYUXxDQCB9di/DKPJJA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "In einem zweiten Schritt werden diese Befehle nun in eine Zwischensprache übersetzt:"
-			},
-			{
-				"__type" : "elementSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:07:39.194+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T01:20:25.292+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "kNqdmlTwDQC/7sz+CEFArw=="
-				},
-				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtIntermediaryRepresentationPlusSourceFor:",
-				"elementHeight" : 201,
-				"codeHeight" : 50,
-				"codeVisible" : false
+				"string" : "## Aufgaben 📝"
 			},
 			{
 				"__type" : "textSnippet",
@@ -646,7 +609,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:07:36.138+02:00"
+						"dateAndTimeString" : "2025-05-12T00:23:17.183+02:00"
 					}
 				},
 				"editEmail" : {
@@ -657,20 +620,20 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:08:42.952+02:00"
+						"dateAndTimeString" : "2025-05-12T00:23:17.547+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "EDlvmlTwDQC/6oCUCEFArw=="
+					"uidString" : "GEoLYkXxDQCCO/VXDKPJJA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Diese werden in einem dritten Schritt durch Zahlen ersetzt:"
+				"string" : "1. Vergleichen Sie den Python und Smalltalk Code. Worin unterscheiden sich diese beiden Sprachen? Notieren Sie drei Unterschiede."
 			},
 			{
-				"__type" : "elementSnippet",
+				"__type" : "commentSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -683,7 +646,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:08:47.443+02:00"
+						"dateAndTimeString" : "2025-05-12T00:27:30.254+02:00"
 					}
 				},
 				"editEmail" : {
@@ -694,172 +657,21 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T01:20:57.552+02:00"
+						"dateAndTimeString" : "2025-05-12T00:31:16.098+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "OECvnlTwDQCBQuzsCEFArw=="
+					"uidString" : "sNggcUXxDQCE7GuLDKPJJA=="
 				},
-				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtBytecodePlusSourceFor:",
-				"elementHeight" : 215,
-				"codeHeight" : 50,
-				"codeVisible" : false
+				"string" : "Smalltalk verwendet \":=\" für Zuweisungen (und \"=\" für Vergleiche).\r\nIn Smalltalk enden alle Befehlszeilen mit einem \".\".\r\nIn Smalltalk werden zusammengehörende Befehle in eckigen Klammern geschrieben.\r\nIn Smalltalk bedeutet das \":\", dass eine Funktion ausgeführt wird (Python nutzt dafür runde Klammern).\r\nHier hat es schliesslich einige zusätzliche Wörter, die mit \"gt\" beginnen. Diese sind nötig, da in Smalltalk alle Befehle in einer Funktion und alle Funktionen innerhalb eines \"Objekts\" sein müssen.",
+				"isHidden" : true
 			},
 			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:11:35.534+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:12:33.324+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "sB20qFTwDQCHl/LDCEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "1. Vergleichen Sie den Python und Smalltalk Code. Worin unterscheiden sich diese beiden Sprachen? Notieren Sie drei Unterschiede."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:12:33.516+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:13:08.52+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "4NkorFTwDQCKMo7WCEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "2. Lesen Sie nun die Übersetzung in die Zwischensprache. Wie viele verschiedene Befehle finden Sie?"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:13:21.172+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:14:46.146+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "IAYAr1TwDQCM2qeHCEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "3. Vergleichen Sie schliesslich Zwischen- mit Maschinensprache. Was wurde hier noch verändert?"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:14:48.472+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:15:25.905+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "wB00tFTwDQCPI40GCEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "4. Vermuten Sie für einige Befehle, wie diese in Maschinensprache übersetzt werden. Verändern Sie nun das ursprüngliche Programm (laden Sie dann die Seite neu) und vergleichen Sie."
-						}
-					]
+					"items" : [ ]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -869,7 +681,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:11:32.543+02:00"
+						"dateAndTimeString" : "2025-05-12T00:24:00.078+02:00"
 					}
 				},
 				"editEmail" : {
@@ -880,17 +692,52 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:11:35.102+02:00"
+						"dateAndTimeString" : "2025-05-12T00:33:55.594+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "GHqGqFTwDQCHSDWfCEFArw=="
+					"uidString" : "sNCZZEXxDQCCZQBeDKPJJA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "## Aufgaben"
+				"string" : "2. Vermuten Sie, was der Code machen wird und führen Sie ihn dann wieder aus (Klick auf \" ▶ \" oder Klick in den Code ganz oben an der Seite und `Ctrl+R`)."
+			},
+			{
+				"__type" : "commentSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-12T00:27:18.636+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-12T00:33:47.755+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "4JFvcEXxDQCE55j9DKPJJA=="
+				},
+				"string" : "Der ursprüngliche Code weist der Variable `a` den Wert 2 zu; vergrössert und speichert diesen Wert dann, solange er kleiner als 5 ist; und gibt schliesslich den Wert von `a` aus, der zu diesem Zeitpunkt 5 sein sollte. Sie können die einzelnen Schritte über \" ▶`i` \" bzw. `Ctrl+G` untersuchen.",
+				"isHidden" : true
 			}
 		]
 	},

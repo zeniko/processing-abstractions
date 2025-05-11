@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:18:25.527+02:00"
+						"dateAndTimeString" : "2025-05-12T01:09:15.466+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,12 +29,49 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:20:43.443+02:00"
+						"dateAndTimeString" : "2025-05-12T01:10:12.107+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "gM99cY7tDQCh2a3LBrdc6Q=="
+					"uidString" : "EFlzBkbxDQCZiHrgAQwXkg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "⚠ **Diese Inhalte sind bloss zur Wiederholung bei Bedarf und müssen heute nicht bearbeitet werden.** ⚠"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-12T01:09:01.583+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-12T01:09:14.482+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "mIKfBUbxDQCZPpkBAQwXkg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"

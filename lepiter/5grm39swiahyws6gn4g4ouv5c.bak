@@ -103,14 +103,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T01:16:46.611+02:00"
+						"dateAndTimeString" : "2025-05-12T00:16:13.271+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "IKk7NVTwDQC/vrhfCEFArw=="
 				},
-				"code" : "size(200, 200)\rrect(50, 50, 100, 100)"
+				"code" : "size(200, 200)\rrect(50, 50, 100, (10 + 15) * 4)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -174,14 +174,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T01:16:42.818+02:00"
+						"dateAndTimeString" : "2025-05-12T00:16:23.883+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "gDjdNVTwDQC/zcPvCEFArw=="
 				},
-				"code" : "size ( 200 , 200 )\rrect (\r\t50 ,\r\t50 ,\r\t100, \r\t100\r)"
+				"code" : "size ( 200 , 200 )\rrect (\r\t50 ,\r\t50 ,\r\t100, \r\t( 10 + 15 )*4\r)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -282,7 +282,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:38:20.872+02:00"
+						"dateAndTimeString" : "2025-05-12T00:02:11.632+02:00"
 					}
 				},
 				"uid" : {
@@ -292,7 +292,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Nun zerlegt ein Lexer das Programm in die tatsächlich relevanten Teile (\"*Tokens*\" bzw. beim Lesen: \"Worte\"):"
+				"string" : "Ein Lexer zerlegt nun das Programm in die tatsächlich relevanten Teile (\"*Tokens*\" bzw. beim Lesen: \"Worte\"):"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -319,17 +319,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:37:22.272+02:00"
+						"dateAndTimeString" : "2025-05-09T01:17:33.8+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "EP2LKODwDQCdA6YeCbxHlA=="
 				},
-				"code" : "GtInspector forObject: (ViewComparison newFor: {\r\n\t(ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) first) program -> #gtTokensFor:.\r\n\t(ProcessingSource fromSnippet: (thisSnippet page children select: [ :snip | snip isKindOf: LePythonSnippet ]) second) program -> #gtTokensFor:.\r\n}) viewSelector: #gtCompareFor:",
+				"code" : "ViewComparison newFor: {\r\n\t(ProcessingSource fromPage: thisSnippet page at: 1) program -> #gtTokensFor:.\r\n\t(ProcessingSource fromPage: thisSnippet page at: 2) program -> #gtTokensFor:.\r\n}",
 				"elementHeight" : 261,
 				"codeHeight" : 50,
-				"codeVisible" : true
+				"codeVisible" : false
 			},
 			{
 				"__type" : "textSnippet",
@@ -443,6 +443,41 @@
 				"string" : "2. Welche Informationen sind von beiden Programmen da jeweils dargestellt?"
 			},
 			{
+				"__type" : "commentSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-06T23:39:53.674+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-12T00:02:39.042+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "EAWoMeDwDQCkvBylCbxHlA=="
+				},
+				"string" : "Zu 1. und 2.: In der oberen Ansicht erkennen Sie für jedes Byte jeweils dessen Position (\"Index\"), dessen Darstellung im Programm und dessen ASCII-/Unicode-Codierung in dezimal und hexadezimal. Die Programme unterscheiden sich nur bezüglich Leerzeichen und Zeilenumbrüchen.",
+				"isHidden" : true
+			},
+			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
@@ -515,41 +550,6 @@
 					"__type" : "textStyle"
 				},
 				"string" : "4. Was ist für den Computer hier wohl ein *Token*?"
-			},
-			{
-				"__type" : "commentSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:39:53.674+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:41:28.532+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "EAWoMeDwDQCkvBylCbxHlA=="
-				},
-				"string" : "Zu 1. und 2.: In der oberen Ansicht erkennen Sie für jedes Byte jeweils dessen Position (\"Index\"), dessen Darstellung im Programm und dessen ASCII-/Unicode-Codierung in dezimal und hexadezimal. Die Programme unterscheiden sich eigentlich nur bezüglich Leerzeichen und Zeilenumbrüchen.",
-				"isHidden" : true
 			},
 			{
 				"__type" : "commentSnippet",

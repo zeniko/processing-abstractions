@@ -332,7 +332,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-11T22:51:11.033+02:00"
+									"dateAndTimeString" : "2025-05-11T22:51:36.677+02:00"
 								}
 							},
 							"uid" : {
@@ -342,7 +342,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : ""
+							"string" : "[[Repetition: Maschinensprache]]"
 						}
 					]
 				},
@@ -544,7 +544,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:54:40.541+02:00"
+									"dateAndTimeString" : "2025-04-01T23:55:02.876+02:00"
 								}
 							},
 							"editEmail" : {
@@ -555,17 +555,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-30T01:26:38.948+02:00"
+									"dateAndTimeString" : "2025-05-11T23:58:43.665+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "gDYSUiDuDQCmV1kxA7dSXA=="
+								"uidString" : "eDNnUyDuDQCnS/NMA7dSXA=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Repetition]]"
+							"string" : "[[Optimierer]]"
 						},
 						{
 							"__type" : "textSnippet",
@@ -581,7 +581,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:55:02.876+02:00"
+									"dateAndTimeString" : "2025-04-01T23:54:40.541+02:00"
 								}
 							},
 							"editEmail" : {
@@ -592,17 +592,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:55:06.445+02:00"
+									"dateAndTimeString" : "2025-05-11T22:51:47.757+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "eDNnUyDuDQCnS/NMA7dSXA=="
+								"uidString" : "gDYSUiDuDQCmV1kxA7dSXA=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Optimierungen]]"
+							"string" : "[[Repetition: Compiler]]"
 						}
 					]
 				},

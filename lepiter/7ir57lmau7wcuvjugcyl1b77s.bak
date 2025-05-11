@@ -441,7 +441,7 @@
 					"uidString" : "4BgtbN3wDQC139o/ANfT7g=="
 				},
 				"string" : "Zur Kontrolle können Sie in der folgenden Ansicht den direkten Zusammenhang zwischen Processing-Befehlen und Maschinencodes durch Klicken untersuchen:",
-				"isHidden" : false
+				"isHidden" : true
 			},
 			{
 				"__type" : "textSnippet",

@@ -71,7 +71,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-11T23:01:38.717+02:00"
+									"dateAndTimeString" : "2025-05-11T23:55:44.916+02:00"
 								}
 							},
 							"uid" : {
@@ -81,7 +81,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Tipp: Kopieren Sie die Video-URL von unterhalb des Video in Ihren Webbrowser."
+							"string" : "Tipp: Kopieren Sie die Video-URL von unterhalb des Videos in Ihren Webbrowser."
 						},
 						{
 							"__type" : "youtubeSnippet",

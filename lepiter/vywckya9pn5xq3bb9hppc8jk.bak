@@ -45,7 +45,79 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [ ]
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-11T22:51:53.112+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-11T23:01:38.717+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "wAErG0TxDQCLNwzaBwMADw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Tipp: Kopieren Sie die Video-URL von unterhalb des Video in Ihren Webbrowser."
+						},
+						{
+							"__type" : "youtubeSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-11T22:52:43.828+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-11T22:58:28.197+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "KLQwHkTxDQCLQhamBwMADw=="
+							},
+							"youtubeUrl" : "https://www.youtube.com/watch?v=4gwYkEK0gOk"
+						}
+					]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -55,7 +127,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T22:51:53.112+02:00"
+						"dateAndTimeString" : "2025-05-11T23:01:32.288+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,51 +138,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T23:01:19.823+02:00"
+						"dateAndTimeString" : "2025-05-11T23:01:32.288+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "wAErG0TxDQCLNwzaBwMADw=="
+					"uidString" : "AIiwPUTxDQCQ72L9BwMADw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Schauen Sie das folgende Video entweder mit (übersetzten) Untertiteln oder mit Kopfhörer (Tipp: Kopieren Sie die Video-URL unt"
-			},
-			{
-				"__type" : "youtubeSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T22:52:43.828+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T22:58:28.197+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "KLQwHkTxDQCLQhamBwMADw=="
-				},
-				"youtubeUrl" : "https://www.youtube.com/watch?v=4gwYkEK0gOk"
+				"string" : "1. Schauen Sie das folgende Video entweder mit (übersetzten) Untertiteln oder mit Kopfhörer."
 			},
 			{
 				"__type" : "textSnippet",

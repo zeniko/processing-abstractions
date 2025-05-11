@@ -215,14 +215,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T01:18:31.416+02:00"
+						"dateAndTimeString" : "2025-05-12T00:17:01.402+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "ONGuE+DwDQCcM5LpCbxHlA=="
 				},
-				"code" : "size(200, 200)\rrect(50, 50, 100, 100)"
+				"code" : "size(200, 200)\rrect(50, 50, 100, (10 + 15) * 4)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -249,7 +249,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:50:01.95+02:00"
+						"dateAndTimeString" : "2025-05-12T00:04:36.073+02:00"
 					}
 				},
 				"uid" : {
@@ -259,7 +259,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Aus den obigen Programmen erkennt der Computer - wie Sie beim Lesen auch! - folgendes:"
+				"string" : "Aus den obigen Programmen erkennt der Parser - wie Sie beim Lesen auch! - nun folgende zusätzliche Struktur:"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -402,7 +402,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T23:53:33.827+02:00"
+									"dateAndTimeString" : "2025-05-12T00:08:51.136+02:00"
 								}
 							},
 							"uid" : {
@@ -412,7 +412,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Er liest zwei *Token*."
+							"string" : "Er liest ein *Token*."
 						},
 						{
 							"__type" : "textSnippet",
@@ -439,7 +439,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T23:54:58.975+02:00"
+									"dateAndTimeString" : "2025-05-12T00:09:01.053+02:00"
 								}
 							},
 							"uid" : {
@@ -449,7 +449,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Anhand der beiden *Token* entscheidet er, was wohl als nächstes folgen müsste. Dann liest er solange *Token*, bis alles, was er erwartet, gefunden wurde. (Allenfalls wiederholt er diese beiden Schritte im inneren erneut, wenn kompliziertere Strukturen auftauchen.)"
+							"string" : "Anhand des *nächsten* *Token* entscheidet er, was wohl als nächstes folgen müsste. Dann liest er solange weitere *Token*, bis alles, was er erwartet, gefunden wurde. (Allenfalls wiederholt er diese beiden Schritte im inneren erneut, wenn kompliziertere Strukturen auftauchen.)"
 						},
 						{
 							"__type" : "textSnippet",
@@ -535,7 +535,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:55:10.894+02:00"
+						"dateAndTimeString" : "2025-05-12T00:09:36.469+02:00"
 					}
 				},
 				"editEmail" : {
@@ -546,20 +546,20 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:56:34.635+02:00"
+						"dateAndTimeString" : "2025-05-12T00:10:13.665+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "yKtTaODwDQCFymxECbxHlA=="
+					"uidString" : "CDAgMUXxDQCximNnDKPJJA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "3. Betrachten Sie den folgenden Code, welcher das oben beschrieben Vorgehen umdreht: Woraus besteht nun also ein Funktionsaufruf?"
+				"string" : "3. Was bedeutet das bei 2. beschriebene Vorgehen zum Beispiel, wenn der Parser eine sich öffnende Klammer findet?"
 			},
 			{
-				"__type" : "textSnippet",
+				"__type" : "commentSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -572,7 +572,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:56:36.619+02:00"
+						"dateAndTimeString" : "2025-05-12T00:10:18.197+02:00"
 					}
 				},
 				"editEmail" : {
@@ -583,23 +583,59 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:56:44.43+02:00"
+						"dateAndTimeString" : "2025-05-12T00:17:21.836+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "KLdvbeDwDQCIlpgMCbxHlA=="
+					"uidString" : "COicM0XxDQC0KggrDKPJJA=="
 				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "{{gtMethod:ProcessingTokenExtractor>>#visitFunctionCallExpression:|expanded}}"
+				"string" : "Bei einer sich öffnenden Klammer liest der Parser alle weiteren Token bis zu einer sich schliessenden Klammer. Findet er vorher eine neue sich öffnende Klammer, wiederholt er das Vorgehen allerdings im Inneren! Damit werden automatisch Klammerpaare wie Sie es erwarten gebildet.",
+				"isHidden" : true
 			},
 			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [ ]
+					"items" : [
+						{
+							"__type" : "elementSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-08T00:50:55.611+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-09T07:04:02.58+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "eGSHTfXwDQC1mb6XDGzSSw=="
+							},
+							"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtTreeSceneryFor:",
+							"elementHeight" : 718,
+							"codeHeight" : 84,
+							"codeVisible" : false
+						}
+					]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -620,7 +656,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-08T00:53:40.072+02:00"
+						"dateAndTimeString" : "2025-05-12T00:09:40.984+02:00"
 					}
 				},
 				"uid" : {
@@ -630,13 +666,51 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "4. Die Struktur, die so entsteht, heisst \"abstrakter Syntax-Baum\" (AST). Erkennen Sie den Baum unten?"
+				"string" : "4. Die Struktur, die so entsteht, heisst \"abstrakter Syntax-Baum\" (AST). Erkennen Sie den Baum?"
 			},
 			{
-				"__type" : "elementSnippet",
+				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [ ]
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T23:56:36.619+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-06T23:56:44.43+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "KLdvbeDwDQCIlpgMCbxHlA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "{{gtMethod:ProcessingTokenExtractor>>#visitFunctionCallExpression:|expanded}}"
+						}
+					]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -646,7 +720,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-08T00:50:55.611+02:00"
+						"dateAndTimeString" : "2025-05-06T23:55:10.894+02:00"
 					}
 				},
 				"editEmail" : {
@@ -657,17 +731,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T07:04:02.58+02:00"
+						"dateAndTimeString" : "2025-05-12T00:09:43.97+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "eGSHTfXwDQC1mb6XDGzSSw=="
+					"uidString" : "yKtTaODwDQCFymxECbxHlA=="
 				},
-				"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtTreeSceneryFor:",
-				"elementHeight" : 718,
-				"codeHeight" : 84,
-				"codeVisible" : false
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "* 5. Betrachten Sie den folgenden Code, welcher das oben beschrieben Vorgehen umdreht: Aus welchen Token besteht nun also ein Funktionsaufruf?"
 			}
 		]
 	},

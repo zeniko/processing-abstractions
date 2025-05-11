@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:17:53.684+02:00"
+						"dateAndTimeString" : "2025-05-12T01:11:43.337+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:18:51.795+02:00"
+						"dateAndTimeString" : "2025-05-12T01:12:28.952+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "EON1OlTwDQC/73tYCEFArw=="
+					"uidString" : "oKbEDkbxDQCeoE5UAQwXkg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Wie Sie unter [[Hochsprache und Maschinensprache]] gesehen haben, schreiben wir meist Programme in einer \"geniessbaren\" Hochsprache, während Prozessoren Befehle als kompakte Anweisungen, die aus einzelnen Zahlen bestehen erwarten."
+				"string" : "Sie haben in der Informatik eine ganze Breite an Inhalten angetroffen. Sofern Sie eines dieser Themen im Rahmen einer Maturaarbeit vertiefen möchten, melden Sie sich bitte auch nach Abschluss des Informatikunterrichts bei mir."
 			},
 			{
 				"__type" : "textSnippet",
@@ -60,7 +60,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T23:19:52.762+02:00"
+									"dateAndTimeString" : "2025-05-12T01:13:03.115+02:00"
 								}
 							},
 							"editEmail" : {
@@ -71,17 +71,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T23:21:44.163+02:00"
+									"dateAndTimeString" : "2025-05-12T01:13:58.103+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "UPRr6d/wDQCFHdMTCbxHlA=="
+								"uidString" : "wJjfE0bxDQCk2xPvAQwXkg=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "**Lexer**: Die wesentlichen Inhalte eines Programms bestimmen. (Wenn Sie einen Text lesen, müssen Sie zuerst Worte anstelle von Buchstaben erkennen.)"
+							"string" : "Vergleich der Betriebssysteme \"Windows\" und \"Glamorous Toolkit\" mit technischer Untersuchung einzelner Bestandteile."
 						},
 						{
 							"__type" : "textSnippet",
@@ -97,7 +97,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T23:20:10.296+02:00"
+									"dateAndTimeString" : "2025-05-12T01:16:28.004+02:00"
 								}
 							},
 							"editEmail" : {
@@ -108,17 +108,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T23:22:15.563+02:00"
+									"dateAndTimeString" : "2025-05-12T01:16:54.279+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "2BYf69/wDQCGjqkRCbxHlA=="
+								"uidString" : "oFo7IEbxDQCrzQNRAQwXkg=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "**Parser**: Die Struktur der Inhalte bestimmen: Was gehört womit zusammen? (Die Worte setzen Sie beim Lesen zu Sätzen zusammen, deren grammatikalische Struktur Sie erkennen.)"
+							"string" : "Schreiben eines Programms zur Lösung eines Problems Ihrer Wahl (oder eines anspruchsvolleren Spiels, etc.)."
 						},
 						{
 							"__type" : "textSnippet",
@@ -134,7 +134,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T23:22:18.044+02:00"
+									"dateAndTimeString" : "2025-05-12T01:14:25.839+02:00"
 								}
 							},
 							"editEmail" : {
@@ -145,17 +145,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T23:24:24.216+02:00"
+									"dateAndTimeString" : "2025-05-12T01:15:01.998+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "eF688t/wDQCNjHizCbxHlA=="
+								"uidString" : "qPtPF0bxDQCnNPbyAQwXkg=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "**Transpiler**: Die strukturierten Inhalte werden in eine einfachere Sprache übersetzt, welche mit weniger Befehlen auskommt und in der allenfalls Wiederholungen/Redundanzen sichtbar werden. (Beim Lesen formulieren Sie das Gelesene in eigenen Worten, wobei der Aktivwortschatz deutlich kleiner als der Passivwortschatz ist.)"
+							"string" : "Graphische Darstellung eines Algorithmus Ihrer Wahl in einer veränderbaren Umgebung."
 						},
 						{
 							"__type" : "textSnippet",
@@ -171,7 +171,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T23:24:25.054+02:00"
+									"dateAndTimeString" : "2025-05-12T01:15:33.11+02:00"
 								}
 							},
 							"editEmail" : {
@@ -182,17 +182,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T23:25:35.847+02:00"
+									"dateAndTimeString" : "2025-05-12T01:16:03.801+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "MGdO+t/wDQCUs5xSCbxHlA=="
+								"uidString" : "ILX1HEbxDQCp3xkDAQwXkg=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "**Compiler**: Nun wird das Übersetzte in die Codes übersetzt, welche ein Prozessor tatsächlich versteht: [[Maschinensprache]]. (Das Gelesene wird letztlich in Form neuronaler Verbindungen in Ihrem Gehirn gespeichert.)"
+							"string" : "Untersuchung möglicher Optimierungen, welche der hier angetroffene Compiler nicht macht."
 						},
 						{
 							"__type" : "textSnippet",
@@ -208,7 +208,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-11T23:56:57.523+02:00"
+									"dateAndTimeString" : "2025-05-12T01:17:15.924+02:00"
 								}
 							},
 							"editEmail" : {
@@ -219,17 +219,54 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-12T00:01:11.825+02:00"
+									"dateAndTimeString" : "2025-05-12T01:17:34.149+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "OJfjA0XxDQCj4U1wDKPJJA=="
+								"uidString" : "II4WI0bxDQCuCKHeAQwXkg=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "**Optimierer**: Der Maschinencode wird allenfalls im Verlauf des Compilierens noch umgeschrieben, damit ein Programm schneller läuft - oder aus weniger Befehlen besteht. (Sie können Gelesenes allenfalls mit anderen Inhalten verknüpfen oder aufs Wesentliche reduzieren, wodurch Sie sich weniger merken müssen.)"
+							"string" : "Vergleich von [[Rekursion]] zwischen Informatik und Mathematik."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-12T01:17:37.063+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-12T01:17:41.323+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "WBxZJEbxDQCvZKyVAQwXkg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "u.v.a.m..."
 						}
 					]
 				},
@@ -241,7 +278,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:18:57.995+02:00"
+						"dateAndTimeString" : "2025-05-12T01:12:29.323+02:00"
 					}
 				},
 				"editEmail" : {
@@ -252,17 +289,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T23:02:13.114+02:00"
+						"dateAndTimeString" : "2025-05-12T01:15:09.376+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "eEd25t/wDQCCKnvlCbxHlA=="
+					"uidString" : "+F4BEkbxDQCjpPNmAQwXkg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Das Übersetzen von einer in die andere Form nennt sich compilieren (zusammenstellen) und besteht aus folgenden Schritten:"
+				"string" : "Aus dem hier Angetroffenen liesse sich zum Beispiel umsetzen:"
 			}
 		]
 	},
@@ -274,7 +311,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T16:52:47.124+01:00"
+			"dateAndTimeString" : "2025-05-12T01:11:34.992+02:00"
 		}
 	},
 	"editEmail" : {
@@ -285,15 +322,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-03-25T17:28:52.533+01:00"
+			"dateAndTimeString" : "2025-05-12T01:11:34.992+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Funktionen eines Compilers"
+		"title" : "Ideen für Maturaarbeiten"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "f8849b71-8eed-0d00-a1db-2bec06b75ce9"
+		"uuid" : "8058c40e-46f1-0d00-9e9f-8443010c1792"
 	}
 }

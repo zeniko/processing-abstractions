@@ -322,7 +322,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-07T21:21:39.578+02:00"
+						"dateAndTimeString" : "2025-05-12T00:34:10.916+02:00"
 					}
 				},
 				"uid" : {
@@ -332,7 +332,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Führen Sie das obenstehende Processing-Programm aus (Klick auf \" ▶ \" oder Klick in den Code und Ctrl+R). Sehen Sie das korrekte Ergebnis?"
+				"string" : "1. Führen Sie das obenstehende Processing-Programm aus (Klick auf \" ▶ \" oder Klick in den Code und `Ctrl+R`). Sehen Sie das korrekte Ergebnis?"
 			},
 			{
 				"__type" : "textSnippet",
@@ -359,7 +359,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T18:05:41.963+02:00"
+						"dateAndTimeString" : "2025-05-12T00:34:16.804+02:00"
 					}
 				},
 				"uid" : {
@@ -369,7 +369,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "2. Verändern Sie im Programm einzelne Zahlen (der Maschinencode sollte automatisch angepasst werden; falls nicht, klicken Sie auf \" ▶a \" bzw. Ctrl+D). Wie verändert sich der Maschinencode?"
+				"string" : "2. Verändern Sie im Programm einzelne Zahlen (der Maschinencode sollte automatisch angepasst werden; falls nicht, klicken Sie auf \" ▶a \" bzw. `Ctrl+D`). Wie verändert sich der Maschinencode?"
 			},
 			{
 				"__type" : "textSnippet",

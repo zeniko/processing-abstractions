@@ -193,6 +193,43 @@
 								"__type" : "textStyle"
 							},
 							"string" : "**Compiler**: Nun wird das Übersetzte in die Codes übersetzt, welche ein Prozessor tatsächlich versteht: [[Maschinensprache]]. (Das Gelesene wird letztlich in Form neuronaler Verbindungen in Ihrem Gehirn gespeichert.)"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-11T23:56:57.523+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-12T00:00:56.271+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "OJfjA0XxDQCj4U1wDKPJJA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "**Optimierer**: Der Maschinencode wird allenfalls im Verlauf des Compilierens noch umgeschrieben, damit ein Programm schneller läuft - oder aus weniger Befehlen besteht. (Sie können Gelesenes allenfalls mit anderen Inhalten verknüpfen oder "
 						}
 					]
 				},
@@ -215,7 +252,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T23:19:41.528+02:00"
+						"dateAndTimeString" : "2025-05-11T23:02:13.114+02:00"
 					}
 				},
 				"uid" : {
@@ -225,7 +262,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Das Übersetzen von einer in die andere Form nennt sich kompilieren (zusammenstellen) und besteht aus folgenden Schritten:"
+				"string" : "Das Übersetzen von einer in die andere Form nennt sich compilieren (zusammenstellen) und besteht aus folgenden Schritten:"
 			}
 		]
 	},

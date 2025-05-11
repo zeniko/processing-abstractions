@@ -285,7 +285,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-30T01:26:04.783+02:00"
+						"dateAndTimeString" : "2025-05-12T01:08:00.282+02:00"
 					}
 				},
 				"uid" : {
@@ -295,44 +295,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "3. Erkennen Sie anhand des Maschinencodes Unterschiede zum ursprünglichen Python-Programm? Sie können sämtliche Schritte unten noch einmal einzeln untersuchen (für eine Vergrösserung: **i** und anschliessend `+` klicken)."
-			},
-			{
-				"__type" : "elementSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-02T12:17:47.159+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T01:21:51.65+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "2HXhMobwDQC8MAQpB7e7BA=="
-				},
-				"code" : "GtInspector forObject: (ProcessingSource fromPage: thisSnippet page)",
-				"elementHeight" : 596,
-				"codeHeight" : 31,
-				"codeVisible" : false
+				"string" : "3. Erkennen Sie anhand des Maschinencodes Unterschiede zum ursprünglichen Python-Programm? Sie können sämtliche Schritte auch noch einmal einzeln untersuchen: \" ▶a \" und anschliessend oben links auf `⊕` klicken."
 			}
 		]
 	},
