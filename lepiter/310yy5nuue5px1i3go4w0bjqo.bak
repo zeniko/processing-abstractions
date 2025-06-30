@@ -2026,43 +2026,6 @@
 					"__type" : "textStyle"
 				},
 				"string" : "`width`"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T12:06:15.894+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T12:06:15.894+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "8BcLgdbwDQCCyl7xBMwnMw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "{{gtTodo:label=Automatically generate this page from}} {{gtClass:ProcessingTranspiler}} (emitXxx)"
 			}
 		]
 	},
@@ -2085,12 +2048,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-05-06T12:06:15.894+02:00"
+			"dateAndTimeString" : "2025-05-06T12:06:40.953+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Processing API 2"
+		"title" : "Processing API"
 	},
 	"uid" : {
 		"__type" : "uuid",

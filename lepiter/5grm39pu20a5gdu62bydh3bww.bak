@@ -692,7 +692,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-12T00:26:55.867+02:00"
+						"dateAndTimeString" : "2025-05-12T00:33:55.594+02:00"
 					}
 				},
 				"uid" : {
@@ -702,7 +702,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "2. Vermuten Sie, was der Code machen wird und führen Sie ihn dann wieder aus (Klick auf \" ▶ \" oder Klick in den Code ganz oben an der Seite und Ctrl+R)."
+				"string" : "2. Vermuten Sie, was der Code machen wird und führen Sie ihn dann wieder aus (Klick auf \" ▶ \" oder Klick in den Code ganz oben an der Seite und `Ctrl+R`)."
 			},
 			{
 				"__type" : "commentSnippet",
@@ -729,15 +729,15 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-12T00:33:29.166+02:00"
+						"dateAndTimeString" : "2025-05-12T00:33:47.755+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "4JFvcEXxDQCE55j9DKPJJA=="
 				},
-				"string" : "Der ursprüngliche Code weist der Variable `a` den Wert 2 zu; vergrössert und speichert diesen Wert dann, solange er kleiner als 5 ist; und gibt schliesslich den Wert von `a` aus, der zu diesem Zeitpunkt 5 sein sollte. Sie können die einzelnen Schritte über \" ▶`i` \" bzw. Ctrl",
-				"isHidden" : false
+				"string" : "Der ursprüngliche Code weist der Variable `a` den Wert 2 zu; vergrössert und speichert diesen Wert dann, solange er kleiner als 5 ist; und gibt schliesslich den Wert von `a` aus, der zu diesem Zeitpunkt 5 sein sollte. Sie können die einzelnen Schritte über \" ▶`i` \" bzw. `Ctrl+G` untersuchen.",
+				"isHidden" : true
 			}
 		]
 	},

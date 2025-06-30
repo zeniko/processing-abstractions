@@ -363,7 +363,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T20:55:25.06+02:00"
+						"dateAndTimeString" : "2025-05-11T22:46:26.955+02:00"
 					}
 				},
 				"uid" : {
@@ -373,7 +373,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "3. Schliesslich bearbeiten Sie [[Funktionen eines Compilers]], soweit die Zeit dazu ausreicht."
+				"string" : "3. Schliesslich bearbeiten Sie in der verbleibenden Zeit [[Funktionen eines Compilers]]."
 			},
 			{
 				"__type" : "textSnippet",

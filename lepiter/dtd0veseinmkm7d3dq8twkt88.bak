@@ -182,7 +182,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T23:25:35.847+02:00"
+									"dateAndTimeString" : "2025-06-30T11:21:51.977+02:00"
 								}
 							},
 							"uid" : {
@@ -192,7 +192,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "**Compiler**: Nun wird das Übersetzte in die Codes übersetzt, welche ein Prozessor tatsächlich versteht: [[Maschinensprache]]. (Das Gelesene wird letztlich in Form neuronaler Verbindungen in Ihrem Gehirn gespeichert.)"
+							"string" : "**Compiler**: Nun wird das Übersetzte in die Codes übersetzt, welche ein Prozessor tatsächlich versteht: Maschinensprache. (Das Gelesene wird letztlich in Form neuronaler Verbindungen in Ihrem Gehirn gespeichert.)"
 						},
 						{
 							"__type" : "textSnippet",
@@ -219,7 +219,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-12T00:00:56.271+02:00"
+									"dateAndTimeString" : "2025-06-30T11:22:03.366+02:00"
 								}
 							},
 							"uid" : {
@@ -229,7 +229,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "**Optimierer**: Der Maschinencode wird allenfalls im Verlauf des Compilierens noch umgeschrieben, damit ein Programm schneller läuft - oder aus weniger Befehlen besteht. (Sie können Gelesenes allenfalls mit anderen Inhalten verknüpfen oder "
+							"string" : "**Optimierer**: Der Maschinencode wird allenfalls im Verlauf des Compilierens noch umgeschrieben, damit ein Programm schneller läuft - oder aus weniger Befehlen besteht. (Sie können Gelesenes allenfalls mit anderen Inhalten verknüpfen oder aufs Wesentliche reduzieren, wodurch Sie sich weniger merken müssen.)"
 						}
 					]
 				},
@@ -263,6 +263,81 @@
 					"__type" : "textStyle"
 				},
 				"string" : "Das Übersetzen von einer in die andere Form nennt sich compilieren (zusammenstellen) und besteht aus folgenden Schritten:"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-30T11:22:10.484+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-30T11:23:12.208+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "IPeiTCj1DQCvHH9VBZuNOA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "1. Bearbeiten Sie die zu jedem Schritt gehörenden Unterkapitel:\r\n[[Lexer: Das Programm in \"Worte\" zerlegen]]\r\n[[Parser: Struktur des Programms erkennen]]\r\n[[Transpiler: AST übersetzen]]\r\n[[Compiler: Maschinensprache generieren]]\r\n[[Optimierer]]\r\n(Wählen Sie die entsprechenden Kapitel jeweils im In"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-30T11:22:03.77+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-06-30T11:22:10.292+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "kIQ8TCj1DQCuvn/KBZuNOA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "## Aufgaben 📝"
 			}
 		]
 	},

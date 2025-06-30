@@ -518,7 +518,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T23:46:49.119+02:00"
+									"dateAndTimeString" : "2025-06-30T09:55:22.076+02:00"
 								}
 							},
 							"uid" : {
@@ -529,6 +529,43 @@
 								"__type" : "textStyle"
 							},
 							"string" : "[[Compiler: Maschinensprache generieren]]"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-30T09:55:26.431+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-30T09:55:35.84+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "OLw0Fif1DQCf4Gq8BZuNOA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[Maschinensprache in GT]]"
 						},
 						{
 							"__type" : "textSnippet",
@@ -779,7 +816,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T18:51:11.181+02:00"
+									"dateAndTimeString" : "2025-06-30T10:43:55.482+02:00"
 								}
 							},
 							"uid" : {
@@ -790,6 +827,43 @@
 								"__type" : "textStyle"
 							},
 							"string" : "[[Animationen]]"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-30T10:43:55.991+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-06-30T10:43:59.331+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "2Mffwyf1DQCCzrPjBZuNOA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[Interaktion]]"
 						},
 						{
 							"__type" : "textSnippet",

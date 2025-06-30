@@ -706,7 +706,7 @@
 					"uidString" : "KHwpcRzxDQCOId87B75YqQ=="
 				},
 				"string" : "Es sind sieben Absätze (ohne diesen diesem hier!).",
-				"isHidden" : false
+				"isHidden" : true
 			}
 		]
 	},

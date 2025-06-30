@@ -249,7 +249,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-12T00:04:36.073+02:00"
+						"dateAndTimeString" : "2025-06-30T10:57:06.807+02:00"
 					}
 				},
 				"uid" : {
@@ -259,7 +259,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Aus den obigen Programmen erkennt der Parser - wie Sie beim Lesen auch! - nun folgende zusätzliche Struktur:"
+				"string" : "Aus den obigen Programmen erkennt der Parser - wie Sie beim Lesen auch! - nun folgende zusätzliche Struktur (in der rechten Ansicht):"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -623,14 +623,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-09T07:04:02.58+02:00"
+									"dateAndTimeString" : "2025-06-30T10:11:28.909+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "eGSHTfXwDQC1mb6XDGzSSw=="
 							},
-							"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtTreeSceneryFor:",
+							"code" : "(ProcessingSource fromPage: thisSnippet page) renderLiveView: #gtTreeMondrianFor:",
 							"elementHeight" : 718,
 							"codeHeight" : 84,
 							"codeVisible" : false

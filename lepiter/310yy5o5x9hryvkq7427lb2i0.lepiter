@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T23:52:58.328+02:00"
+						"dateAndTimeString" : "2025-06-30T10:08:34.041+02:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "(Teil-)Ansichten können Sie wie gewohnt mit einem Klick auf **x** schliessen, zum Vergrössern/Verkleinern von Ansichten finden Sie oben links ein `⊕`bzw. `⊖`."
+				"string" : "(Teil-)Ansichten können Sie wie gewohnt mit einem Klick auf **x** schliessen, zum Vergrössern/Verkleinern von Ansichten finden Sie oben links ein `⊕`bzw. `⊖` (Plus oder Minus in einem Kreis)."
 			},
 			{
 				"__type" : "textSnippet",
