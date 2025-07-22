@@ -208,7 +208,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-02T01:04:05.265+02:00"
+						"dateAndTimeString" : "2025-07-22T14:36:10.421+02:00"
 					}
 				},
 				"uid" : {
@@ -218,7 +218,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Zuerst einmal unterscheiden sich diese beiden Programme: Sie bestehen nicht aus denselben Bytes:"
+				"string" : "Zuerst einmal unterscheiden sich diese beiden Programme: Sie bestehen nicht aus denselben Zeichen:"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -245,14 +245,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T01:15:42.532+02:00"
+						"dateAndTimeString" : "2025-07-22T14:36:04.152+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "kMr7FeDwDQCcQeQVCbxHlA=="
 				},
-				"code" : "ViewComparison newFor: {\r\n\t(ProcessingSource fromPage: thisSnippet page at: 1) program -> #gtSourceBytesFor:.\r\n\t(ProcessingSource fromPage: thisSnippet page at: 2) program -> #gtSourceBytesFor:.\r\n}",
+				"code" : "ViewComparison newFor: {\r\n\t(ProcessingSource fromPage: thisSnippet page at: 1) program -> #gtSourceCharsFor:.\r\n\t(ProcessingSource fromPage: thisSnippet page at: 2) program -> #gtSourceCharsFor:.\r\n}",
 				"elementHeight" : 339,
 				"codeHeight" : 50,
 				"codeVisible" : false

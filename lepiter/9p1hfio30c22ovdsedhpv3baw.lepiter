@@ -504,7 +504,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T20:13:31.373+02:00"
+						"dateAndTimeString" : "2025-07-22T15:25:10.72+02:00"
 					}
 				},
 				"uid" : {
@@ -514,7 +514,78 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "4. Erstellen Sie eine eigene kleine \"Choreographie\" mit mehreren bunten Formen."
+				"string" : "4. Erstellen Sie eine eigene kleine \"Choreographie\" mit mehreren bunten Formen:"
+			},
+			{
+				"__type" : "processingSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-07-22T15:25:12.514+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-07-22T15:26:21.427+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "UBdNQub2DQCE3dSaANio+g=="
+				},
+				"code" : ""
+			},
+			{
+				"__type" : "elementSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-07-22T15:25:16.399+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-07-22T15:25:29.383+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "mJ2IQub2DQCE4+GlANio+g=="
+				},
+				"code" : "(ProcessingSource fromSnippet: thisSnippet previousSibling) renderLive",
+				"elementHeight" : 199,
+				"codeHeight" : 50,
+				"codeVisible" : false
 			}
 		]
 	},

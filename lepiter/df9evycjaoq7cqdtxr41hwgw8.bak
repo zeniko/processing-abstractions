@@ -289,7 +289,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T21:47:37.467+02:00"
+						"dateAndTimeString" : "2025-06-30T10:07:53.542+02:00"
 					}
 				},
 				"uid" : {
@@ -299,7 +299,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst die Unterseite [[Wichtige Hinweise]] durch."
+				"string" : "1. Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst die Unterseite [[Wichtige Hinweise]] durch (Klick im Inhaltsverzeichnis)."
 			},
 			{
 				"__type" : "textSnippet",

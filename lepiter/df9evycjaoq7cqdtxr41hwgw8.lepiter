@@ -252,7 +252,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T11:53:19.833+02:00"
+						"dateAndTimeString" : "2025-07-22T14:34:28.33+02:00"
 					}
 				},
 				"uid" : {
@@ -262,7 +262,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "## Aufgaben 📝"
+				"string" : "## Aufgaben (Computerarchitektur) 📝"
 			},
 			{
 				"__type" : "textSnippet",

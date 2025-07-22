@@ -182,7 +182,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-11T20:51:32.009+02:00"
+									"dateAndTimeString" : "2025-07-22T14:33:33.021+02:00"
 								}
 							},
 							"uid" : {
@@ -192,7 +192,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "... allenfalls repetieren Sie anhand der Programmiersprache Processing zu programmieren (unter [[Wiederholung: Programmieren mit Processing]])."
+							"string" : "... allenfalls repetieren Sie anhand der Programmiersprache Processing zu programmieren (unter [[Programmieren mit Processing]])."
 						},
 						{
 							"__type" : "textSnippet",

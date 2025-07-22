@@ -174,14 +174,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-12T00:16:23.883+02:00"
+						"dateAndTimeString" : "2025-05-12T00:16:32.601+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "gDjdNVTwDQC/zcPvCEFArw=="
 				},
-				"code" : "size ( 200 , 200 )\rrect (\r\t50 ,\r\t50 ,\r\t100, \r\t( 10 + 15 )*4\r)"
+				"code" : "size ( 200 , 200 )\rrect (\r\t50 ,\r\t50 ,\r\t100, \r\t(10+15)*4\r)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -245,17 +245,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T01:15:42.532+02:00"
+						"dateAndTimeString" : "2025-07-22T14:36:04.152+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "kMr7FeDwDQCcQeQVCbxHlA=="
 				},
-				"code" : "ViewComparison newFor: {\r\n\t(ProcessingSource fromPage: thisSnippet page at: 1) program -> #gtSourceBytesFor:.\r\n\t(ProcessingSource fromPage: thisSnippet page at: 2) program -> #gtSourceBytesFor:.\r\n}",
+				"code" : "ViewComparison newFor: {\r\n\t(ProcessingSource fromPage: thisSnippet page at: 1) program -> #gtSourceCharsFor:.\r\n\t(ProcessingSource fromPage: thisSnippet page at: 2) program -> #gtSourceCharsFor:.\r\n}",
 				"elementHeight" : 339,
 				"codeHeight" : 50,
-				"codeVisible" : false
+				"codeVisible" : true
 			},
 			{
 				"__type" : "textSnippet",
