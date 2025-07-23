@@ -23,192 +23,6 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-06-30T11:01:56.644+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-06-30T11:02:49.387+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "oDxJBCj1DQCdJnhZBZuNOA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "1. Laden Sie von [Human Resource Machine](https://tomorrowcorporation.com/human-resource-machine-hour-of-code-edition) unten von der Seite die \"Hour of Code Edition for Windows\" herunter und installieren Sie diese."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-06-30T11:02:49.612+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-06-30T11:18:56.23+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "4HZxByj1DQCf5XF1BZuNOA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "2. Starten Sie die installierte App und spielen Sie die ersten sechs Level durch (bis \"Verregneter Sommer\"). Sie erleben dabei einige Befehle, welche ein Prozessor tatsächlich ausführen kann."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-06-30T11:04:28.517+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-06-30T11:19:08.357+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "uJpWDSj1DQCktiatBZuNOA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "3. Bearbeiten Sie [[Hochsprache und Maschinensprache]]: Unter \"Mnemonic\" werden Sie hier Befehlen sehen, welche sehr ungefähr jenen von Humand Resource Machine entsprechen."
-						}
-					]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-30T11:01:48.746+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-30T11:01:56.358+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "ELnQAyj1DQCcvehQBZuNOA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "## Aufgaben GYM1 📝"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-30T11:06:15.166+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-30T11:26:56.034+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "YPCxEyj1DQCo1JH2BZuNOA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "⚠ **Den Rest dieser Seite dürfen Sie ignorieren, darauf kommen wir in GYM2 zurück.** ⚠\r\n\r\n"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
 									"dateAndTimeString" : "2025-05-06T16:34:17.041+02:00"
 								}
 							},
@@ -693,6 +507,117 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-07-23T10:52:24.164+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-07-23T10:52:24.718+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "GG+DkPb2DQCJI/XIDMLU0Q=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "1. Laden Sie von [Human Resource Machine](https://tomorrowcorporation.com/human-resource-machine-hour-of-code-edition) unten von der Seite die \"Hour of Code Edition for Windows\" herunter und installieren Sie diese."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-07-23T10:52:32.41+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-07-23T10:52:32.616+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "kFUBkfb2DQCJLUy5DMLU0Q=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "2. Starten Sie die installierte App und spielen Sie die ersten sechs Level durch (bis \"Verregneter Sommer\"). Sie erleben dabei einige Befehle, welche ein Prozessor tatsächlich ausführen kann."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-07-23T10:52:47.998+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-07-23T10:52:48.492+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "MDDvkfb2DQCJR+/SDMLU0Q=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "3. Bearbeiten Sie [[Hochsprache und Maschinensprache]]: Unter \"Mnemonic\" werden Sie hier Befehlen sehen, welche sehr ungefähr jenen von Humand Resource Machine entsprechen."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
 									"dateAndTimeString" : "2025-05-06T17:12:22.531+02:00"
 								}
 							},
@@ -704,7 +629,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T20:19:08.093+02:00"
+									"dateAndTimeString" : "2025-07-23T10:53:00.859+02:00"
 								}
 							},
 							"uid" : {
@@ -714,7 +639,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "1. Bearbeiten Sie [[Hochsprache und Maschinensprache]], [[Steuerwerk und Rechenwerk]] und [[Maschinensprache]]."
+							"string" : "4. Bearbeiten Sie [[Steuerwerk und Rechenwerk]] und [[Maschinensprache]]."
 						}
 					]
 				},

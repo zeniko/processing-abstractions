@@ -326,7 +326,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T21:50:55.889+02:00"
+						"dateAndTimeString" : "2025-07-23T10:59:42.497+02:00"
 					}
 				},
 				"uid" : {
@@ -336,7 +336,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Weitere Hinweise zu Glamorous Toolkit finden Sie im [[Anhang]], unter anderem unter [[Wie geht ...? Häufig gestellte Fragen]]. Gehen Sie dorthin, wenn Sie Hilfe benötigen oder falls Sie später neugierig sind."
+				"string" : " Weitere Hinweise zu Glamorous Toolkit finden Sie im [[Anhang]], unter anderem unter [[Tast]] und  [[Wie geht ...? Häufig gestellte Fragen]]. Gehen Sie dorthin, wenn Sie Hilfe benötigen oder falls Sie später neugierig sind."
 			},
 			{
 				"__type" : "textSnippet",
@@ -448,6 +448,43 @@
 					"__type" : "textStyle"
 				},
 				"string" : "2. Verkleinern Sie diese Ansicht mit `⊖` oben links. Vergrössern Sie sie dann wieder mit `⊕`."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-07-23T10:49:42.746+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-07-23T10:51:33.269+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "kHfkhvb2DQCFE2VaDMLU0Q=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "3. Fügen Sie nach diesem Abschnitt mit `Ctrl+Enter` einen neuen Abschnitt ein und schreiben Sie `**fetten**` Text (mit nur je einem Sternchen wird der Text dagegen kursiv)."
 			},
 			{
 				"__type" : "textSnippet",
