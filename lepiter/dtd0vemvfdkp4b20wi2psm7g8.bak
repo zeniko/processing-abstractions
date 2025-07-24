@@ -8,43 +8,6 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-30T11:06:15.166+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-30T11:26:56.034+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "YPCxEyj1DQCo1JH2BZuNOA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "⚠ **Den Rest dieser Seite dürfen Sie ignorieren, darauf kommen wir in GYM2 zurück.** ⚠\r\n\r\n"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
 					"items" : [
 						{
 							"__type" : "textSnippet",
@@ -156,45 +119,7 @@
 								"__type" : "textStyle"
 							},
 							"string" : "**Logikschaltungen**: Aus Gattern werden ganze Schaltungen zusammengebaut, welche kompliziertere Wahrheitstabellen erfüllen. Daraus lassen sich z.B. ein Addierwerke oder (rückbezogene) Flip-Flops zum Speichern von Bits aufbauen."
-						}
-					]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T16:33:11.91+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T16:33:26.023+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "yFlXn1LwDQC/GdhtCEFArw=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Sie haben im Unterricht folgende Schichten des Aufbaus eines Prozessors angetroffen:"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [
+						},
 						{
 							"__type" : "textSnippet",
 							"children" : {
@@ -209,7 +134,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T16:57:06.615+02:00"
+									"dateAndTimeString" : "2025-07-24T14:33:58.789+02:00"
 								}
 							},
 							"editEmail" : {
@@ -220,12 +145,12 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T16:58:04.094+02:00"
+									"dateAndTimeString" : "2025-07-24T14:34:00.329+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "SPIKkdrwDQCfTPDmD/7/uQ=="
+								"uidString" : "CAdEjdrwDQCeKyYwD/7/uQ=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
@@ -316,7 +241,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T16:56:56.622+02:00"
+						"dateAndTimeString" : "2025-07-24T14:32:52.421+02:00"
 					}
 				},
 				"editEmail" : {
@@ -327,17 +252,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T16:59:41.615+02:00"
+						"dateAndTimeString" : "2025-07-24T14:33:55.847+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "CAdEjdrwDQCeKyYwD/7/uQ=="
+					"uidString" : "yFlXn1LwDQC/GdhtCEFArw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Weiter folgen auf den höheren Stufen der Hardware:"
+				"string" : "Um einen funktionierenden Computer zu erhalten, benötigen wir unter anderem die folgenden Konzepte, wobei folgende Konzepte jeweils auf vorhergehenden aufbauen (Schichtenmodell!):"
 			},
 			{
 				"__type" : "textSnippet",
@@ -369,7 +294,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T17:00:47.385+02:00"
+									"dateAndTimeString" : "2025-07-24T14:34:58.959+02:00"
 								}
 							},
 							"uid" : {
@@ -443,7 +368,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-07T21:24:00.329+02:00"
+									"dateAndTimeString" : "2025-07-24T14:35:19.723+02:00"
 								}
 							},
 							"uid" : {
@@ -476,7 +401,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T16:59:45.499+02:00"
+						"dateAndTimeString" : "2025-07-24T14:34:42.487+02:00"
 					}
 				},
 				"uid" : {
@@ -486,7 +411,44 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Und Software-mässig:"
+				"string" : "Innerhalb dieser Hardware funktioniert Software folgendermassen:"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-07-24T14:35:20.04+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-07-24T14:36:16.841+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "QI6eyw33DQCjDKpJB0mz9A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Um Software zu erhalten, benötigen wir jeweils einen **Compiler**, welcher von Menschen geschriebene von und von Menschen lesbare Programme in Maschinensprache übersetzt. Diese Übersetzung betrachten wir später unter [[Funktionen eines Compilers]]."
 			},
 			{
 				"__type" : "textSnippet",
@@ -513,7 +475,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-30T11:01:47.879+02:00"
+						"dateAndTimeString" : "2025-07-24T14:36:26.205+02:00"
 					}
 				},
 				"uid" : {
@@ -523,7 +485,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Heute betrachten wir nun, in welcher Form ein Prozessor ein Programm liest und verarbeitet, und wie dies mit Apps zusammenhängt, welche in einer Programmiersprache wie z.B. Processing geschrieben sind."
+				"string" : "Heute betrachten wir , in welcher Form ein Prozessor ein Programm liest und verarbeitet, und wie dies mit Apps zusammenhängt, welche in einer Programmiersprache wie z.B. Processing geschrieben sind."
 			},
 			{
 				"__type" : "textSnippet",
