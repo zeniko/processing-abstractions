@@ -562,7 +562,298 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [ ]
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-12T00:23:17.183+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-12T00:23:17.547+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "GEoLYkXxDQCCO/VXDKPJJA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "1. Vergleichen Sie den Python und Smalltalk Code. Worin unterscheiden sich diese beiden Sprachen? Notieren Sie drei Unterschiede."
+						},
+						{
+							"__type" : "commentSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-12T00:27:30.254+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-12T00:31:16.098+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "sNggcUXxDQCE7GuLDKPJJA=="
+							},
+							"string" : "Smalltalk verwendet \":=\" für Zuweisungen (und \"=\" für Vergleiche).\r\nIn Smalltalk enden alle Befehlszeilen mit einem \".\".\r\nIn Smalltalk werden zusammengehörende Befehle in eckigen Klammern geschrieben.\r\nIn Smalltalk bedeutet das \":\", dass eine Funktion ausgeführt wird (Python nutzt dafür runde Klammern).\r\nHier hat es schliesslich einige zusätzliche Wörter, die mit \"gt\" beginnen. Diese sind nötig, da in Smalltalk alle Befehle in einer Funktion und alle Funktionen innerhalb eines \"Objekts\" sein müssen.",
+							"isHidden" : true
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-12T00:24:00.078+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-12T00:33:55.594+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "sNCZZEXxDQCCZQBeDKPJJA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "2. Vermuten Sie, was der Code machen wird und führen Sie ihn dann wieder aus (Klick auf \" ▶ \" oder Klick in den Code ganz oben an der Seite und `Ctrl+R`)."
+						},
+						{
+							"__type" : "commentSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-12T00:27:18.636+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-12T00:33:47.755+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "4JFvcEXxDQCE55j9DKPJJA=="
+							},
+							"string" : "Der ursprüngliche Code weist der Variable `a` den Wert 2 zu; vergrössert und speichert diesen Wert dann, solange er kleiner als 5 ist; und gibt schliesslich den Wert von `a` aus, der zu diesem Zeitpunkt 5 sein sollte. Sie können die einzelnen Schritte über \" ▶`i` \" bzw. `Ctrl+G` untersuchen.",
+							"isHidden" : true
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-07-25T14:08:48.997+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-07-25T14:11:48.026+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "uIKgiiH3DQCNrdlqBgbCFw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "3. Sie sehen hier für zwei verschiedene Programmiersprachen die Syntax, welche zum gleichen abstrakten Syntaxbaum (AST) gehört. Machen Sie einen Vorschlag für eine dritte Art, den Code darzustellen. Worauf liesse sich z.B. alles verzichten, ohne dass das Programm unlesbar bzw. uneindeutig wird? Wie sähe Ihre Notation für das obenstehende Programm dann aus?"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-07-25T14:11:48.778+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-07-25T14:11:48.778+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "EMhXlSH3DQCXtm9bBgbCFw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : ""
+						},
+						{
+							"__type" : "commentSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-07-25T14:16:04.648+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-07-25T14:19:34.428+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "4CPHlSH3DQCXwaFNBgbCFw=="
+							},
+							"string" : "Sie finden unten zwei verschiedene Syntax-Vorschläge: Beim linken werden für jeden Knoten eines Baumes alle Teile in einer Klammer notiert (reine Präfix-Notation), beim rechten werden dagegen jeweils zuerst die Argumente und erst ganz am Ende der Knoten des Baums notiert (reine Postfix-Notation). In beiden Fällen ist die Syntax einfacher als die gemischte Syntax von Processing oder Smalltalk, was Lexer und Parser stark vereinfachen würde.\r\nTipp: Falls Sie das unter diesem Kommentar stehende Element nicht mit der Maus vergrössern können, klicken Sie ans Ende dieses Kommentares, tippen Sie die `↓` Taste und ziehen Sie dann den ersche",
+							"isHidden" : false
+						},
+						{
+							"__type" : "elementSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-07-25T14:12:01.194+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-07-25T14:14:16.158+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "EDwVliH3DQCXxwfoBgbCFw=="
+							},
+							"code" : "program := (ProcessingSource fromPage: thisSnippet page) program.\rViewComparison\r\tnewFor: {program -> #gtTranspilationPrefixFor:.\r\t\t\tprogram -> #gtTranspilationPostfixFor:}",
+							"elementHeight" : 45,
+							"codeHeight" : 77,
+							"codeVisible" : false
+						}
+					]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -594,150 +885,6 @@
 					"__type" : "textStyle"
 				},
 				"string" : "## Aufgaben 📝"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-12T00:23:17.183+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-12T00:23:17.547+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "GEoLYkXxDQCCO/VXDKPJJA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "1. Vergleichen Sie den Python und Smalltalk Code. Worin unterscheiden sich diese beiden Sprachen? Notieren Sie drei Unterschiede."
-			},
-			{
-				"__type" : "commentSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-12T00:27:30.254+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-12T00:31:16.098+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "sNggcUXxDQCE7GuLDKPJJA=="
-				},
-				"string" : "Smalltalk verwendet \":=\" für Zuweisungen (und \"=\" für Vergleiche).\r\nIn Smalltalk enden alle Befehlszeilen mit einem \".\".\r\nIn Smalltalk werden zusammengehörende Befehle in eckigen Klammern geschrieben.\r\nIn Smalltalk bedeutet das \":\", dass eine Funktion ausgeführt wird (Python nutzt dafür runde Klammern).\r\nHier hat es schliesslich einige zusätzliche Wörter, die mit \"gt\" beginnen. Diese sind nötig, da in Smalltalk alle Befehle in einer Funktion und alle Funktionen innerhalb eines \"Objekts\" sein müssen.",
-				"isHidden" : true
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-12T00:24:00.078+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-12T00:33:55.594+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "sNCZZEXxDQCCZQBeDKPJJA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "2. Vermuten Sie, was der Code machen wird und führen Sie ihn dann wieder aus (Klick auf \" ▶ \" oder Klick in den Code ganz oben an der Seite und `Ctrl+R`)."
-			},
-			{
-				"__type" : "commentSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-12T00:27:18.636+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-12T00:33:47.755+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "4JFvcEXxDQCE55j9DKPJJA=="
-				},
-				"string" : "Der ursprüngliche Code weist der Variable `a` den Wert 2 zu; vergrössert und speichert diesen Wert dann, solange er kleiner als 5 ist; und gibt schliesslich den Wert von `a` aus, der zu diesem Zeitpunkt 5 sein sollte. Sie können die einzelnen Schritte über \" ▶`i` \" bzw. `Ctrl+G` untersuchen.",
-				"isHidden" : true
 			}
 		]
 	},

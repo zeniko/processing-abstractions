@@ -447,7 +447,7 @@
 				"codeVisible" : false
 			},
 			{
-				"__type" : "commentSnippet",
+				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -460,7 +460,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-30T11:08:36.118+02:00"
+						"dateAndTimeString" : "2025-06-30T11:09:32.735+02:00"
 					}
 				},
 				"editEmail" : {
@@ -471,15 +471,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-30T11:09:08.528+02:00"
+						"dateAndTimeString" : "2025-06-30T11:09:33.282+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "CLYYHCj1DQCrMSqABZuNOA=="
+					"uidString" : "GKJ4Hyj1DQCtxhA+BZuNOA=="
 				},
-				"string" : "Eine vollständige Liste der Maschinensprach-Befehle finden Sie im nächsten Kapitel unter [[Maschinensprache in GT]].",
-				"isHidden" : false
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Eine vollständige Liste der Maschinensprach-Befehle finden Sie im nächsten Kapitel unter [[Maschinensprache in GT]]."
 			}
 		]
 	},
