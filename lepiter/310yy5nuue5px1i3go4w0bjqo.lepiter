@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-03-25T22:20:40.205+01:00"
+						"dateAndTimeString" : "2025-07-31T11:10:09.674+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "This is the API which is currently supported by GtProcessing:"
+				"string" : "This is the API which is currently supported by GtProcessing. For comparison, the full Processing API is documented at <https://py.processing.org/reference/>."
 			},
 			{
 				"__type" : "textSnippet",
@@ -344,81 +344,6 @@
 								"__type" : "textStyle"
 							},
 							"string" : "## Shapes"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [
-									{
-										"__type" : "textSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [ ]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-05-21T15:35:53.6+02:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-05-21T15:38:05.225+02:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "AEhaLgfyDQCdiXCKA62o/Q=="
-										},
-										"paragraphStyle" : {
-											"__type" : "textStyle"
-										},
-										"string" : "Draws a circle with the given diameter and its center at `(x; y)`. Short for `ellipse(x, y, d, d)`."
-									}
-								]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-21T15:35:46.524+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-21T15:36:11.793+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "YE/uLQfyDQCdMCOgA62o/Q=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "`circle(x, y, d)`"
 						},
 						{
 							"__type" : "textSnippet",
@@ -824,7 +749,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-03-25T22:23:14.156+01:00"
+												"dateAndTimeString" : "2025-08-03T17:43:16.237+02:00"
 											}
 										},
 										"uid" : {
@@ -834,7 +759,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "Draws a rectangle of the given width and height, parallel to the coordinate axes with its top left corner at `(x; y)`."
+										"string" : "Draws a rectangle of the given width and height, parallel to the coordinate axes with its top left corner at `(x; y)`. If an optional fifth argument is given, corners are rounded by that many pixels."
 									}
 								]
 							},
@@ -857,7 +782,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-03-25T22:22:20.759+01:00"
+									"dateAndTimeString" : "2025-08-03T17:42:53.536+02:00"
 								}
 							},
 							"uid" : {
@@ -868,81 +793,6 @@
 								"__type" : "textStyle"
 							},
 							"string" : "`rect(x, y, width, height)`"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [
-									{
-										"__type" : "textSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [ ]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-05-21T15:38:21.016+02:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-05-21T15:38:43.795+02:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "wKsjNwfyDQCfZl7OA62o/Q=="
-										},
-										"paragraphStyle" : {
-											"__type" : "textStyle"
-										},
-										"string" : "Draws a square with the given side length, parallel to the coordinate axes with its top left corner at `(x; y)`. Short for `rect(x, y, side, side)`."
-									}
-								]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-21T15:38:14.422+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-21T15:38:20.751+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "8A2/NgfyDQCfEjCoA62o/Q=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "`square(x, y, side)`"
 						},
 						{
 							"__type" : "textSnippet",
@@ -1269,7 +1119,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-25T02:24:20.792+02:00"
+									"dateAndTimeString" : "2025-07-31T11:07:22.258+02:00"
 								}
 							},
 							"uid" : {
@@ -1279,7 +1129,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "`color(r, g, b)`"
+							"string" : "`color(r, g, b)`, `color(gray)`"
 						},
 						{
 							"__type" : "textSnippet",
@@ -3517,7 +3367,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-26T14:37:54.074+02:00"
+									"dateAndTimeString" : "2025-07-31T11:08:43.701+02:00"
 								}
 							},
 							"uid" : {
@@ -3527,7 +3377,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Appends the value to the end of the list and returns *a new* list (equivalent to `list + [value]`)."
+							"string" : "Appends the value to the end of the list and returns *a new* list (equivalent to `list + [value]`).\r\n(Note: `list.append(...)` is *not yet* supported.)"
 						}
 					]
 				},
@@ -3667,7 +3517,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-26T14:35:52.543+02:00"
+									"dateAndTimeString" : "2025-07-31T11:08:15.821+02:00"
 								}
 							},
 							"uid" : {
@@ -3677,7 +3527,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Returns a *new* list with its content reversed. (Note: `list[::-1]` is *not yet* supported.)"
+							"string" : "Returns a *new* list with its content reversed.\r\n(Note: `list[::-1]` and `list.reverse()` are *not yet* supported.)"
 						}
 					]
 				},
@@ -3700,7 +3550,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-25T15:34:05.938+02:00"
+						"dateAndTimeString" : "2025-07-31T11:07:44.962+02:00"
 					}
 				},
 				"uid" : {
@@ -3710,7 +3560,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "`reversed(list)`, `reverse(list)`"
+				"string" : "`reversed(list)`"
 			},
 			{
 				"__type" : "textSnippet",
@@ -3742,7 +3592,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-26T14:37:49.525+02:00"
+									"dateAndTimeString" : "2025-08-03T17:44:15.771+02:00"
 								}
 							},
 							"uid" : {
@@ -3752,7 +3602,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Returns a *new* list without the last argument (equivalent to `list[:-1]`)."
+							"string" : "Returns a *new* list without the last argument (equivalent to `list[:-1]`).\r\n(Note: `list.pop()` is *not yet* supported.)"
 						}
 					]
 				},
@@ -3817,7 +3667,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-25T15:35:31.938+02:00"
+									"dateAndTimeString" : "2025-07-31T11:08:48.435+02:00"
 								}
 							},
 							"uid" : {
@@ -3827,7 +3677,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Returns *new* list with its content sorted."
+							"string" : "Returns *new* list with its content sorted.\r\n(Note: `list.sort()` is *not yet* supported.)"
 						}
 					]
 				},
@@ -3850,7 +3700,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-25T15:35:15.882+02:00"
+						"dateAndTimeString" : "2025-07-31T11:07:47.96+02:00"
 					}
 				},
 				"uid" : {
@@ -3860,7 +3710,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "`sorted(list)`, `sort(list)`"
+				"string" : "`sorted(list)`"
 			},
 			{
 				"__type" : "textSnippet",
