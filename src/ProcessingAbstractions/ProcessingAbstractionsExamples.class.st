@@ -127,7 +127,7 @@ def setup():
 def draw():
     global y, dy
     background(192)
-    circle(50, y, 50)
+    ellipse(50, y, 50, 50)
     y += dy; dy += 1
     if y > height - 25:
         dy = -0.9 * dy

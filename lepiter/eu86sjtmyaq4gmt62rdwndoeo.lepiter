@@ -76,7 +76,7 @@
 				"code" : "ProcessingAbstractionsExamples new prellenderBall renderLive",
 				"elementHeight" : 187,
 				"codeHeight" : 50,
-				"codeVisible" : false
+				"codeVisible" : true
 			},
 			{
 				"__type" : "textSnippet",

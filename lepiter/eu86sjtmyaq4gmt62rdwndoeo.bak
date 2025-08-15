@@ -576,7 +576,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T16:00:49.619+02:00"
+						"dateAndTimeString" : "2025-07-22T16:00:53.4+02:00"
 					}
 				},
 				"uid" : {
@@ -586,7 +586,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "**Vorsicht:** Variablennamen dürfen vorerst nur aus Buchstaben und Unterstrichen bestehen (und allenfalls Ziffern am Ende), nicht jedoch aus mehreren Worten (keine Leerzeichen). Sonderzeichen und dekorierte Buchstaben wie ä, é und ñ werden"
+				"string" : "**Vorsicht:** Variablennamen dürfen vorerst nur aus Buchstaben und Unterstrichen bestehen (und allenfalls Ziffern am Ende), nicht jedoch aus mehreren Worten (keine Leerzeichen). Sonderzeichen und dekorierte Buchstaben wie ä, é und ñ werden auch nicht akzeptiert."
 			}
 		]
 	},
