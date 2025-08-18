@@ -263,7 +263,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-03-25T22:22:11.454+01:00"
+												"dateAndTimeString" : "2025-08-17T18:18:11.876+02:00"
 											}
 										},
 										"uid" : {
@@ -273,7 +273,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "Prepares an output canvas of the given dimensions. This command must always be called first (for animations: first command in `def setup`)."
+										"string" : "Prepares an output canvas of the given dimensions. This command must always be called first (for animations, it must be the first command in `def setup`)."
 									}
 								]
 							},
@@ -450,7 +450,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-05-20T20:55:56.668+02:00"
+												"dateAndTimeString" : "2025-08-17T18:19:36.847+02:00"
 											}
 										},
 										"uid" : {
@@ -460,7 +460,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "Renders the image loaded with `loadImage(...)` at the given coordinates (and scales it to fit the given size). Arguments following after the first are identical to `rect`'s. If `width` and `height` are not given, the image's native dimensions are used."
+										"string" : "Renders the image loaded with `loadImage(...)` at the given coordinates (and scales it to fit the given size). All arguments except the first are identical to `rect`'s. If `width` and `height` are not given, the image's native dimensions are used."
 									}
 								]
 							},
@@ -974,7 +974,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-04-18T23:21:28.831+02:00"
+												"dateAndTimeString" : "2025-08-17T18:20:06.893+02:00"
 											}
 										},
 										"uid" : {
@@ -984,7 +984,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "Draws a triangle with its vertices at the points `(x1; y1)`, `(x2; y2)` and `(x3; y3)`."
+										"string" : "Draws a triangle with its vertices at the points `(x1; y1)`, `(x2; y2)`, and `(x3; y3)`."
 									}
 								]
 							},
@@ -1086,7 +1086,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-08-15T17:15:43.59+02:00"
+												"dateAndTimeString" : "2025-08-17T18:20:19.485+02:00"
 											}
 										},
 										"uid" : {
@@ -1096,7 +1096,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "Generates a color value, which can be stored in a variable and can also be used as an argument for `fill(...)`, `stroke(...)` and `background(...)`."
+										"string" : "Generates a color value, which can be stored in a variable and can also be used as an argument for `fill(...)`, `stroke(...)`, and `background(...)`."
 									}
 								]
 							},
@@ -1161,7 +1161,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-05-06T10:07:31.657+02:00"
+												"dateAndTimeString" : "2025-08-17T18:20:26.682+02:00"
 											}
 										},
 										"uid" : {
@@ -1171,7 +1171,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "Selects the color to use for filling rendered shapes. The color is given as three values in the range of 0 to 255 (red, green and blue respectively). Default is white (255, 255, 255)."
+										"string" : "Selects the color to use for filling rendered shapes. The color is given as three values in the range of 0 to 255 (red, green, and blue, respectively). Default is white (255, 255, 255)."
 									}
 								]
 							},
@@ -1943,7 +1943,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-25T14:59:39.757+02:00"
+									"dateAndTimeString" : "2025-08-17T18:21:15.053+02:00"
 								}
 							},
 							"uid" : {
@@ -1953,7 +1953,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "is called repeatedly (up to `frameRate` times per second) for drawing the output."
+							"string" : "Is called repeatedly (up to `frameRate` times per second) for drawing the output."
 						}
 					]
 				},
@@ -2018,7 +2018,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-25T15:00:07.45+02:00"
+									"dateAndTimeString" : "2025-08-17T18:21:16.931+02:00"
 								}
 							},
 							"uid" : {
@@ -2028,7 +2028,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "is called whenever a mouse button has been clicked *and* released."
+							"string" : "Is called whenever a mouse button has been clicked *and* released."
 						}
 					]
 				},
@@ -2093,7 +2093,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-25T15:01:36.691+02:00"
+									"dateAndTimeString" : "2025-08-17T18:22:00.351+02:00"
 								}
 							},
 							"uid" : {
@@ -2103,7 +2103,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "is called whenever the mouse has been moved. Alternatively query `mouseX` and `mouseY` in `draw()`."
+							"string" : "Is called whenever the mouse has been moved. Alternatively, query `mouseX` and `mouseY` in `draw()`."
 						}
 					]
 				},
@@ -2168,7 +2168,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-25T15:01:54.657+02:00"
+									"dateAndTimeString" : "2025-08-17T18:21:58.381+02:00"
 								}
 							},
 							"uid" : {
@@ -2178,7 +2178,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "is called whenever a mouse button has been pressed. Alternatively query `mousePressed` in `draw()`."
+							"string" : "Is called whenever a mouse button has been pressed. Alternatively, query `mousePressed` in `draw()`."
 						}
 					]
 				},
@@ -2243,7 +2243,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-25T15:00:42.337+02:00"
+									"dateAndTimeString" : "2025-08-17T18:21:21.269+02:00"
 								}
 							},
 							"uid" : {
@@ -2253,7 +2253,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "is called whenever a mouse button has been released."
+							"string" : "Is called whenever a mouse button has been released."
 						}
 					]
 				},
@@ -2318,7 +2318,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-25T14:58:50.511+02:00"
+									"dateAndTimeString" : "2025-08-17T18:21:22.484+02:00"
 								}
 							},
 							"uid" : {
@@ -2328,7 +2328,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "is called once as the program starts."
+							"string" : "Is called once as the program starts."
 						}
 					]
 				},
@@ -3030,7 +3030,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-26T19:01:59.92+02:00"
+									"dateAndTimeString" : "2025-08-17T18:22:56.612+02:00"
 								}
 							},
 							"uid" : {
@@ -3040,7 +3040,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Reinitializes the random generator with the given `seed` number. Using the same number will result in the exact same sequence of pseudo-randomly generated numbers."
+							"string" : "Reinitializes the random generator with the given `seed` number. Using the same number will result in the same exact sequence of pseudo-randomly generated numbers."
 						}
 					]
 				},
@@ -4041,7 +4041,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-22T00:05:44.748+02:00"
+									"dateAndTimeString" : "2025-08-17T18:23:35.759+02:00"
 								}
 							},
 							"uid" : {
@@ -4051,7 +4051,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Returns the number of milliseconds that have passed since the program has started."
+							"string" : "Returns the number of milliseconds that have passed since the program started."
 						}
 					]
 				},
@@ -4191,7 +4191,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-28T22:01:31.305+02:00"
+									"dateAndTimeString" : "2025-08-17T18:24:18.726+02:00"
 								}
 							},
 							"uid" : {
@@ -4201,7 +4201,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Prints the given value into an output console (mainly for debugging and for graphic-less program)."
+							"string" : "Prints the given value into an output console (mainly for debugging and for programs without graphical output)."
 						}
 					]
 				},
@@ -4266,7 +4266,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-20T23:23:17.333+02:00"
+									"dateAndTimeString" : "2025-08-17T18:27:47.622+02:00"
 								}
 							},
 							"uid" : {
