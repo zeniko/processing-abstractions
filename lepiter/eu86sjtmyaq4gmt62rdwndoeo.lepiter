@@ -74,9 +74,9 @@
 					"uidString" : "MKtiVOb2DQCLhxuqANio+g=="
 				},
 				"code" : "ProcessingAbstractionsExamples new prellenderBall renderLive",
-				"elementHeight" : 187,
-				"codeHeight" : 50,
-				"codeVisible" : true
+				"elementHeight" : 195,
+				"codeHeight" : 24,
+				"codeVisible" : false
 			},
 			{
 				"__type" : "textSnippet",

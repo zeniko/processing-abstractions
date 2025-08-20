@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T15:14:35.151+02:00"
+						"dateAndTimeString" : "2025-08-20T17:49:50.676+02:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Beachten Sie, dass das hier verwendete Processing nicht exakt dem bisher verwendeten Processing mit Python-Syntax entspricht. Hier handelt es sich um eine von Grund auf neue Implementierung, welche nur das kann, was ich ihr explizit beigebracht habe."
+				"string" : "Beachten Sie, dass das hier verwendete Processing nicht exakt dem bisher verwendeten Processing mit Python-Syntax entspricht. Hier handelt es sich um eine von Grund auf neue Implementierung, welche nur das kann, was ihr explizit beigebracht wurde."
 			},
 			{
 				"__type" : "textSnippet",
@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T15:26:44.688+02:00"
+						"dateAndTimeString" : "2025-08-20T17:56:28.549+02:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Sofern Sie \"unter die Haube\" schauen möchten, finden Sie hier eine Übersicht über alle implementierten Funktionen: {{gtMethod:ProcessingTranspiler>>#visitFunctionCallExpression:}} (klicken Sie auf den Pfeil, bei Interesse auf weitere Pfeile, ...)."
+				"string" : "Sofern Sie \"unter die Haube\" schauen möchten, finden Sie hier einen Einblick in die Implementation einer Funktion: {{gtMethod:ProcessingTranspiler>>#emit_ellipse:}}. Dabei sehen Sie, dass der Funktionsaufruf zuerst bloss übersetzt wird (dazu später mehr unter [[Transpiler: AST übersetzen]]) und im Fall von `ellipse` intern {{gtMethod:ProcessingCanvas>>#ellipse:y:dx:dy:}} aufgerufen wird. Klicken Sie jeweils auf den Pfeil, bei Interesse auf weitere Pfeile, ..., oder klicken Sie auf die Links für einen Überblick über alle implementierten Funktionen..."
 			},
 			{
 				"__type" : "textSnippet",
