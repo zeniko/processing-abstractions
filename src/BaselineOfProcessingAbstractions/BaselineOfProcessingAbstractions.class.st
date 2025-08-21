@@ -25,7 +25,7 @@ BaselineOfProcessingAbstractions >> baseline: spec [
 	^ spec for: #common do: [
 		spec
 			baseline: 'GtExploration'
-				with: [ spec repository: 'github://zeniko/gt-exploration:main/src' ];
+				with: [ spec repository: 'github://zeniko/gt-exploration:thesis/src' ];
 			package: 'ProcessingAbstractions'
 				with: [ spec requires: 'GtExploration' ]
 	]

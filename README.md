@@ -11,12 +11,12 @@ Smalltalk globals
 	at: #BaselineOfGtExploration
 	ifAbsent: [
 		Metacello new
-			repository: 'github://zeniko/gt-exploration:main/src';
+			repository: 'github://zeniko/gt-exploration:thesis/src';
 			baseline: 'GtExploration';
 			load.
 	].
 Metacello new
-	repository: 'github://zeniko/processing-abstractions:main/src';
+	repository: 'github://zeniko/processing-abstractions:thesis/src';
 	baseline: 'ProcessingAbstractions';
 	load
 ```
