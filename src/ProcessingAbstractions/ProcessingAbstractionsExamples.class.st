@@ -1,10 +1,12 @@
 Class {
-	#name : #ProcessingAbstractionsExamples,
-	#superclass : #Object,
-	#category : #'ProcessingAbstractions-Examples'
+	#name : 'ProcessingAbstractionsExamples',
+	#superclass : 'Object',
+	#category : 'ProcessingAbstractions-Examples',
+	#package : 'ProcessingAbstractions',
+	#tag : 'Examples'
 }
 
-{ #category : #examples }
+{ #category : 'examples' }
 ProcessingAbstractionsExamples >> aufgabe1a [
 	<gtExample>
 	| sourceCode source |
@@ -16,7 +18,7 @@ rect(0, 0, 100, 100)'.
 	^ source
 ]
 
-{ #category : #examples }
+{ #category : 'examples' }
 ProcessingAbstractionsExamples >> aufgabe1b [
 	<gtExample>
 	| sourceCode source |
@@ -29,7 +31,7 @@ rect(0, 100, 100, 100)'.
 	^ source
 ]
 
-{ #category : #examples }
+{ #category : 'examples' }
 ProcessingAbstractionsExamples >> aufgabe1c [
 	<gtExample>
 	| sourceCode source |
@@ -43,7 +45,7 @@ rect(100, 100, 100, 100)'.
 	^ source
 ]
 
-{ #category : #examples }
+{ #category : 'examples' }
 ProcessingAbstractionsExamples >> aufgabe2a [
 	<gtExample>
 	| sourceCode source |
@@ -57,7 +59,7 @@ ellipse(100, 100, 100, 100)'.
 	^ source
 ]
 
-{ #category : #examples }
+{ #category : 'examples' }
 ProcessingAbstractionsExamples >> aufgabe2b [
 	<gtExample>
 	| sourceCode source |
@@ -73,7 +75,7 @@ rect(25, 75, 150, 50)'.
 	^ source
 ]
 
-{ #category : #examples }
+{ #category : 'examples' }
 ProcessingAbstractionsExamples >> aufgabe2c [
 	<gtExample>
 	| sourceCode source |
@@ -90,7 +92,7 @@ rect(0, 0, 100, 200)
 	^ source
 ]
 
-{ #category : #examples }
+{ #category : 'examples' }
 ProcessingAbstractionsExamples >> koordinatenSystem [
 	<gtExample>
 	| sourceCode source |
@@ -112,7 +114,7 @@ text("y", 7, 200)'.
 	^ source
 ]
 
-{ #category : #examples }
+{ #category : 'examples' }
 ProcessingAbstractionsExamples >> prellenderBall [
 	<gtExample>
 	| sourceCode source |

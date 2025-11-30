@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-31T11:10:09.674+02:00"
+						"dateAndTimeString" : "2025-08-17T18:29:50.389+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "This is the API which is currently supported by GtProcessing. For comparison, the full Processing API is documented at <https://py.processing.org/reference/>."
+				"string" : "This is the API that is currently supported by GtProcessing. For comparison, the full Processing API is documented at <https://py.processing.org/reference/>."
 			},
 			{
 				"__type" : "textSnippet",
@@ -1943,7 +1943,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-08-17T18:21:15.053+02:00"
+									"dateAndTimeString" : "2025-08-18T21:41:38.513+02:00"
 								}
 							},
 							"uid" : {
@@ -1953,7 +1953,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Is called repeatedly (up to `frameRate` times per second) for drawing the output."
+							"string" : "Is called repeatedly (up to `frameRate` times per second) to draw the output."
 						}
 					]
 				},
@@ -4266,7 +4266,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-08-17T18:27:47.622+02:00"
+									"dateAndTimeString" : "2025-08-18T21:41:52.738+02:00"
 								}
 							},
 							"uid" : {
@@ -4276,7 +4276,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Turns the value into a string, e.g. for concatenating several values for use with `text(...)`."
+							"string" : "Turns the value into a string, e.g. to concate several values for use with `text(...)`."
 						}
 					]
 				},

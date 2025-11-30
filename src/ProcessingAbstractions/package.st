@@ -1,1 +1,1 @@
-Package { #name : #ProcessingAbstractions }
+Package { #name : 'ProcessingAbstractions' }
