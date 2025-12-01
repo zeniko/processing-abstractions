@@ -9,15 +9,15 @@ Class {
 { #category : 'slides' }
 ProcessingAbstractionsOverview >> aboutGt: aSlide [
 	<gtSlide>
-	^ aSlide text
+	^ aSlide textAndElement
 		setPriority;
-		textMargin: 5;
 		newTextWithFormat: (self asBigText: 'Glamorous Toolkit') bold;
 		newTextWithFormat: (self
 				asText: 'GT ist eine open source Smalltalk-Umgebung in der Tradition von Squeak und Pharo.');
 		newTextWithFormat: (self
 				asText: 'GT enthält ein Abbild des laufenden Codes, eine Smalltalk VM, Lepiter Notebooks, etc.');
-		newTextWithFormat: (self asText: 'gtoolkit.com/download')
+		newTextWithFormat: (self asText: 'Verfügbar von gtoolkit.com/download');
+		element: [ (GtCoderElement forClass: ProcessingSource) createInPager maximized ]
 ]
 
 { #category : 'slides' }
@@ -26,59 +26,48 @@ ProcessingAbstractionsOverview >> abstract: aSlide [
 	^ aSlide text
 		setPriority;
 		textMargin: 5;
-		newTextWithFormat: (self asBigText: 'Ideen/Absichten') bold;
+		horizontalWeight: 1;
+		newTextWithFormat: (self asBigText: 'Ideen/Absichten') bold , self cr;
 		newTextWithFormat: (self asText: 'Lehrpersonen können ...') bold;
-		newTextWithFormat: (self asText: '- durch Abstraktionsstufen führen');
-		newTextWithFormat: (self asText: '- interaktive Einheiten kreieren');
-		newTextWithFormat: (self asText: 'Schüler:innen können ...') bold;
-		newTextWithFormat: (self asText: '- Programme untersuchen');
-		newTextWithFormat: (self asText: '- Programme verändern');
-		newTextWithFormat: (self asText: '- Programme selbst schreiben')
+		newTextWithFormat: (self asText: '• durch Abstraktionsstufen führen');
+		newTextWithFormat: (self asText: '• Abstraktionen anschaulich vermitteln');
+		newTextWithFormat: (self asText: '• interaktive Lerneinheiten kreieren') , self cr;
+		newTextWithFormat: (self asText: 'Unterstützte Themen:') bold;
+		newTextWithFormat: (self asText: '• Programmiereinführung');
+		newTextWithFormat: (self asText: '• Verknüpfung mit Hardware');
+		newTextWithFormat: (self asText: '• Compiler-Einblicke')
 ]
 
 { #category : 'slides' }
-ProcessingAbstractionsOverview >> introQuestion1: aSlide [
+ProcessingAbstractionsOverview >> abstractions: aSlide [
 	<gtSlide>
 	^ aSlide labelAndElement
 		setPriority;
-		newTextWithFormat: (self asBigText: 'Was machen die Befehle?') bold;
-		element: [ (ProcessingSource
-				fromString: 'a = 1
-b = 1
-while a < 15:
-	a += b
-	b = a - b
-print(a)') renderLiveView: #gtSourceCodeFor: ]
+		newTextWithFormat: (self asBigText: 'Was geschieht hier?') bold;
+		element: [ self exampleSourceElement: #gtStepsFor: ]
 ]
 
-{ #category : 'slides' }
-ProcessingAbstractionsOverview >> introQuestion2: aSlide [
-	<gtSlide>
-	^ aSlide labelAndElement
-		setPriority;
-		newTextWithFormat: (self asBigText: 'Was gibt dieses Programm aus?') bold;
-		element: [ (ProcessingSource
-				fromString: 'a = 1
-b = 1
-while a < 15:
-	a += b
-	b = a - b
-print(a)') renderLiveView: #gtSourceCodeFor: ]
+{ #category : 'accessing' }
+ProcessingAbstractionsOverview >> exampleSource [
+	| page snippet |
+	page := self lepiterPage: 'Überblick für Lehrpersonen'.
+	snippet := (page children select: [ :snip | snip isKindOf: LePythonSnippet ])
+			first.
+	^ ProcessingSource fromSnippet: snippet
 ]
 
-{ #category : 'slides' }
-ProcessingAbstractionsOverview >> introQuestion3: aSlide [
-	<gtSlide>
-	^ aSlide labelAndElement
-		setPriority;
-		newTextWithFormat: (self asBigText: 'Was geschieht in der Maschine?') bold;
-		element: [ (ProcessingSource
-				fromString: 'a = 1
-b = 1
-while a < 15:
-	a += b
-	b = a - b
-print(a)') renderLiveView: #gtSourceCodeFor: ]
+{ #category : 'accessing' }
+ProcessingAbstractionsOverview >> exampleSourceElement: aView [
+	| element |
+	element := GtInspector
+			forObject: self exampleSource program
+			viewSelector: aView.
+	aView = #gtSourceCodeFor:
+		ifTrue: [ element transform
+				topLeftOrigin;
+				scaleBy: 3;
+				apply ].
+	^ element
 ]
 
 { #category : 'slides' }
@@ -87,23 +76,40 @@ ProcessingAbstractionsOverview >> introQuestion: aSlide [
 	^ aSlide labelAndElement
 		setPriority;
 		newTextWithFormat: (self asBigText: 'Was geschieht hier?') bold;
-		element: [ (ProcessingSource
-				fromString: 'a = 1
-b = 1
-while a < 15:
-	a += b
-	b = a - b
-print(a)') renderLiveView: #gtSourceCodeFor: ]
+		element: [ self exampleSourceElement: #gtSourceCodeFor: ]
 ]
 
 { #category : 'slides' }
 ProcessingAbstractionsOverview >> introQuestionLepiter: aSlide [
 	<gtSlide>
-	^ aSlide lepiterPage
+	^ aSlide labelAndElement
 		setPriority;
-		pageNamed: 'Überblick für Lehrpersonen'
-			from: 'zeniko:processing-abstractions';
-		yourself
+		newFadedText: 'Demo: Eine interaktive Notebook-Seite';
+		element: [ (GtPagerSettings usedPager
+				createWrappedOn: (LePagePhlowTool page: (self lepiterPage: 'Überblick für Lehrpersonen')))
+				maximized ]
+]
+
+{ #category : 'accessing' }
+ProcessingAbstractionsOverview >> lepiterPage: aName [
+	| myDB |
+	myDB := LeDatabasesRegistry default currentLoadedDefaultLogicalDatabase
+			databaseNamed: 'zeniko:processing-abstractions'.
+	^ myDB pageNamed: aName
+]
+
+{ #category : 'slides' }
+ProcessingAbstractionsOverview >> questions: aSlide [
+	<gtSlide>
+	^ aSlide text
+		setPriority;
+		textMargin: 5;
+		horizontalWeight: 1;
+		newTextWithFormat: (self asBigText: 'Fragen') bold , self cr;
+		newTextWithFormat: (self asText: '• Potential?');
+		newTextWithFormat: (self asText: '• Bedürfnisse?');
+		newTextWithFormat: (self asText: '• Interesse?') , self cr , self cr;
+		newTextWithFormat: (self asText: 'simon.buenzli@gymneufeld.ch')
 ]
 
 { #category : 'slides' }
@@ -112,7 +118,8 @@ ProcessingAbstractionsOverview >> quickStartQr: aSlide [
 	^ aSlide textAndElement
 		elementWeight: 0.5;
 		setPriority;
-		newTextWithFormat: (self asBigText: 'Build zum Testen');
+		newTextWithFormat: (self asBigText: 'Build zum Testen:');
+		newTextWithFormat: (self asText: 'inf.zeniko.ch/processing-abstractions');
 		element: [ GtFilePictureLiveSlide new
 				fileReference: FileLocator gtResource
 						/ 'zeniko/processing-abstractions/lepiter/attachments/3k98bdok2eo1r8x76ipxmek68/Processing Abstractions QR.png' ]
@@ -120,7 +127,7 @@ ProcessingAbstractionsOverview >> quickStartQr: aSlide [
 
 { #category : 'accessing' }
 ProcessingAbstractionsOverview >> slidePriorities [
-	^ #(title: #introQuestion: #introQuestion1: #introQuestion2: #introQuestion3: #abstract: #introQuestionLepiter: #aboutGt: #quickStartQr:)
+	^ #(title: #introQuestion: #abstract: #abstractions: #introQuestionLepiter: #aboutGt: #quickStartQr: #unitProgramming: #unitHardware: #unitCompiler: #questions:)
 ]
 
 { #category : 'slides' }
@@ -139,7 +146,41 @@ ProcessingAbstractionsOverview new
 		setPriority;
 		titleBottomPadding: 30;
 		subtitleBottomPadding: 40;
-		titleWithFormat: (self asTitle: 'Programmier-Abstraktionen');
+		titleWithFormat: (self asTitle: 'Abstraktionsebenen beim Programmieren');
 		subtitleWithFormat: (self asTitle: '(neue Lernumgebung)');
 		footerWithFormat: (self asBigText: 'simon.buenzli@gymneufeld.ch')
+]
+
+{ #category : 'slides' }
+ProcessingAbstractionsOverview >> unitCompiler: aSlide [
+	<gtSlide>
+	^ aSlide labelAndElement
+		setPriority;
+		newFadedText: 'Compiler-Einblicke';
+		element: [ (GtPagerSettings usedPager
+				createWrappedOn: (LePagePhlowTool
+						page: (self lepiterPage: 'Compiler: Maschinensprache generieren')))
+				maximized ]
+]
+
+{ #category : 'slides' }
+ProcessingAbstractionsOverview >> unitHardware: aSlide [
+	<gtSlide>
+	^ aSlide labelAndElement
+		setPriority;
+		newFadedText: 'Verknüpfung Hardware und Programmieren';
+		element: [ (GtPagerSettings usedPager
+				createWrappedOn: (LePagePhlowTool page: (self lepiterPage: 'Hochsprache und Maschinensprache')))
+				maximized ]
+]
+
+{ #category : 'slides' }
+ProcessingAbstractionsOverview >> unitProgramming: aSlide [
+	<gtSlide>
+	^ aSlide labelAndElement
+		setPriority;
+		newFadedText: 'Einstieg ins Programmieren';
+		element: [ (GtPagerSettings usedPager
+				createWrappedOn: (LePagePhlowTool page: (self lepiterPage: 'Erste Programme')))
+				maximized ]
 ]

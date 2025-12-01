@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-30T10:08:34.041+02:00"
+						"dateAndTimeString" : "2025-12-01T23:10:11.555+01:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,41 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "(Teil-)Ansichten können Sie wie gewohnt mit einem Klick auf **x** schliessen, zum Vergrössern/Verkleinern von Ansichten finden Sie oben links ein `⊕`bzw. `⊖` (Plus oder Minus in einem Kreis)."
+				"string" : "(Teil-)Ansichten können Sie mit einem Klick auf **▼** und dann **x** schliessen, zum Vergrössern/Verkleinern von Ansichten finden Sie oben links ein `🪟` bzw. `╬` (Rahmen bzw. eingeklappter Rahmen in einem Kreis, das genaue Aussehen sehen Sie auf der nächsten Zeile)."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-12-01T23:06:39.587+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-12-01T23:07:38.362+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "PbjjImBusEmTLhu0Ehfsdw=="
+				},
+				"code" : "BrGlamorousVectorIcons maximize.\rBrGlamorousVectorIcons minimize."
 			},
 			{
 				"__type" : "textSnippet",
@@ -326,7 +360,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-23T10:59:42.497+02:00"
+						"dateAndTimeString" : "2025-07-23T10:59:43.306+02:00"
 					}
 				},
 				"uid" : {
@@ -336,7 +370,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : " Weitere Hinweise zu Glamorous Toolkit finden Sie im [[Anhang]], unter anderem unter [[Tast]] und  [[Wie geht ...? Häufig gestellte Fragen]]. Gehen Sie dorthin, wenn Sie Hilfe benötigen oder falls Sie später neugierig sind."
+				"string" : " Weitere Hinweise zu Glamorous Toolkit finden Sie im [[Anhang]], unter anderem unter [[Tastenkombinationen]] und  [[Wie geht ...? Häufig gestellte Fragen]]. Gehen Sie dorthin, wenn Sie Hilfe benötigen oder falls Sie später neugierig sind."
 			},
 			{
 				"__type" : "textSnippet",
@@ -437,7 +471,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-09T23:53:06.96+02:00"
+						"dateAndTimeString" : "2025-12-01T23:00:55.53+01:00"
 					}
 				},
 				"uid" : {
@@ -447,7 +481,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "2. Verkleinern Sie diese Ansicht mit `⊖` oben links. Vergrössern Sie sie dann wieder mit `⊕`."
+				"string" : "2. Verkleinern Sie diese Ansicht mit `╬` oben links. Vergrössern Sie sie dann wieder mit `🪟`."
 			},
 			{
 				"__type" : "textSnippet",

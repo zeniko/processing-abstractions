@@ -400,7 +400,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-12T00:38:58.061+02:00"
+									"dateAndTimeString" : "2025-05-12T00:52:17.199+02:00"
 								}
 							},
 							"uid" : {
@@ -410,7 +410,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "2. Vergleichen Sie schliesslich Zwischen- mit Maschinensprache. Was wurde hier noch verändert?"
+							"string" : "2. Vergleichen Sie schliesslich Zwischen- mit Maschinensprache (wählen Sie einzelne Befehle unten an). Was wurde hier noch verändert?"
 						},
 						{
 							"__type" : "textSnippet",

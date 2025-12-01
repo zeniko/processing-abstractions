@@ -182,7 +182,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-09T23:23:27.429+02:00"
+									"dateAndTimeString" : "2025-12-01T22:47:11.501+01:00"
 								}
 							},
 							"uid" : {
@@ -192,7 +192,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Um mehrere Absätze auf eine andere Seite zu kopieren, benötigen Sie bereits die Programmierbarkeit der Umgebung: {{gtPage: How do I move a bunch of snippets from one page to another?|db=2j9m7db2i4oz116bexd7wbdxo}}"
+							"string" : "Um mehrere Absätze auf eine andere Seite zu kopieren, benötigen Sie bereits die Programmierbarkeit der Umgebung: {{gtPage:How do I move a bunch of snippets from one page to another?|db=2j9m7db2i4oz116bexd7wbdxo}}"
 						}
 					]
 				},
@@ -698,14 +698,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T21:51:56.809+02:00"
+						"dateAndTimeString" : "2025-12-01T23:01:59.626+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "KHwpcRzxDQCOId87B75YqQ=="
 				},
-				"string" : "Es sind sieben Absätze (ohne diesen diesem hier!).",
+				"string" : "Es sind sieben Absätze (ohne diesen hier!).",
 				"isHidden" : true
 			}
 		]

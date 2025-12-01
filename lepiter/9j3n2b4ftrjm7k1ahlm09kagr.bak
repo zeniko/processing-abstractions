@@ -103,51 +103,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-12-01T00:26:53.088+01:00"
+						"dateAndTimeString" : "2025-12-01T23:29:50.266+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "regNZzTQFEuCenvKvNo6xg=="
 				},
-				"code" : "a = 1\r\nb = 1\r\nwhile a < 15:\r\n\ta += b\r\n\tb = a - b\r\nprint(a)"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-12-01T00:19:57.046+01:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-12-01T00:19:57.046+01:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "IU4JL4TKeEi6gVVnWVodaA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : ""
+				"code" : "a = 1\r\nb = 1\r\nwhile a < 15:5\r\n\ta += b\r\n\tb = a - b\r\nprint(a)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -180,6 +143,43 @@
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "EGuNPWQYJky/NQuHzm95/Q=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-12-01T22:34:12.218+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-12-01T22:34:12.218+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "ebdyVDLJO0KT1tAhzFZAiw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
@@ -575,7 +575,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-12-01T00:42:55.86+01:00"
+						"dateAndTimeString" : "2025-12-01T23:25:29.385+01:00"
 					}
 				},
 				"uid" : {
@@ -585,7 +585,230 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "\tSiehe {{gtPage:Setup for Students|db=5rgxfv9r684digmpw7ph7kbt4}} oder [Schnellstart](https://gymneufeldch-my.sharepoint.com/:u:/g/personal/simon_buenzli_gymneufeld_ch/EcSL7O9yJSZDiw92kI3BAq4BtbaY2jyiE2W62BnAbSkS7Q?e=n2kmFR): ![QR-Code](attachments/3k98bdok2eo1r8x76ipxmek68/Processing Abstractions QR.png)"
+				"string" : "Siehe {{gtPage:Setup for Students|db=5rgxfv9r684digmpw7ph7kbt4}} zum Selbereinrichten oder <https://inf.zeniko.ch/processing-abstractions> für ein Fertigpaket (nur für WIndows)."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-12-01T19:22:33.789+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-12-01T19:22:36.28+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "W3s9SsYzW0yhCB8tuUxf+A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "# Quellen"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-12-01T19:23:08.518+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-12-01T19:23:22.083+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "XGkZjopn0kS/qAComnDRLg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[Processing Abstractions](https://github.com/zeniko/processing-abstractions) enthält dieses Notebook"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-12-01T19:23:23.061+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-12-01T19:25:27.465+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "GYg6BCgcakes3FRZ25vgUw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[GtExploration](https://github.com/zeniko/gt-exploration) enthält den gesamten Code für die Processing/Python Laufzeitumgebung, Compiler und Ansichten (sollte vom Notebook automatisch mitgeladen werden, kann aber auch für eigene Lerninhalte als Basis verwendet werden)"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-12-01T19:25:28.513+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-12-01T23:25:57.883+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "rBD1lQ//nUaXsR+vapbOLA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[Thesis](https://github.com/zeniko/gyminf-thesis) enthält die bisher verfügbare Dokumentation in Form einer Abschlussarbeit (mehr ist möglich bei Interesse)"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-12-01T19:25:54.893+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-12-01T19:26:45.274+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "40CLSdXWwUyOadfV3aJkew=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[GToolkit](https://github.com/feenkcom/gtoolkit/) ist die Basis für Glamorous Toolkit, wie es für <https://gtoolkit.com/> kompiliert wird"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-12-01T19:22:37.38+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-12-01T19:23:07.553+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "aKt+CG/kPESsU3g3TW7Tsw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Diese Lernumgebung basiert auf folgenden Repositories:"
 			},
 			{
 				"__type" : "textSnippet",

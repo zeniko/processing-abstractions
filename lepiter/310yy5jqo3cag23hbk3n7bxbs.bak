@@ -294,7 +294,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-09T23:53:42.519+02:00"
+									"dateAndTimeString" : "2025-12-01T22:55:52.998+01:00"
 								}
 							},
 							"uid" : {
@@ -304,7 +304,44 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "1. Untersuchen Sie dieses Element via Ctrl+Shift+Alt+Klick (zuerst alle drei Tasten gedrückt halten, dann erst klicken). Doppelklicken Sie anschliessend auf das hervorgehobene Listenelement, vergrössen Sie es (mit **`⊕`**) und untersuchen Sie dessen Detailansichten (insbesondere *Raw* - Rohdaten - und *Meta* - Programmierbefehle)."
+							"string" : "1. Untersuchen Sie dieses Element via Ctrl+Shift+Alt+Klick (zuerst alle drei Tasten gedrückt halten, dann erst klicken). Doppelklicken Sie anschliessend auf das hervorgehobene Listenelement, vergrössen Sie es (mit ![](attachments/4mcz9h82824pccyd704anxyum/icon larger.png)**`╬`**) und untersuchen Sie dessen Detailansichten (insbesondere *Raw* - Rohdaten - und *Meta* - Programmierbefehle)."
+						},
+						{
+							"__type" : "pictureSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-12-01T22:55:22.4+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-12-01T22:55:40.648+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "s+WZU609+k2LqgojwqqhwA=="
+							},
+							"url" : "attachments/4mcz9h82824pccyd704anxyum/icon larger.png",
+							"caption" : "",
+							"previewHeight" : 300,
+							"reference" : ""
 						},
 						{
 							"__type" : "textSnippet",
@@ -331,7 +368,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-11T21:45:45.494+02:00"
+									"dateAndTimeString" : "2025-05-11T22:12:19.909+02:00"
 								}
 							},
 							"uid" : {
@@ -341,7 +378,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "2. Klicken Sie unten auf den Pfeil neben *3 explicit references*. Was wird hier angezeigt?"
+							"string" : "2. Klicken Sie unten auf den Pfeil neben *2 explicit references*. Was wird hier angezeigt?"
 						},
 						{
 							"__type" : "commentSnippet",
