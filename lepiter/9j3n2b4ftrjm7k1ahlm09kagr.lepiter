@@ -575,7 +575,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-12-01T23:25:29.385+01:00"
+						"dateAndTimeString" : "2025-12-02T00:19:17.971+01:00"
 					}
 				},
 				"uid" : {
@@ -585,7 +585,81 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Siehe {{gtPage:Setup for Students|db=5rgxfv9r684digmpw7ph7kbt4}} zum Selbereinrichten oder <https://inf.zeniko.ch/processing-abstractions> für ein Fertigpaket (nur für WIndows)."
+				"string" : "Siehe {{gtPage:Setup for Students|db=5rgxfv9r684digmpw7ph7kbt4}} zum Selbereinrichten oder <https://inf.zeniko.ch/processing-abstractions> für ein Fertigpaket (nur für Windows)."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-12-02T00:19:19.625+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-12-02T00:22:47.66+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "mP+WdiqAkUS48u20jxqXDA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "# Processing/Python-Einschränkungen"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-12-02T00:19:26.659+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-12-02T00:23:27.847+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "g0ZgsC6Tmka1zjtcJ0f5lw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Die Processing/Python-Umgebung in GT ist sehr stark limitiert, da alles neu implementiert wurde (die Übersetzung nach Smalltalk geschieht in {{gtClass:ProcessingTranspiler}}). Für Python funktionieren die Grundlagen (Variablen, Funktionen, `if`, `while` und `for ... range():`, wenig Listen) und für Processing auch nur ein Teil (siehe [[Processing API]]). Die Idee ist, hier zu beginnen und bei Gelegenheit mit demselben Code in eine vollständigere Umgebung wechseln zu können."
 			},
 			{
 				"__type" : "textSnippet",
