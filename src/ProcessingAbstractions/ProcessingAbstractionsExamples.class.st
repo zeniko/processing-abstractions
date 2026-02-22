@@ -51,6 +51,45 @@ ProcessingAbstractionsExamples >> aufgabe2a [
 	| sourceCode source |
 	sourceCode := '
 size(200, 200)
+ellipse(50, 50, 100, 100)
+ellipse(150, 150, 100, 100)'.
+	source := ProcessingSource fromString: sourceCode.
+	self assert: source program compilation notNil.
+	^ source
+]
+
+{ #category : 'examples' }
+ProcessingAbstractionsExamples >> aufgabe2b [
+	<gtExample>
+	| sourceCode source |
+	sourceCode := '
+size(200, 200)
+ellipse(100, 50, 200, 100)
+rect(0, 125, 200, 50)'.
+	source := ProcessingSource fromString: sourceCode.
+	self assert: source program compilation notNil.
+	^ source
+]
+
+{ #category : 'examples' }
+ProcessingAbstractionsExamples >> aufgabe2c [
+	<gtExample>
+	| sourceCode source |
+	sourceCode := '
+size(200, 200)
+rect(50, 50, 100, 100)
+ellipse(100, 100, 100, 100)'.
+	source := ProcessingSource fromString: sourceCode.
+	self assert: source program compilation notNil.
+	^ source
+]
+
+{ #category : 'examples' }
+ProcessingAbstractionsExamples >> aufgabe3a [
+	<gtExample>
+	| sourceCode source |
+	sourceCode := '
+size(200, 200)
 rect(0, 0, 200, 200)
 fill(255, 0, 0)
 ellipse(100, 100, 100, 100)'.
@@ -60,7 +99,7 @@ ellipse(100, 100, 100, 100)'.
 ]
 
 { #category : 'examples' }
-ProcessingAbstractionsExamples >> aufgabe2b [
+ProcessingAbstractionsExamples >> aufgabe3b [
 	<gtExample>
 	| sourceCode source |
 	sourceCode := '
@@ -76,7 +115,7 @@ rect(25, 75, 150, 50)'.
 ]
 
 { #category : 'examples' }
-ProcessingAbstractionsExamples >> aufgabe2c [
+ProcessingAbstractionsExamples >> aufgabe3c [
 	<gtExample>
 	| sourceCode source |
 	sourceCode := '
@@ -85,8 +124,7 @@ rect(100, 0, 100, 100)
 fill(0, 255, 255)
 ellipse(100, 100, 100, 100)
 fill(255, 0, 255)
-rect(0, 0, 100, 200)
-'.
+rect(0, 0, 100, 200)'.
 	source := ProcessingSource fromString: sourceCode.
 	self assert: source program compilation notNil.
 	^ source

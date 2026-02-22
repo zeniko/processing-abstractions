@@ -1,0 +1,481 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:29:21.463+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:30:32.939+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "eq6nt/3+Y0mrHR9tadP6Dw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Verschiedene Programmiersprachen unterscheiden sich einerseits bezüglich der zur Verfügung stehenden Befehle (Semantik) aber auch bezüglich der Art, wie Befehle geschrieben werden."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:30:43.375+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:32:45.335+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "gDbiawFgo06oLxbhNlZxZg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Gängige Programmiersprachen orientieren sich meist an einer Kombination von umgangsprachlichen Formulierungen und mathematischer Notation. Befehle werden dabei - wie bereits bei Tabellenkalkulationen angetroffen - in der Form \"Name, Klammer, Argumente (mit Kommas getrennt), Klammer\" geschrieben: `size(200, 200)`."
+			},
+			{
+				"__type" : "processingSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:26:01.79+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:56:10.324+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "njLcOzMBQk6fZjXlrSQhFA=="
+				},
+				"code" : "# Dimension des Ausgabe-Koordinatensystems (nicht in Pixel, die Ausgabe passend gezoomt)\rsize(200, 200)\r# Variable für Farbe und Durchmesser (hier beides)\rvar = 200\r# Schleife, wird wiederholt, solange die Bedingung wahr ist\rwhile var > 0:\r\tfill(200 - var, 128, var)\r\tellipse(100, 100, var, var)\r\tvar = var - 30"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:43:17.303+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T23:25:58.329+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "K1NPn04KSky4mo8zmZXRIw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Das oben dargestellte Gemisch aus den verschiedenen Stilen ist für Computer nicht einfach zu verstehen. Ältere Programmiersprachen tendierten daher zu einem einfacheren Stil, bei welchem entweder die Befehle immer am Anfang stehen (also auch bei Zuweisungen wie `var = 200`) und Zusammengehörendes mit ausführlich Klammern markiert wird. Diese Notation heisst *Präfix-Notation* (lateinisch *prae* = vorher) und eine der ältesten, heute noch verwendeten Programmiersprachen, wird so geschrieben: [Lisp](https://de.wikipedia.org/wiki/Lisp#Syntax)."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:45:41.04+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:48:17.284+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Osdi8sh0V0mfXRc1vdFlhA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Um auf Klammern zu verzichten, können Befehle stattdessen auch immer nach den Argumenten notiert werden. In dieser sogenannten *Postfix-Notation* (lateinisch *post* = nachher) stellen wir uns vor, dass Zahlen jeweils auf einen Stapel gelegt werden und jeder Befehl sich auf dem Stapel bedient."
+			},
+			{
+				"__type" : "elementSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:27:02.892+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:28:37.983+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "tX7KOcuGeEu6vtIizXgQng=="
+				},
+				"code" : "program := (ProcessingSource fromPage: thisSnippet page) program.\rcomparer := ViewComparison\r\t\tnewFor: {program -> #gtTranspilationPrefixFor:.\r\t\t\t\tprogram -> #gtTranspilationPostfixFor:}",
+				"elementHeight" : 172,
+				"codeHeight" : 89,
+				"codeVisible" : false
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:34:42.671+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T23:27:44.451+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "GQv7NfXOqkqzuE8qJrD5Hg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Eine Familie von weitverbreiteten Programmiersprachen wie die gängigen [C(++)](https://de.wikipedia.org/wiki/C_(Programmiersprache)#Syntax), [JavaScript](https://de.wikipedia.org/wiki/JavaScript), oder [Rust](https://de.wikipedia.org/wiki/Rust_(Programmiersprache)#Beispiele) verwenden die ganz oben gezeigte Syntax, erfordern allerdings zudem, dass jeder Befehl mit einem Satzzeichen wie z.B. einem Strichpunkt beendet wird (wie ein Punkt in einem Satz). Zusammengehörende Befehle werden zusätzlich in geschweifte Klammern gefasst. Das ursprüngliche Programm oben sähe dann beispielsweise folgendermassen aus (diese Anzeige wird nicht automatisch aktualisiert):"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:35:04.427+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:35:52.41+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "JC2do37V5kq+2YIYKI00Ew=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "`size(200, 200);`\r\n`var = 200;`\r\n`while (var > 0) {`\r\n`  fill(200 - var, 128, var);`\r\n`  ellipse(100, 100, var, var);`\r\n`  var = var - 30;`\r\n`}`"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:36:26.81+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T23:28:23.461+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "4anzPuU7s0SXF0uYq+UwGw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "\"Unter der Haube\" verwendet Glamorous Toolkit die Sprache \"[Smalltalk\", in welche unsere Programme jeweils zuerst übersetzt werden, bevor sie ausgeführt werden können. Dieses verwendet nicht nur nochmal eine andere Syntax, sondern hat auch anders benannte Befehle:"
+			},
+			{
+				"__type" : "elementSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:36:31.055+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:38:18.968+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "/AnSFOl78k+nqWbdoMgLHw=="
+				},
+				"code" : "LiveViewWrapper\r\tcreateFor: (ProcessingSource fromPage: thisSnippet page)\r\tview: #gtTranspilationFor:",
+				"elementHeight" : 231,
+				"codeHeight" : 71,
+				"codeVisible" : false
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-02-22T22:49:42.86+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-02-22T22:55:23.694+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "l9QgcDVRBU2d1xajK+hqQg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "1. Vergleichen Sie die oben gezeigten Programme in den verschiedenen Schreibweisen.\r\nWelche davon erscheint Ihnen am angenehmsten? Weshalb?"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:49:26.668+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-02-22T22:49:56.09+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "5U/FOhzcuku27LqvxOirHg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "## Aufgaben📝"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2026-02-22T22:25:24.281+01:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2026-02-22T22:25:58.141+01:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Syntax von Programmiersprachen"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "3430e4c9-954c-314f-9009-d5cb8953a6f5"
+	}
+}

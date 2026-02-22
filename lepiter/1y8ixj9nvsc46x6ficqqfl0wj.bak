@@ -8,80 +8,6 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T14:36:40.278+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T14:37:19.768+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "IL4ykeX2DQC5qGGlANio+g=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Befehle in Processing haben vorerst immer die folgende Form:\r\n`name(argument1, argument2, ...)`"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T14:37:20.2+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T14:37:58.259+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "QE0Zl+X2DQC89PmUANio+g=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Sie bestehen also immer aus einem Namen, gefolgt von einer runden Klammer und dann mit Kommas getrennten Argumenten. Was welcher Befehl macht und welche Bedeutung die Argumente haben, werden wir schrittweise herausfinden."
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
 					"items" : [
 						{
 							"__type" : "textSnippet",
@@ -97,7 +23,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T14:38:48.384+02:00"
+									"dateAndTimeString" : "2026-02-22T23:08:07.099+01:00"
 								}
 							},
 							"editEmail" : {
@@ -108,91 +34,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T14:40:26.975+02:00"
+									"dateAndTimeString" : "2026-02-22T23:08:08.132+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "oL05nOX2DQCDkbCDANio+g=="
+								"uidString" : "3J9ej0Vgy06ZSVYNQWlGCg=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "`size(breite, höhe)` ist immer der erste Befehl und gibt an, wie gross das Ausgabefenster ist. Damit erhalten wir ein Koordinatensystem, dessen *x*-Koordinaten von `0` (links) bis `breite` (rechts) gehen und deren *y*-Koordinaten von `0` (oben!) bis `höhe` (unten) gehen."
-						},
-						{
-							"__type" : "elementSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T14:52:36.748+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T15:29:59.791+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "4La6zeX2DQCSYwwiANio+g=="
-							},
-							"code" : "ProcessingAbstractionsExamples new koordinatenSystem render",
-							"elementHeight" : 170,
-							"codeHeight" : 50,
-							"codeVisible" : false
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T14:40:28.669+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T14:41:15.393+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "SBxVouX2DQCJPKaJANio+g=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "`rect(x, y, breite, höhe)` zeichnet ein Rechteck, dessen *obere linke Ecke* bei den Koordinaten `(x; y)` liegt und welches `breite` breit und `höhe` hoch ist."
+							"string" : "`ellipse(x, y, xDurchmesser, yDurchmesser)` zeichnet eine Ellipse mit *Zentrum* bei `(x; y)` und den angegebenen Durchmessern in *x*- und *y*-Richtung."
 						}
 					]
 				},
@@ -204,7 +56,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T14:38:06.819+02:00"
+						"dateAndTimeString" : "2026-02-22T23:07:34.221+01:00"
 					}
 				},
 				"editEmail" : {
@@ -215,17 +67,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T14:38:45.801+02:00"
+						"dateAndTimeString" : "2026-02-22T23:08:02.838+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "4CF/meX2DQCBbtnYANio+g=="
+					"uidString" : "fMbjG96nmEWWDQReQ4OPOw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Die ersten zwei Befehle, die Sie kennen lernen sind `size` und `rect`:"
+				"string" : "Als nächstes betrachten wir folgenden zusätzlichen Befehl:"
 			},
 			{
 				"__type" : "textSnippet",
@@ -241,7 +93,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T14:54:57.934+02:00"
+						"dateAndTimeString" : "2026-02-22T23:08:09.079+01:00"
 					}
 				},
 				"editEmail" : {
@@ -252,17 +104,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T14:55:13.327+02:00"
+						"dateAndTimeString" : "2026-02-22T23:08:36.061+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "sAol1uX2DQCTaNPdANio+g=="
+					"uidString" : "KbhqgtCYkkavv5OpxnJupg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Damit ergibt das folgende Programm ein Rechteck:"
+				"string" : "Das folgende Programm ergibt somit einen Kreis:"
 			},
 			{
 				"__type" : "processingSnippet",
@@ -278,7 +130,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T14:55:18.259+02:00"
+						"dateAndTimeString" : "2026-02-22T23:08:37.802+01:00"
 					}
 				},
 				"editEmail" : {
@@ -289,14 +141,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T14:55:34.817+02:00"
+						"dateAndTimeString" : "2026-02-22T23:08:47.473+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "OC1b1+X2DQCUy6+OANio+g=="
+					"uidString" : "AyZ7VbZpwEOnGSNt7YKByA=="
 				},
-				"code" : "size(200, 200)\rrect(50, 50, 100, 100)"
+				"code" : "size(200, 200)\rellipse(100, 100, 200, 200)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -317,7 +169,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T14:58:15.002+02:00"
+									"dateAndTimeString" : "2026-02-22T23:09:28.308+01:00"
 								}
 							},
 							"editEmail" : {
@@ -328,12 +180,12 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T14:58:57.899+02:00"
+									"dateAndTimeString" : "2026-02-22T23:09:30.24+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "kA/k4eX2DQCWdDfVANio+g=="
+								"uidString" : "6bnb8JGZWkWMgkYKhOZeIg=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
@@ -354,7 +206,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T14:58:58.111+02:00"
+									"dateAndTimeString" : "2026-02-22T23:20:16.437+01:00"
 								}
 							},
 							"editEmail" : {
@@ -365,17 +217,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T15:00:28.535+02:00"
+									"dateAndTimeString" : "2026-02-22T23:21:17.178+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "GNp15OX2DQCYNcUPANio+g=="
+								"uidString" : "jGwYMTsqOkisMeSJLngUIQ=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "2. Überlegen Sie für jede der Zahlen im Programm, was mit der Ausgabe passieren muss, wenn Sie sie verändern. Überprüfen Sie Ihre Vermutung *anschliessend*, indem Sie die Zahl tatsächlich verändern. (Tipp: `Ctrl+Z` macht Ihre Änderung rückgängig.)"
+							"string" : "2. Passen Sie die Zahlen im obigen Programm an. Können Sie den Kreis verkleinern, so dass er noch immer den linken Rand berührt? Was müssen Sie dann ändern, damit er stattdessen den rechten Rand berührt?"
 						},
 						{
 							"__type" : "textSnippet",
@@ -396,7 +248,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:00:59.367+02:00"
+												"dateAndTimeString" : "2026-02-22T23:10:05.292+01:00"
 											}
 										},
 										"editEmail" : {
@@ -407,17 +259,17 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:02:31.808+02:00"
+												"dateAndTimeString" : "2026-02-22T23:13:04.718+01:00"
 											}
 										},
 										"uid" : {
 											"__type" : "uid",
-											"uidString" : "WBKw6+X2DQCh229dANio+g=="
+											"uidString" : "RFlBmIQGtkaJWx97l9vKbA=="
 										},
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "3a) Ein weisses Quadrat in der oberen linken Ecke:"
+										"string" : "2a) Zwei Kreise:"
 									},
 									{
 										"__type" : "elementSnippet",
@@ -433,7 +285,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:01:16.967+02:00"
+												"dateAndTimeString" : "2026-02-22T23:11:12.851+01:00"
 											}
 										},
 										"editEmail" : {
@@ -444,15 +296,15 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:01:39.637+02:00"
+												"dateAndTimeString" : "2026-02-22T23:12:32.795+01:00"
 											}
 										},
 										"uid" : {
 											"__type" : "uid",
-											"uidString" : "2GG87OX2DQCh6iZrANio+g=="
+											"uidString" : "aLk46YWyF0KYhJjcSZ9pZg=="
 										},
-										"code" : "ProcessingAbstractionsExamples new aufgabe1a render",
-										"elementHeight" : 131,
+										"code" : "ProcessingAbstractionsExamples new aufgabe2a render",
+										"elementHeight" : 135,
 										"codeHeight" : 50,
 										"codeVisible" : false
 									},
@@ -470,7 +322,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:01:10.511+02:00"
+												"dateAndTimeString" : "2026-02-22T23:14:02.032+01:00"
 											}
 										},
 										"editEmail" : {
@@ -481,12 +333,12 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-12-01T22:36:26.81+01:00"
+												"dateAndTimeString" : "2026-02-22T23:14:07.275+01:00"
 											}
 										},
 										"uid" : {
 											"__type" : "uid",
-											"uidString" : "AONZ7OX2DQCh5XdmANio+g=="
+											"uidString" : "xvwXFh6da0u6EsMmDdp3fA=="
 										},
 										"code" : "size(200, 200)\r"
 									},
@@ -504,7 +356,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:04:57.249+02:00"
+												"dateAndTimeString" : "2026-02-22T23:14:09.882+01:00"
 											}
 										},
 										"editEmail" : {
@@ -515,161 +367,16 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:05:16.146+02:00"
+												"dateAndTimeString" : "2026-02-22T23:14:11.618+01:00"
 											}
 										},
 										"uid" : {
 											"__type" : "uid",
-											"uidString" : "6Nzd+eX2DQCqs7TpANio+g=="
+											"uidString" : "Ff25iHkC0km6Z7RbUQfuhw=="
 										},
 										"code" : "(ProcessingSource fromSnippet: thisSnippet previousSibling) renderLive",
-										"elementHeight" : 144,
-										"codeHeight" : 50,
-										"codeVisible" : true
-									},
-									{
-										"__type" : "textSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [ ]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:02:40.241+02:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:02:56.84+02:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "aEmz8eX2DQCl2SSrANio+g=="
-										},
-										"paragraphStyle" : {
-											"__type" : "textStyle"
-										},
-										"string" : "3b) Zwei weisse Quadrate in der unteren linken und oberen rechten Ecke:"
-									},
-									{
-										"__type" : "elementSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [ ]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:02:59.25+02:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:03:11.925+02:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "UFfV8uX2DQCnh+IDANio+g=="
-										},
-										"code" : "ProcessingAbstractionsExamples new aufgabe1b render",
-										"elementHeight" : 124,
-										"codeHeight" : 50,
-										"codeVisible" : false
-									},
-									{
-										"__type" : "processingSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [ ]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:03:26.752+02:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:03:30.637+02:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "AP149OX2DQCoUZj9ANio+g=="
-										},
-										"code" : "size(200, 200)\r"
-									},
-									{
-										"__type" : "elementSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [ ]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:05:27.104+02:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:05:27.719+02:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "MGKl++X2DQCr/jAHANio+g=="
-										},
-										"code" : "(ProcessingSource fromSnippet: thisSnippet previousSibling) renderLive",
-										"elementHeight" : 145,
-										"codeHeight" : 50,
+										"elementHeight" : 147,
+										"codeHeight" : 31,
 										"codeVisible" : false
 									},
 									{
@@ -686,7 +393,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:03:33.85+02:00"
+												"dateAndTimeString" : "2026-02-22T23:14:28.831+01:00"
 											}
 										},
 										"editEmail" : {
@@ -697,17 +404,17 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:04:18.498+02:00"
+												"dateAndTimeString" : "2026-02-22T23:18:47.487+01:00"
 											}
 										},
 										"uid" : {
 											"__type" : "uid",
-											"uidString" : "kEvl9OX2DQCotWtPANio+g=="
+											"uidString" : "2/AuYjJrhkWNO+dHVoKMng=="
 										},
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "3c) Drei weisse, sich überlappende Quadrate (achten Sie auf die Reihenfolge):"
+										"string" : "2b) Oval und Rechteck:"
 									},
 									{
 										"__type" : "elementSnippet",
@@ -723,7 +430,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:03:45.391+02:00"
+												"dateAndTimeString" : "2026-02-22T23:15:02.979+01:00"
 											}
 										},
 										"editEmail" : {
@@ -734,16 +441,16 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:04:06.245+02:00"
+												"dateAndTimeString" : "2026-02-22T23:15:14.235+01:00"
 											}
 										},
 										"uid" : {
 											"__type" : "uid",
-											"uidString" : "mGWV9eX2DQCpljLaANio+g=="
+											"uidString" : "ML1JBxec70qn/oi+IiJblQ=="
 										},
-										"code" : "ProcessingAbstractionsExamples new aufgabe1c render",
-										"elementHeight" : 133,
-										"codeHeight" : 50,
+										"code" : "ProcessingAbstractionsExamples new aufgabe2b render",
+										"elementHeight" : 150,
+										"codeHeight" : 28,
 										"codeVisible" : false
 									},
 									{
@@ -760,7 +467,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:03:48.765+02:00"
+												"dateAndTimeString" : "2026-02-22T23:17:13.7+01:00"
 											}
 										},
 										"editEmail" : {
@@ -771,12 +478,12 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:03:51.634+02:00"
+												"dateAndTimeString" : "2026-02-22T23:17:19.434+01:00"
 											}
 										},
 										"uid" : {
 											"__type" : "uid",
-											"uidString" : "SOHI9eX2DQCpnLjfANio+g=="
+											"uidString" : "7gTmjiJE80SPKDB1yGQJxg=="
 										},
 										"code" : "size(200, 200)\r"
 									},
@@ -794,7 +501,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:05:36.833+02:00"
+												"dateAndTimeString" : "2026-02-22T23:17:21.327+01:00"
 											}
 										},
 										"editEmail" : {
@@ -805,16 +512,161 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:05:38.391+02:00"
+												"dateAndTimeString" : "2026-02-22T23:17:29.509+01:00"
 											}
 										},
 										"uid" : {
 											"__type" : "uid",
-											"uidString" : "6N05/OX2DQCsDr3HANio+g=="
+											"uidString" : "IHGV2jUwDkqETGPnvlvatQ=="
 										},
 										"code" : "(ProcessingSource fromSnippet: thisSnippet previousSibling) renderLive",
-										"elementHeight" : 145,
-										"codeHeight" : 50,
+										"elementHeight" : 156,
+										"codeHeight" : 36,
+										"codeVisible" : false
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-02-22T23:18:36.238+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-02-22T23:18:54.386+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "indyi4Iv/EC0lfxvoQbBxg=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "2c) Kreis im Quadrat:"
+									},
+									{
+										"__type" : "elementSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-02-22T23:18:58.519+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-02-22T23:19:44.764+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "tkofVH3PQk6P3FCjZWhl3g=="
+										},
+										"code" : "ProcessingAbstractionsExamples new aufgabe2c render",
+										"elementHeight" : 156,
+										"codeHeight" : 26,
+										"codeVisible" : false
+									},
+									{
+										"__type" : "processingSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-02-22T23:19:02.347+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-02-22T23:19:07.19+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "IuClGcVQ0UigS5ABqxFnQw=="
+										},
+										"code" : "size(200, 200)\r"
+									},
+									{
+										"__type" : "elementSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-02-22T23:19:10.146+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-02-22T23:19:18.41+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "iCRNo6tdKEC6By/zvi2cxQ=="
+										},
+										"code" : "(ProcessingSource fromSnippet: thisSnippet previousSibling) renderLive",
+										"elementHeight" : 168,
+										"codeHeight" : 25,
 										"codeVisible" : false
 									}
 								]
@@ -827,7 +679,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T15:00:30.888+02:00"
+									"dateAndTimeString" : "2026-02-22T23:09:43.365+01:00"
 								}
 							},
 							"editEmail" : {
@@ -838,12 +690,12 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T15:02:05.619+02:00"
+									"dateAndTimeString" : "2026-02-22T23:21:22.277+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "QIT96eX2DQCf03oTANio+g=="
+								"uidString" : "PA5n2wlyKkyD+zQC9/cNFQ=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
@@ -860,7 +712,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T14:58:03.325+02:00"
+						"dateAndTimeString" : "2026-02-22T23:08:58.965+01:00"
 					}
 				},
 				"editEmail" : {
@@ -871,17 +723,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T14:58:11.529+02:00"
+						"dateAndTimeString" : "2026-02-22T23:09:39.445+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "aNoo1+X2DQCUxQ0XANio+g=="
+					"uidString" : "AfbM0Qm8jkiMca2mNYYGWA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "## Aufgaben 📝"
+				"string" : "## Aufgaben📝"
 			}
 		]
 	},
@@ -893,7 +745,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-07-22T14:35:41.156+02:00"
+			"dateAndTimeString" : "2026-02-22T23:07:37.141+01:00"
 		}
 	},
 	"editEmail" : {
@@ -904,15 +756,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-07-22T15:04:33.163+02:00"
+			"dateAndTimeString" : "2026-02-22T23:07:37.141+01:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Erste Programme"
+		"title" : "Zweite Programme"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "a0023291-e5f6-0d00-b9a7-a9bf00d8a8fa"
+		"uuid" : "d3ae6469-198e-de46-93f9-4749f482f420"
 	}
 }

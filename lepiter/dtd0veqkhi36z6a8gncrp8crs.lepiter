@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-01T23:40:09.031+02:00"
+						"dateAndTimeString" : "2026-02-22T22:24:28.776+01:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Ein einfaches Programm sieht beispielsweise folgendermassen aus:"
+				"string" : "Ein kurzes Programm sieht beispielsweise folgendermassen aus:"
 			},
 			{
 				"__type" : "processingSnippet",

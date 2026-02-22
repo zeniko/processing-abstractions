@@ -211,14 +211,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T15:48:45.849+02:00"
+						"dateAndTimeString" : "2026-02-22T23:29:33.364+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "4FCAleb2DQCnTxToANio+g=="
 				},
-				"code" : "size(200, 200)\r# ellipse(100, 100, 100, 100)\rrect(50, 50, 100, 100)"
+				"code" : "size(200, 200)\r# rect(50, 50, 100, 100)\rellipse(100, 100, 100, 100)"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -287,7 +287,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T15:51:50.75+02:00"
+									"dateAndTimeString" : "2026-02-22T23:29:45.375+01:00"
 								}
 							},
 							"uid" : {
@@ -297,7 +297,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "1. Entfernen Sie beim obigen Programm das Kommentarzeichen vor `ellipse` und fügen Sie es vor `rect` ein."
+							"string" : "1. Entfernen Sie beim obigen Programm das Kommentarzeichen vor `rect` und fügen Sie es vor `ellipse` ein."
 						},
 						{
 							"__type" : "textSnippet",
@@ -324,7 +324,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T15:53:03.03+02:00"
+									"dateAndTimeString" : "2026-02-22T23:30:16.093+01:00"
 								}
 							},
 							"uid" : {
@@ -334,7 +334,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "2. Gehen Sie auf die vorherige Seite [[Runde Farben]] zurück und ergänzen Sie Ihre eigenen Programme mit Kommentaren für Dinge, die nicht auf den ersten Blick ersichtlich sind (wie im ersten Beispiel oben, dass das Rechteck ein Quadrat ist und dass dessen Farbe rot ist)."
+							"string" : "2. Gehen Sie auf die vorherige Seite [[Zweite Programme]] zurück und ergänzen Sie Ihre eigenen Programme mit Kommentaren für Dinge, die nicht auf den ersten Blick ersichtlich sind (wie im ersten Beispiel oben, dass das Rechteck ein Quadrat ist und wo es liegt)."
 						}
 					]
 				},
