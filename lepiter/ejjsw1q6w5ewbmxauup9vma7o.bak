@@ -248,7 +248,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-02-22T23:27:44.451+01:00"
+						"dateAndTimeString" : "2026-02-23T01:40:55.617+01:00"
 					}
 				},
 				"uid" : {
@@ -258,10 +258,10 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Eine Familie von weitverbreiteten Programmiersprachen wie die gängigen [C(++)](https://de.wikipedia.org/wiki/C_(Programmiersprache)#Syntax), [JavaScript](https://de.wikipedia.org/wiki/JavaScript), oder [Rust](https://de.wikipedia.org/wiki/Rust_(Programmiersprache)#Beispiele) verwenden die ganz oben gezeigte Syntax, erfordern allerdings zudem, dass jeder Befehl mit einem Satzzeichen wie z.B. einem Strichpunkt beendet wird (wie ein Punkt in einem Satz). Zusammengehörende Befehle werden zusätzlich in geschweifte Klammern gefasst. Das ursprüngliche Programm oben sähe dann beispielsweise folgendermassen aus (diese Anzeige wird nicht automatisch aktualisiert):"
+				"string" : "Eine Familie von weitverbreiteten Programmiersprachen wie die gängigen [C(++)](https://de.wikipedia.org/wiki/C_(Programmiersprache)#Syntax), [JavaScript](https://de.wikipedia.org/wiki/JavaScript), oder [Rust](https://de.wikipedia.org/wiki/Rust_(Programmiersprache)#Beispiele) verwenden die ganz oben gezeigte Syntax, erfordern allerdings zudem, dass jeder Befehl mit einem Satzzeichen wie z.B. einem Strichpunkt beendet wird (wie ein Punkt in einem Satz). Zusammengehörende Befehle werden zusätzlich in geschweifte Klammern gefasst. Das ursprüngliche Programm oben sähe dann beispielsweise folgendermassen aus:"
 			},
 			{
-				"__type" : "textSnippet",
+				"__type" : "elementSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -274,7 +274,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-02-22T22:35:04.427+01:00"
+						"dateAndTimeString" : "2026-02-23T01:41:07.473+01:00"
 					}
 				},
 				"editEmail" : {
@@ -285,17 +285,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-02-22T22:35:52.41+01:00"
+						"dateAndTimeString" : "2026-02-23T01:43:28.006+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "JC2do37V5kq+2YIYKI00Ew=="
+					"uidString" : "GxkLDju3gEWsPBdhN7tLOg=="
 				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "`size(200, 200);`\r\n`var = 200;`\r\n`while (var > 0) {`\r\n`  fill(200 - var, 128, var);`\r\n`  ellipse(100, 100, var, var);`\r\n`  var = var - 30;`\r\n`}`"
+				"code" : "(ProcessingSource fromPage: thisSnippet page)\r\trenderLiveView: #gtTranspilationAlgol68For:",
+				"elementHeight" : 154,
+				"codeHeight" : 53,
+				"codeVisible" : false
 			},
 			{
 				"__type" : "textSnippet",
@@ -322,7 +322,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-02-22T23:28:23.461+01:00"
+						"dateAndTimeString" : "2026-02-22T23:28:32.783+01:00"
 					}
 				},
 				"uid" : {
@@ -332,7 +332,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "\"Unter der Haube\" verwendet Glamorous Toolkit die Sprache \"[Smalltalk\", in welche unsere Programme jeweils zuerst übersetzt werden, bevor sie ausgeführt werden können. Dieses verwendet nicht nur nochmal eine andere Syntax, sondern hat auch anders benannte Befehle:"
+				"string" : "\"Unter der Haube\" verwendet Glamorous Toolkit die Sprache [Smalltalk](https://de.wikipedia.org/wiki/Smalltalk_(Programmiersprache)), in welche unsere Programme jeweils zuerst übersetzt werden, bevor sie ausgeführt werden können. Dieses verwendet nicht nur nochmal eine andere Syntax, sondern hat auch anders benannte Befehle:"
 			},
 			{
 				"__type" : "elementSnippet",
@@ -359,14 +359,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-02-22T22:38:18.968+01:00"
+						"dateAndTimeString" : "2026-02-23T01:43:10.074+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "/AnSFOl78k+nqWbdoMgLHw=="
 				},
-				"code" : "LiveViewWrapper\r\tcreateFor: (ProcessingSource fromPage: thisSnippet page)\r\tview: #gtTranspilationFor:",
+				"code" : "(ProcessingSource fromPage: thisSnippet page)\r\trenderLiveView: #gtTranspilationFor:",
 				"elementHeight" : 231,
 				"codeHeight" : 71,
 				"codeVisible" : false
@@ -412,6 +412,43 @@
 								"__type" : "textStyle"
 							},
 							"string" : "1. Vergleichen Sie die oben gezeigten Programme in den verschiedenen Schreibweisen.\r\nWelche davon erscheint Ihnen am angenehmsten? Weshalb?"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-02-23T01:44:11.984+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-02-23T01:44:42.854+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "T4aZFg6oUECbtVIEkgVpOg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "2. Kopieren Sie oben ein selbstgeschriebenes Programm hinein. Erkennen Sie es in den verschiedenen Schreibweisen wieder?"
 						}
 					]
 				},
