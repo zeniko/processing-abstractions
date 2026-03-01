@@ -97,6 +97,43 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-01T20:44:18.467+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-01T20:44:58.281+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "6hP929ZpdkyjbGaqEIQJaw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "... anhand der Programmiersprache Processing zu Programmieren (unter [[Programmieren mit Processing]])."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
 									"dateAndTimeString" : "2025-04-01T23:04:03.445+02:00"
 								}
 							},
@@ -156,43 +193,6 @@
 								"__type" : "textStyle"
 							},
 							"string" : "... wie Programme von einem Compiler in Maschinensprache übersetzt werden und welche Schritte dabei nötig und welche Abwägungen dabei gemacht werden müssen (unter [[Funktionen eines Compilers]])."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-01T23:02:01.877+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T14:33:33.021+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "cMvMlR/uDQCEqJUHAft/yQ=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "... allenfalls repetieren Sie anhand der Programmiersprache Processing zu programmieren (unter [[Programmieren mit Processing]])."
 						},
 						{
 							"__type" : "textSnippet",
@@ -547,7 +547,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-07T21:25:56.734+02:00"
+						"dateAndTimeString" : "2026-03-01T20:45:43.52+01:00"
 					}
 				},
 				"uid" : {
@@ -557,7 +557,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Dieser Kurs entsteht im Rahmen eines Individuellen Projekts unter Betreuung von Oscar Nierstrasz und Timo Kehrer von der [Software Engineering Group](https://seg.inf.unibe.ch) des Instituts für Informatik an der Universität Bern."
+				"string" : "Dieser Kurs entstand im Rahmen eines Individuellen Projekts unter Betreuung von Oscar Nierstrasz und Timo Kehrer von der [Software Engineering Group](https://seg.inf.unibe.ch) des Instituts für Informatik an der Universität Bern und wird fortlaufend weiterentwickelt."
 			},
 			{
 				"__type" : "textSnippet",
@@ -584,7 +584,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T20:54:01.964+02:00"
+						"dateAndTimeString" : "2026-03-01T21:38:53.564+01:00"
 					}
 				},
 				"uid" : {
@@ -594,7 +594,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Derzeit ist dieser Kurs noch im Entwicklungsstadium. Unvollständige Ecken und Enden sind zu erwarten. Falls Sie Fehler finden oder Verbesserungsvorschläge haben, teilen Sie mir diese gerne mit: <mailto:simon.buenzli@gymneufeld.ch> (falls der Link nicht funktioniert, stattdessen: <https://inf.zeniko.ch/>). Die Entwicklung dieses Kurses ist in {{gtPage:Individual Project|db=5rgxfv9r684digmpw7ph7kbt4}} dokumentiert."
+				"string" : "Derzeit ist dieser Kurs noch im Entwicklungsstadium. Unvollständige Ecken und Enden sind zu erwarten. Falls Sie Fehler finden oder Verbesserungsvorschläge haben, teilen Sie mir diese gerne mit: <mailto:simon.buenzli@gymneufeld.ch> oder <inf.zeniko.ch/processing-abstractions>. Die Entwicklung dieses Kurses ist in {{gtPage:Individual Project|db=5rgxfv9r684digmpw7ph7kbt4}} dokumentiert."
 			}
 		]
 	},

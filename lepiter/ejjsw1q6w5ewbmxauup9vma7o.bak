@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-02-22T22:26:01.79+01:00"
+						"dateAndTimeString" : "2026-03-01T21:52:52.296+01:00"
 					}
 				},
 				"editEmail" : {
@@ -103,12 +103,12 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-02-22T22:56:10.324+01:00"
+						"dateAndTimeString" : "2026-03-01T21:53:30.819+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "njLcOzMBQk6fZjXlrSQhFA=="
+					"uidString" : "6dvWPgd7nUiM7y4ADWavDw=="
 				},
 				"code" : "# Dimension des Ausgabe-Koordinatensystems (nicht in Pixel, die Ausgabe passend gezoomt)\rsize(200, 200)\r# Variable für Farbe und Durchmesser (hier beides)\rvar = 200\r# Schleife, wird wiederholt, solange die Bedingung wahr ist\rwhile var > 0:\r\tfill(200 - var, 128, var)\r\tellipse(100, 100, var, var)\r\tvar = var - 30"
 			},
@@ -293,7 +293,7 @@
 					"uidString" : "GxkLDju3gEWsPBdhN7tLOg=="
 				},
 				"code" : "(ProcessingSource fromPage: thisSnippet page)\r\trenderLiveView: #gtTranspilationAlgol68For:",
-				"elementHeight" : 154,
+				"elementHeight" : 166,
 				"codeHeight" : 53,
 				"codeVisible" : false
 			},
@@ -449,6 +449,43 @@
 								"__type" : "textStyle"
 							},
 							"string" : "2. Kopieren Sie oben ein selbstgeschriebenes Programm hinein. Erkennen Sie es in den verschiedenen Schreibweisen wieder?"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-01T21:54:33.009+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-01T21:54:52.154+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "tkNiAigWQU2rMMoTRYMkwA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "3. Finden Sie unter <https://dev.to/johnrushx/38-programming-languages-which-is-best-584f> die oben beschriebenen Stile wieder?"
 						}
 					]
 				},

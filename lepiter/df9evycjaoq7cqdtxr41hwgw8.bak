@@ -289,7 +289,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-02-22T23:23:11.025+01:00"
+						"dateAndTimeString" : "2026-03-01T21:56:26.41+01:00"
 					}
 				},
 				"uid" : {
@@ -299,7 +299,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst die Unterseiten [[Wichtige Hinweise]] und [[Tastenkombinationen]] durch (Klick im Inhaltsverzeichnis)."
+				"string" : "1. Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst die Unterseiten [[Wichtige Hinweise]] und im Anhang [[Tastenkombinationen]] durch (**Klick im Inhaltsverzeichnis**)."
 			},
 			{
 				"__type" : "textSnippet",
@@ -326,7 +326,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-02-22T23:23:20.208+01:00"
+						"dateAndTimeString" : "2026-02-22T23:23:29.363+01:00"
 					}
 				},
 				"uid" : {
@@ -336,7 +336,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "2. Bearbeiten Sie das Kapitel [[Programmieren mit Processing]]{{gtPage:Programmieren mit Processing|db=dl0rc62x02fk8k57e43hr8acw}} seitenweise vom Einstieg bis zur Interaktion."
+				"string" : "2. Bearbeiten Sie das Kapitel [[Programmieren mit Processing]] seitenweise vom Einstieg bis zur Interaktion."
 			},
 			{
 				"__type" : "textSnippet",
@@ -363,7 +363,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-02-22T22:57:31.876+01:00"
+						"dateAndTimeString" : "2026-02-22T23:23:47.125+01:00"
 					}
 				},
 				"uid" : {
@@ -373,7 +373,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "3. Sofern Sie noch Zeit haben, empfehle ich Ihnen die Seiten {{gtPage:Syntax von Programmiersprachen|db=dl0rc62x02fk8k57e43hr8acw}}, [[Alles ist inspizierbar]] und [[Funktionen]], wobei Sie bei letzterer die soweit angetroffenen Fähigkeiten dieser Umgebung nutzen können, um den Ablauf und Aufbau der beschriebenen Programme zu untersuchen."
+				"string" : "3. Sofern Sie noch Zeit haben, empfehle ich Ihnen die Seiten [[Syntax von Programmiersprachen]], [[Alles ist inspizierbar]] und [[Funktionen]], wobei Sie bei letzterer die soweit angetroffenen Fähigkeiten dieser Umgebung nutzen können, um den Ablauf und Aufbau der beschriebenen Programme zu untersuchen."
 			},
 			{
 				"__type" : "textSnippet",
@@ -437,7 +437,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-30T10:07:53.542+02:00"
+						"dateAndTimeString" : "2026-03-01T21:39:26.437+01:00"
 					}
 				},
 				"uid" : {
@@ -447,7 +447,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst die Unterseite [[Wichtige Hinweise]] durch (Klick im Inhaltsverzeichnis)."
+				"string" : "1. Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst die Unterseite [[Wichtige Hinweise]] durch (**Klick im Inhaltsverzeichnis**)."
 			},
 			{
 				"__type" : "textSnippet",

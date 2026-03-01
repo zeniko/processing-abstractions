@@ -480,7 +480,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-09T23:30:12.166+02:00"
+									"dateAndTimeString" : "2026-03-01T21:51:44.845+01:00"
 								}
 							},
 							"uid" : {
@@ -490,7 +490,41 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Was Sie hier sehen, ist eine Ordneransicht, welche direkt in dieser Seite dynamisch eingebettet ist. Sie können diese bei Bedarf hier in Windows öffnen (mit dem `[▶]`)."
+							"string" : "Was Sie hier sehen, ist eine Ordneransicht, welche direkt in dieser Seite dynamisch eingebettet ist. Sie können diese bei Bedarf hier in Windows öffnen (mit dem `[⭧]`)."
+						},
+						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-01T21:50:32.111+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-01T21:51:35.508+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "cqkVu7YDbUaPzOtY6HfeqQ=="
+							},
+							"code" : "BrGlamorousVectorIcons link"
 						}
 					]
 				},
@@ -698,14 +732,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T21:51:56.809+02:00"
+						"dateAndTimeString" : "2025-12-01T23:01:59.626+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "KHwpcRzxDQCOId87B75YqQ=="
 				},
-				"string" : "Es sind sieben Absätze (ohne diesen diesem hier!).",
+				"string" : "Es sind sieben Absätze (ohne diesen hier!).",
 				"isHidden" : true
 			}
 		]

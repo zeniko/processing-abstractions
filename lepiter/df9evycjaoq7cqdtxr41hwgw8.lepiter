@@ -289,7 +289,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-02-22T23:23:11.025+01:00"
+						"dateAndTimeString" : "2026-03-01T21:56:32.761+01:00"
 					}
 				},
 				"uid" : {
@@ -299,7 +299,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst die Unterseiten [[Wichtige Hinweise]] und [[Tastenkombinationen]] durch (Klick im Inhaltsverzeichnis)."
+				"string" : "1. Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst die Unterseite [[Wichtige Hinweise]] und im Anhang [[Tastenkombinationen]] durch (**Klick im Inhaltsverzeichnis**)."
 			},
 			{
 				"__type" : "textSnippet",
@@ -437,7 +437,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-06-30T10:07:53.542+02:00"
+						"dateAndTimeString" : "2026-03-01T21:39:26.437+01:00"
 					}
 				},
 				"uid" : {
@@ -447,7 +447,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst die Unterseite [[Wichtige Hinweise]] durch (Klick im Inhaltsverzeichnis)."
+				"string" : "1. Bevor wir mit \"Glamorous Toolkit\" zu arbeiten beginnen, lesen Sie bitte zuerst die Unterseite [[Wichtige Hinweise]] durch (**Klick im Inhaltsverzeichnis**)."
 			},
 			{
 				"__type" : "textSnippet",

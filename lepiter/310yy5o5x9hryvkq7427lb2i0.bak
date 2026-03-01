@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-12-01T23:10:11.555+01:00"
+						"dateAndTimeString" : "2026-03-01T21:42:11.224+01:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "(Teil-)Ansichten können Sie mit einem Klick auf **▼** und dann **x** schliessen, zum Vergrössern/Verkleinern von Ansichten finden Sie oben links ein `🪟` bzw. `╬` (Rahmen bzw. eingeklappter Rahmen in einem Kreis, das genaue Aussehen sehen Sie auf der nächsten Zeile)."
+				"string" : "(Teil-)Ansichten können Sie mit einem Klick auf `🪟` bzw. `╬`  im Kreis oben links vergrössern bzw. verkleinern (Rahmen bzw. eingeklappter Rahmen, das genaue Aussehen sehen Sie auf der nächsten Zeile)."
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -253,7 +253,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T13:41:36.733+02:00"
+									"dateAndTimeString" : "2026-02-22T22:23:36.269+01:00"
 								}
 							},
 							"uid" : {
