@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T15:41:43.432+02:00"
+						"dateAndTimeString" : "2026-03-01T23:49:16.35+01:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T15:42:23.019+02:00"
+						"dateAndTimeString" : "2026-03-01T23:50:56.259+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "sLC2ftnwDQCT5MlED/7/uQ=="
+					"uidString" : "1/DuXu5KuU2JYuRqsYOwSA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "⚠️ **Diese Seite nicht bearbeiten!** ⚠"
+				"string" : "Damit "
 			},
 			{
 				"__type" : "textSnippet",
@@ -188,40 +188,6 @@
 				"code" : "size(200, 200)\r# Ändern Sie den Wert dieser Variablen:\rx = 10\rif x > 50:\r\trect(100, 100, x, 100)"
 			},
 			{
-				"__type" : "processingSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T23:05:15.558+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T23:40:32.241+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "oNTm5FLwDQCYm5mzCEFArw=="
-				},
-				"code" : "size(200, 200)\r# Ändern Sie den Wert dieser Variablen:\rx = 10\rwhile x > 50:\r\trect(100, 100, x, 100)\r\t# dieser Zeile ist wichtig, damit die Schleife nicht endlos ausgeführt wird!\r\t# (Sie dürfen ausprobieren, was geschieht, wenn die Zeile gelöscht/auskommentiert wird)\r\tx = x - 10"
-			},
-			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
@@ -354,12 +320,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-04-01T23:16:57.885+02:00"
+			"dateAndTimeString" : "2026-03-01T23:50:21.928+01:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Verzweigungen und Schleifen"
+		"title" : "Verzweigungen"
 	},
 	"uid" : {
 		"__type" : "uuid",

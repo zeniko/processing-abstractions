@@ -195,6 +195,38 @@ ellipse(200 - x, 150, 100, 100)'.
 ]
 
 { #category : 'examples' }
+ProcessingAbstractionsExamples >> aufgabe5a [
+	<gtExample>
+	| sourceCode source |
+	sourceCode := '
+size(200, 200)
+x = 200
+while x > 0:
+	ellipse(100, 100, x, x)
+	x = x - 50'.
+	source := ProcessingSource fromString: sourceCode.
+	self assert: source program compilation notNil.
+	^ source
+]
+
+{ #category : 'examples' }
+ProcessingAbstractionsExamples >> aufgabe5c [
+	<gtExample>
+	| sourceCode source |
+	sourceCode := '
+size(200, 200)
+x = 200
+while x > 0:
+	fill(x, 0, 255 - x)
+	rect((200 - x) / 2, (200 - x) / 2, x, x)
+	ellipse(100, 100, x, x)
+	x = x - 50'.
+	source := ProcessingSource fromString: sourceCode.
+	self assert: source program compilation notNil.
+	^ source
+]
+
+{ #category : 'examples' }
 ProcessingAbstractionsExamples >> koordinatenSystem [
 	<gtExample>
 	| sourceCode source |

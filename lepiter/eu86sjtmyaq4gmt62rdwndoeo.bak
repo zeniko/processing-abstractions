@@ -596,7 +596,190 @@
 							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
-								"items" : [ ]
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:26:50.428+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:38:29.556+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "z2EYmlCO80+HiUULqo19dg=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "4a) Diagonal laufendes Rechteck:"
+									},
+									{
+										"__type" : "elementSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:27:03.187+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:30:26.261+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "Jg0OLDyZZkm563W7ODcffg=="
+										},
+										"code" : "ViewComparison\r\tnewFor: {(ProcessingAbstractionsExamples new aufgabe4a: 50) -> #gtOutputFor:.\r\t\t\t(ProcessingAbstractionsExamples new aufgabe4a: 100) -> #gtOutputFor:}",
+										"elementHeight" : 174,
+										"codeHeight" : 93,
+										"codeVisible" : false
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:37:04.589+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:37:19.2+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "UA0iqPls9kG15PhkEYKQ+A=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "Tipp: Was bleibt zwischen den beiden Bildern gleich (konstante Zahlen) und was verändert sich (Variablen)? Vergleichen Sie ggf. die Befehle, welche zu beiden Bildern führen und überlegen Sie sich, welche Berechnung für das linke Bild mit der Zahl 50 und für das rechte Bild mit 100 Sinn macht."
+									},
+									{
+										"__type" : "processingSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:27:07.718+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:39:23.574+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "PP9aLErFK0qcYacF48rDyg=="
+										},
+										"code" : "size(200, 200)\rx = 50\rrect(50, 25, 50, 100)\r"
+									},
+									{
+										"__type" : "elementSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:27:22.233+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:27:37.157+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "gFRET/L6JkKvw9xsWZ/IIg=="
+										},
+										"code" : "(ProcessingSource fromSnippet: thisSnippet previousSibling) renderLive",
+										"elementHeight" : 159,
+										"codeHeight" : 36,
+										"codeVisible" : false
+									}
+								]
 							},
 							"createEmail" : {
 								"__type" : "email",
@@ -628,188 +811,6 @@
 								"__type" : "textStyle"
 							},
 							"string" : "4. Passen Sie die folgenden Programme so an, dass durch Verändern des Werts der Variablen jeweils das linke Bild (mit Wert 50) oder das rechte Bild (mit Wert 100) angezeigt wird. Nutzen Sie die Variable dabei wie im Beispiel oben anstelle von Zahlen. Sie dürfen zudem mit Variablenwerten auch rechnen."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:26:50.428+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:38:29.556+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "z2EYmlCO80+HiUULqo19dg=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "4a) Diagonal laufendes Rechteck:"
-						},
-						{
-							"__type" : "elementSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:27:03.187+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:30:26.261+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "Jg0OLDyZZkm563W7ODcffg=="
-							},
-							"code" : "ViewComparison\r\tnewFor: {(ProcessingAbstractionsExamples new aufgabe4a: 50) -> #gtOutputFor:.\r\t\t\t(ProcessingAbstractionsExamples new aufgabe4a: 100) -> #gtOutputFor:}",
-							"elementHeight" : 174,
-							"codeHeight" : 93,
-							"codeVisible" : false
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:37:04.589+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:37:19.2+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "UA0iqPls9kG15PhkEYKQ+A=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Tipp: Was bleibt zwischen den beiden Bildern gleich (konstante Zahlen) und was verändert sich (Variablen)? Vergleichen Sie ggf. die Befehle, welche zu beiden Bildern führen und überlegen Sie sich, welche Berechnung für das linke Bild mit der Zahl 50 und für das rechte Bild mit 100 Sinn macht."
-						},
-						{
-							"__type" : "processingSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:27:07.718+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:38:52.402+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "PP9aLErFK0qcYacF48rDyg=="
-							},
-							"code" : "size(200, 200)\rx = 50\rrect(50, 25, 50, 100)\r# Tipp: Zeichnen Sie zuerst das zweite Rechteck mit Zahlen\r"
-						},
-						{
-							"__type" : "elementSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:27:22.233+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:27:37.157+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "gFRET/L6JkKvw9xsWZ/IIg=="
-							},
-							"code" : "(ProcessingSource fromSnippet: thisSnippet previousSibling) renderLive",
-							"elementHeight" : 159,
-							"codeHeight" : 36,
-							"codeVisible" : false
 						},
 						{
 							"__type" : "textSnippet",
