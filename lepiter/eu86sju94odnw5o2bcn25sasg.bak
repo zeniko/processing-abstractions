@@ -18,6 +18,43 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-01T22:30:19.249+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-01T22:33:31.707+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Gq7e85swnkOzFHA+Qe8Xfw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Sie haben bereits erste Programme angetroffen. Nun wird es Zeit, dass Sie selbst auch solche zu schreiben beginnen. Dafür lernen Sie schrittweise neue Befehle kennen."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2025-07-22T14:36:40.278+02:00"
 					}
 				},
@@ -66,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T14:37:58.259+02:00"
+						"dateAndTimeString" : "2026-03-01T22:33:47.548+01:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Sie bestehen also immer aus einem Namen, gefolgt von einer runden Klammer und dann mit Kommas getrennten Argumenten. Was welcher Befehl macht und welche Bedeutung die Argumente haben, werden wir schrittweise herausfinden."
+				"string" : "Sie bestehen also immer aus einem Namen, gefolgt von einer runden Klammer und dann mit Kommas getrennten Argumenten. Was welcher Befehl macht und welche Bedeutung die Argumente haben, werden wir schrittweise herausfinden. Merken Sie sich das in Ihren Unterlagen oder unter [[Übersicht über wichtigste Befehle]]."
 			},
 			{
 				"__type" : "textSnippet",
@@ -108,7 +145,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T14:40:26.975+02:00"
+									"dateAndTimeString" : "2026-03-01T22:31:54.945+01:00"
 								}
 							},
 							"uid" : {
@@ -118,7 +155,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "`size(breite, höhe)` ist immer der erste Befehl und gibt an, wie gross das Ausgabefenster ist. Damit erhalten wir ein Koordinatensystem, dessen *x*-Koordinaten von `0` (links) bis `breite` (rechts) gehen und deren *y*-Koordinaten von `0` (oben!) bis `höhe` (unten) gehen."
+							"string" : "`size(breite, höhe)`\r\nist immer der erste Befehl und gibt an, wie gross das Ausgabefenster ist. Damit erhalten wir ein Koordinatensystem, dessen *x*-Koordinaten von `0` (links) bis `breite` (rechts) gehen und deren *y*-Koordinaten von `0` (oben!) bis `höhe` (unten) gehen."
 						},
 						{
 							"__type" : "elementSnippet",
@@ -182,7 +219,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T14:41:15.393+02:00"
+									"dateAndTimeString" : "2026-03-01T22:31:57.924+01:00"
 								}
 							},
 							"uid" : {
@@ -192,7 +229,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "`rect(x, y, breite, höhe)` zeichnet ein Rechteck, dessen *obere linke Ecke* bei den Koordinaten `(x; y)` liegt und welches `breite` breit und `höhe` hoch ist."
+							"string" : "`rect(x, y, breite, höhe)`\r\nzeichnet ein Rechteck, dessen *obere linke Ecke* bei den Koordinaten `(x; y)` liegt und welches `breite` breit und `höhe` hoch ist."
 						}
 					]
 				},
@@ -525,7 +562,7 @@
 										"code" : "(ProcessingSource fromSnippet: thisSnippet previousSibling) renderLive",
 										"elementHeight" : 144,
 										"codeHeight" : 50,
-										"codeVisible" : true
+										"codeVisible" : false
 									},
 									{
 										"__type" : "textSnippet",

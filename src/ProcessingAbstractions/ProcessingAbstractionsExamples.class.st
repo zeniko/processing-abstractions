@@ -85,6 +85,21 @@ ellipse(100, 100, 100, 100)'.
 ]
 
 { #category : 'examples' }
+ProcessingAbstractionsExamples >> aufgabe2d [
+	<gtExample>
+	| sourceCode source |
+	sourceCode := '
+size(200, 200)
+ellipse(100, 100, 200, 200)
+ellipse(50, 75, 50, 50)
+ellipse(150, 75, 50, 25)
+rect(50, 125, 100, 25)'.
+	source := ProcessingSource fromString: sourceCode.
+	self assert: source program compilation notNil.
+	^ source
+]
+
+{ #category : 'examples' }
 ProcessingAbstractionsExamples >> aufgabe3a [
 	<gtExample>
 	| sourceCode source |

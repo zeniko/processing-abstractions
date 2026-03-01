@@ -34,7 +34,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T15:13:44.23+02:00"
+									"dateAndTimeString" : "2026-03-01T22:47:04.238+01:00"
 								}
 							},
 							"uid" : {
@@ -44,7 +44,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "`fill(rot, grün, blau)` wählt die (Stift)farbe, mit welcher die *nächsten* Formen ausgefärbt werden (bis die Farbe das nächste Mal gewechselt wird). Die drei Argumente sind jeweils Werte zwischen 0 und 255."
+							"string" : "`fill(rot, grün, blau)`\r\nwählt die (Stift)farbe, mit welcher die *nächsten* Formen ausgefärbt werden (bis die Farbe wieder gewechselt wird). Die drei Argumente sind jeweils Werte zwischen 0 und 255."
 						}
 					]
 				},
@@ -180,7 +180,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-02-22T23:04:31.401+01:00"
+									"dateAndTimeString" : "2026-03-01T22:48:03.025+01:00"
 								}
 							},
 							"uid" : {
@@ -217,7 +217,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T15:18:42.85+02:00"
+									"dateAndTimeString" : "2026-03-01T22:48:31.771+01:00"
 								}
 							},
 							"uid" : {
@@ -227,7 +227,79 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "`fill(0, 0, 0)` = \r\n`fill(255, 0, 0)` = \r\n`fill(0, 255, 0)` = \r\n`fill(0, 0, 255)` = \r\n`fill(255, 255, 0)` = \r\n`fill(255, 0, 255)` = \r\n`fill(0, 255, 255)` = \r\n`fill(255, 255, 255)` = "
+							"string" : "`fill(  0,   0,   0)` = \r\n`fill(255,   0,   0)` = \r\n`fill(  0, 255,   0)` = \r\n`fill(  0,   0, 255)` = \r\n`fill(255, 255,   0)` = \r\n`fill(255,   0, 255)` = \r\n`fill(  0, 255, 255)` = \r\n`fill(255, 255, 255)` = "
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-01T22:48:34.546+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-01T22:49:56.127+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "XycKql53Z0G83eKzULPD+Q=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "2. Weshalb sind für die drei Argumente wohl jeweils nur Zahlen zwischen 0 und 255 möglich?"
+						},
+						{
+							"__type" : "commentSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-01T22:50:03.991+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-01T22:50:03.991+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "Twv6GufnlUCFSold/Cuxyg=="
+							},
+							"string" : "",
+							"isHidden" : false
 						},
 						{
 							"__type" : "textSnippet",
@@ -690,7 +762,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T15:19:26.826+02:00"
+									"dateAndTimeString" : "2026-03-01T22:48:51.467+01:00"
 								}
 							},
 							"uid" : {
@@ -700,7 +772,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "2. Erstellen Sie Programme, welche die folgenden Ausgaben erzeugen:"
+							"string" : "3. Erstellen Sie Programme, welche die folgenden Ausgaben erzeugen:"
 						}
 					]
 				},
@@ -756,7 +828,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2026-02-22T23:10:21.365+01:00"
+			"dateAndTimeString" : "2026-03-01T22:26:34.43+01:00"
 		}
 	},
 	"pageType" : {

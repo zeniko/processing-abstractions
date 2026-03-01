@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-02-22T23:02:45.571+01:00"
+						"dateAndTimeString" : "2026-02-22T23:10:21.381+01:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Die ersten Befehle haben Sie unter {{gtPage:Erste Programme|db=dl0rc62x02fk8k57e43hr8acw}} und {{gtPage:Runde Farben|db=dl0rc62x02fk8k57e43hr8acw}} angetroffen. Sofern Sie weitere Befehle antreffen und diese alle an einer Stelle zusammengefasst haben möchten, ergänzen Sie die folgende Liste:"
+				"string" : "Die ersten Befehle haben Sie unter {{gtPage:Erste Programme|db=dl0rc62x02fk8k57e43hr8acw}} und {{gtPage:Bunte Programme|db=dl0rc62x02fk8k57e43hr8acw}} angetroffen. Sofern Sie weitere Befehle antreffen und diese alle an einer Stelle zusammengefasst haben möchten, ergänzen Sie die folgende Liste:"
 			},
 			{
 				"__type" : "textSnippet",
@@ -50,7 +50,45 @@
 							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
-								"items" : [ ]
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-02-22T23:00:57.422+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T22:31:33.32+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "EV0wug0Xu02KZV/m6if8YQ=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "ist immer der erste Befehl und gibt an, wie gross das Ausgabefenster ist. Damit erhalten wir ein Koordinatensystem, dessen *x*-Koordinaten von `0` (links) bis `breite` (rechts) gehen und deren *y*-Koordinaten von `0` (oben!) bis `höhe` (unten) gehen."
+									}
+								]
 							},
 							"createEmail" : {
 								"__type" : "email",
@@ -60,7 +98,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-02-22T23:00:57.422+01:00"
+									"dateAndTimeString" : "2026-03-01T22:31:33.32+01:00"
 								}
 							},
 							"editEmail" : {
@@ -71,17 +109,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-02-22T23:00:57.697+01:00"
+									"dateAndTimeString" : "2026-03-01T22:31:33.32+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "EV0wug0Xu02KZV/m6if8YQ=="
+								"uidString" : "M4BaJxlc0kGogiym4jhqxg=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "`size(breite, höhe)` ist immer der erste Befehl und gibt an, wie gross das Ausgabefenster ist. Damit erhalten wir ein Koordinatensystem, dessen *x*-Koordinaten von `0` (links) bis `breite` (rechts) gehen und deren *y*-Koordinaten von `0` (oben!) bis `höhe` (unten) gehen."
+							"string" : "`size(breite, höhe)`"
 						},
 						{
 							"__type" : "textSnippet",

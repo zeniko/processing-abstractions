@@ -60,7 +60,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-02-22T23:00:57.422+01:00"
+									"dateAndTimeString" : "2026-03-01T22:31:33.32+01:00"
 								}
 							},
 							"editEmail" : {
@@ -71,17 +71,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-02-22T23:00:57.697+01:00"
+									"dateAndTimeString" : "2026-03-01T22:31:42.942+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "EV0wug0Xu02KZV/m6if8YQ=="
+								"uidString" : "M4BaJxlc0kGogiym4jhqxg=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "`size(breite, höhe)` ist immer der erste Befehl und gibt an, wie gross das Ausgabefenster ist. Damit erhalten wir ein Koordinatensystem, dessen *x*-Koordinaten von `0` (links) bis `breite` (rechts) gehen und deren *y*-Koordinaten von `0` (oben!) bis `höhe` (unten) gehen."
+							"string" : "`size(breite, höhe)`\r\nist immer der erste Befehl und gibt an, wie gross das Ausgabefenster ist. Damit erhalten wir ein Koordinatensystem, dessen *x*-Koordinaten von `0` (links) bis `breite` (rechts) gehen und deren *y*-Koordinaten von `0` (oben!) bis `höhe` (unten) gehen."
 						},
 						{
 							"__type" : "textSnippet",
@@ -108,7 +108,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-02-22T23:01:07.392+01:00"
+									"dateAndTimeString" : "2026-03-01T22:31:40.067+01:00"
 								}
 							},
 							"uid" : {
@@ -118,7 +118,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "`rect(x, y, breite, höhe)` zeichnet ein Rechteck, dessen *obere linke Ecke* bei den Koordinaten `(x; y)` liegt und welches `breite` breit und `höhe` hoch ist."
+							"string" : "`rect(x, y, breite, höhe)`\r\nzeichnet ein Rechteck, dessen *obere linke Ecke* bei den Koordinaten `(x; y)` liegt und welches `breite` breit und `höhe` hoch ist."
 						},
 						{
 							"__type" : "textSnippet",
@@ -145,7 +145,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-02-22T23:01:26.433+01:00"
+									"dateAndTimeString" : "2026-03-01T22:31:47.55+01:00"
 								}
 							},
 							"uid" : {
@@ -155,7 +155,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "`ellipse(x, y, xDurchmesser, yDurchmesser)` zeichnet eine Ellipse mit *Zentrum* bei `(x; y)` und den angegebenen Durchmessern in *x*- und *y*-Richtung."
+							"string" : "`ellipse(x, y, xDurchmesser, yDurchmesser)`\r\nzeichnet eine Ellipse mit *Zentrum* bei `(x; y)` und den angegebenen Durchmessern in *x*- und *y*-Richtung."
 						},
 						{
 							"__type" : "textSnippet",
@@ -182,7 +182,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-02-22T23:01:18.764+01:00"
+									"dateAndTimeString" : "2026-03-01T22:31:49.675+01:00"
 								}
 							},
 							"uid" : {
@@ -192,7 +192,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "`fill(rot, grün, blau)` wählt die (Stift)farbe, mit welcher die *nächsten* Formen ausgefärbt werden (bis die Farbe das nächste Mal gewechselt wird). Die drei Argumente sind jeweils Werte zwischen 0 und 255."
+							"string" : "`fill(rot, grün, blau)`\r\nwählt die (Stift)farbe, mit welcher die *nächsten* Formen ausgefärbt werden (bis die Farbe das nächste Mal gewechselt wird). Die drei Argumente sind jeweils Werte zwischen 0 und 255."
 						}
 					]
 				},

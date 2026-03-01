@@ -253,7 +253,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-02-22T22:23:36.269+01:00"
+									"dateAndTimeString" : "2026-03-01T21:45:12.701+01:00"
 								}
 							},
 							"uid" : {
@@ -263,7 +263,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "**Die Tastatur hakt manchmal.** Falls Sie nicht wie erwartet funktioniert, drücken Sie zweimal kurz hintereinander die Windows-Taste (Win+Win)."
+							"string" : "**Die Tastatur hakt unter Windows manchmal.** Falls Sie nicht wie erwartet funktioniert, drücken Sie zweimal kurz hintereinander die Windows-Taste (Win+Win)."
 						}
 					]
 				},
@@ -519,6 +519,78 @@
 					"__type" : "textStyle"
 				},
 				"string" : "3. Fügen Sie nach diesem Abschnitt mit `Ctrl+Enter` einen neuen Abschnitt ein und schreiben Sie `**fetten**` Text (mit nur je einem Sternchen wird der Text dagegen kursiv)."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-01T22:50:26.4+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-01T22:51:36.377+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "BM++XNHk0k6hqMfDLJaxNw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "4. Das folgende ist ein Kommentar. Hinter solchen Kommentaren werden teilweise Lösungen für Aufgaben verste"
+			},
+			{
+				"__type" : "commentSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-01T22:50:35.188+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-01T22:51:11.403+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "kYKHk06MokmhGM/K3jgijA=="
+				},
+				"string" : "Klappen Sie den Kommentar bei Bedarf durch einen Klick aufs Häckchen wieder ein.",
+				"isHidden" : true
 			},
 			{
 				"__type" : "textSnippet",

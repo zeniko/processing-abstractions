@@ -66,14 +66,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T15:49:23.858+02:00"
+						"dateAndTimeString" : "2026-03-01T22:44:41.253+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "6Hnplub2DQCpC+nLANio+g=="
 				},
-				"code" : "size(200, 200)\r# ein rotes Quadrat (mittig links)\rfill(255, 0, 0)\rrect(25, 75, 50, 50)"
+				"code" : "# ein Tunnelportal (Halboval auf Rechteck)\rsize(200, 200)\r# das Halboval entsteht dadurch, dass das Rechteck die untere Hälfte verdeckt\rellipse(100, 75, 150, 100)\rrect(25, 75, 150, 100)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -287,7 +287,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-02-22T23:29:45.375+01:00"
+									"dateAndTimeString" : "2026-03-01T22:45:09.464+01:00"
 								}
 							},
 							"uid" : {
@@ -297,7 +297,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "1. Entfernen Sie beim obigen Programm das Kommentarzeichen vor `rect` und fügen Sie es vor `ellipse` ein."
+							"string" : "1. Entfernen Sie beim zweiten Programm das Kommentarzeichen vor `rect` und fügen Sie es vor `ellipse` ein."
 						},
 						{
 							"__type" : "textSnippet",
@@ -324,7 +324,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-02-22T23:30:16.093+01:00"
+									"dateAndTimeString" : "2026-03-01T22:46:27.658+01:00"
 								}
 							},
 							"uid" : {
@@ -334,7 +334,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "2. Gehen Sie auf die vorherige Seite [[Zweite Programme]] zurück und ergänzen Sie Ihre eigenen Programme mit Kommentaren für Dinge, die nicht auf den ersten Blick ersichtlich sind (wie im ersten Beispiel oben, dass das Rechteck ein Quadrat ist und wo es liegt)."
+							"string" : "2. Gehen Sie auf die vorherige Seite [[Zweite Programme]] zurück und fügen Sie bei Ihren eigenen Programmen Kommentare ein für Dinge, die nicht auf den ersten Blick ersichtlich sind (wie im ersten Beispiel oben, dass die Hälfte der Ellipse verdeckt wird)."
 						}
 					]
 				},
