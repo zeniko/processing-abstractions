@@ -135,11 +135,60 @@ ProcessingAbstractionsExamples >> aufgabe3c [
 	| sourceCode source |
 	sourceCode := '
 size(200, 200)
-rect(100, 0, 100, 100)
+fill(0, 0, 255)
+ellipse(150, 150, 100, 100)
+fill(0, 255, 0)
+rect(50, 50, 100, 100)
+fill(255, 0, 0)
+ellipse(50, 50, 100, 100)'.
+	source := ProcessingSource fromString: sourceCode.
+	self assert: source program compilation notNil.
+	^ source
+]
+
+{ #category : 'examples' }
+ProcessingAbstractionsExamples >> aufgabe3d [
+	<gtExample>
+	| sourceCode source |
+	sourceCode := '
+size(200, 200)
 fill(0, 255, 255)
-ellipse(100, 100, 100, 100)
+rect(0, 100, 100, 200)
+fill(255, 255, 0)
+ellipse(100, 100, 200, 200)
+fill(0, 255, 255)
+rect(0, 0, 200, 100)
 fill(255, 0, 255)
-rect(0, 0, 100, 200)'.
+rect(0, 75, 200, 50)'.
+	source := ProcessingSource fromString: sourceCode.
+	self assert: source program compilation notNil.
+	^ source
+]
+
+{ #category : 'examples' }
+ProcessingAbstractionsExamples >> aufgabe4a: var [
+	<gtExample>
+	| sourceCode source |
+	sourceCode := '
+size(200, 200)
+x = ' , var asString
+			, '
+rect(x, x/2, 50, 100)'.
+	source := ProcessingSource fromString: sourceCode.
+	self assert: source program compilation notNil.
+	^ source
+]
+
+{ #category : 'examples' }
+ProcessingAbstractionsExamples >> aufgabe4b: var [
+	<gtExample>
+	| sourceCode source |
+	sourceCode := '
+size(200, 200)
+x = ' , var asString
+			, '
+ellipse(x, 50, 100, 100)
+ellipse(200 - x, 150, 100, 100)'.
 	source := ProcessingSource fromString: sourceCode.
 	self assert: source program compilation notNil.
 	^ source

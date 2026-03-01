@@ -93,6 +93,43 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-01T23:14:34.265+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-01T23:19:34.34+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "XnOXpfshE0qQr4MwakcJVw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "🛈 Stellen Sie sich diesen Befehl wie das \"Stift in die Hand Nehmen\" im bildnerischen Gestalten vor: Erst *nachdem* Sie den Stift in der Hand haben, können Sie in der entsprechenden Farbe zeichnen."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2025-07-22T15:16:49.965+02:00"
 					}
 				},
@@ -254,7 +291,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T22:49:35.567+01:00"
+									"dateAndTimeString" : "2026-03-01T22:49:56.127+01:00"
 								}
 							},
 							"uid" : {
@@ -264,7 +301,42 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "2. Verändern Sie im obigen Programm eine Zahl frei. Weshalb sehen Sie"
+							"string" : "2. Weshalb sind für die drei Argumente wohl jeweils nur Zahlen zwischen 0 und 255 möglich?"
+						},
+						{
+							"__type" : "commentSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-01T22:50:03.991+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-01T23:03:48.867+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "Twv6GufnlUCFSold/Cuxyg=="
+							},
+							"string" : "Jede der drei Farbanteile wird mit je einem Byte (= 8 Bit) gespeichert. Mit einem Byte kann je eine Zahl zwischen 0 (binär 0000'0000) und 255 (binär 1111'1111) gespeichert werden.",
+							"isHidden" : true
 						},
 						{
 							"__type" : "textSnippet",
@@ -296,7 +368,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:21:04.066+02:00"
+												"dateAndTimeString" : "2026-03-01T23:03:56.093+01:00"
 											}
 										},
 										"uid" : {
@@ -306,7 +378,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "2a) Fast die Flagge Japans:"
+										"string" : "3a) Fast die Flagge Japans:"
 									},
 									{
 										"__type" : "elementSnippet",
@@ -441,7 +513,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:22:13.415+02:00"
+												"dateAndTimeString" : "2026-03-01T23:03:59.323+01:00"
 											}
 										},
 										"uid" : {
@@ -451,7 +523,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "2b) Fast ein Schweizerkreuz (achten Sie auf den Querbalken):"
+										"string" : "3b) Fast ein Schweizerkreuz (achten Sie auf den Querbalken):"
 									},
 									{
 										"__type" : "elementSnippet",
@@ -575,6 +647,151 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:07:38.125+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:07:50.176+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "BP8f+mXkr0OR6chPEbf4Xw=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "3c) RGB (rot, grün, blau):"
+									},
+									{
+										"__type" : "elementSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:07:55.359+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:08:44.707+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "GXg0rWsUeEqKH2d4EjVFeA=="
+										},
+										"code" : "ProcessingAbstractionsExamples new aufgabe3c render",
+										"elementHeight" : 140,
+										"codeHeight" : 36,
+										"codeVisible" : false
+									},
+									{
+										"__type" : "processingSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:07:59.927+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:08:36.02+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "RxRVQJ0xgU+YcWaDFfOsBQ=="
+										},
+										"code" : "size(200, 200)\r"
+									},
+									{
+										"__type" : "elementSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:08:02.542+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:08:16.496+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "BrdzoXvRO0eqIWHSCWRTzw=="
+										},
+										"code" : "(ProcessingSource fromSnippet: thisSnippet previousSibling) renderLive",
+										"elementHeight" : 147,
+										"codeHeight" : 23,
+										"codeVisible" : false
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
 												"dateAndTimeString" : "2025-07-22T15:22:22.319+02:00"
 											}
 										},
@@ -586,7 +803,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2025-07-22T15:22:26.117+02:00"
+												"dateAndTimeString" : "2026-03-01T23:07:36.998+01:00"
 											}
 										},
 										"uid" : {
@@ -596,7 +813,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "2c) Eine Herausforderung?"
+										"string" : "3d) Eine Herausforderung?"
 									},
 									{
 										"__type" : "elementSnippet",
@@ -623,14 +840,14 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2026-02-22T23:12:13.196+01:00"
+												"dateAndTimeString" : "2026-03-01T23:09:20.636+01:00"
 											}
 										},
 										"uid" : {
 											"__type" : "uid",
 											"uidString" : "oDOQOOb2DQCD9HJEANio+g=="
 										},
-										"code" : "ProcessingAbstractionsExamples new aufgabe3c render",
+										"code" : "ProcessingAbstractionsExamples new aufgabe3d render",
 										"elementHeight" : 138,
 										"codeHeight" : 50,
 										"codeVisible" : false

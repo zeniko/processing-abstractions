@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T19:00:17.783+02:00"
+						"dateAndTimeString" : "2026-03-01T23:41:02.518+01:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,44 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Interessant wird es, wenn die Ausgabe mehrfach hintereinander geschehen kann und - wie ein Daumenkino - in schneller Abfolge betrachtet wird: Ein Film ist eine schnelle Abfolge von Bildern!"
+				"string" : "Interessant wird es, wenn die Ausgabe mehrfach hintereinander geschehen kann und in schneller Abfolge betrachtet wird: Ein Film ist eine schnelle Abfolge von Bildern!"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-01T23:40:40.836+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-01T23:41:35.915+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "7IO8D9Mv70CMH/efasUjXw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "🛈 Stellen Sie sich eine Animation wie ein Daumenkino vor, nur dass die Bilder fortlaufend gezeichnet werden."
 			},
 			{
 				"__type" : "textSnippet",
@@ -248,14 +285,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T20:08:23.005+02:00"
+						"dateAndTimeString" : "2026-03-01T23:43:04.613+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "2KxqFt3wDQCgDGmoANfT7g=="
 				},
-				"code" : "x = 0\r\rdef setup():\r\tsize(200, 200)\r\rdef draw():\r\tglobal x\r\tbackground(192, 192, 192)\r\trect(x, 50, 50, 100)\r\tx = x + 1"
+				"code" : "rechteck_x = 0\r\rdef setup():\r\tsize(200, 200)\r\rdef draw():\r\tglobal rechteck_x\r\tbackground(192, 192, 192)\r\trect(rechteck_x, 50, 50, 100)\r\trechteck_x = rechteck_x + 1"
 			},
 			{
 				"__type" : "textSnippet",
@@ -430,7 +467,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T20:12:15.84+02:00"
+						"dateAndTimeString" : "2026-03-01T23:44:24.155+01:00"
 					}
 				},
 				"uid" : {
@@ -440,7 +477,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "2. Passen Sie das Programm so an, dass sich das Rechteck gleichzeitig kleiner wird (führen Sie dazu eine neue Variable ein)."
+				"string" : "2. Passen Sie das Programm so an, dass sich das Rechteck gleichzeitig kleiner wird. Führen Sie dazu eine neue, passend benannte Variable ein. Diese muss wie `rechteck_x` einen Anfangswert erhalten, als veränderlich markiert sein und tatsächlich verändert werden."
 			},
 			{
 				"__type" : "textSnippet",
@@ -504,7 +541,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T15:25:10.72+02:00"
+						"dateAndTimeString" : "2026-03-01T23:44:48.438+01:00"
 					}
 				},
 				"uid" : {
@@ -541,7 +578,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-07-22T15:25:12.514+02:00"
+						"dateAndTimeString" : "2025-07-22T15:26:21.427+02:00"
 					}
 				},
 				"uid" : {
