@@ -18,6 +18,43 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:42:11.459+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:42:12.1+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "w0NC2CVAskyQr2orfNBezA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "⚠ Diese Seite enthält fortgeschrittene Inhalte und darf übersprungen werden. ⚠"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2025-07-27T14:52:48.345+02:00"
 					}
 				},
@@ -540,7 +577,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-27T15:03:42.251+02:00"
+									"dateAndTimeString" : "2025-07-27T15:04:05.229+02:00"
 								}
 							},
 							"uid" : {
@@ -550,7 +587,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "2. Erstellen Sie ein Programm, welches eine Liste Ihrer aktuellen Noten enthält. Lassen Sie es die Liste durchgehen und anschliessend den Durchschnitt Ihrer Noten ausgeben. (Tipp: In welchem Bei"
+							"string" : "2. Erstellen Sie ein Programm, welches eine Liste Ihrer aktuellen Noten enthält. Lassen Sie es die Liste durchgehen und anschliessend den Durchschnitt Ihrer Noten ausgeben. (Tipp: In welchem Beispiel oben wird die Länge einer Liste - also in diesem Fall die Anzahl Noten - abgefragt?)"
 						}
 					]
 				},

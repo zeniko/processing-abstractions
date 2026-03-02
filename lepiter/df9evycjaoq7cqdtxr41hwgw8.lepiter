@@ -326,7 +326,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-02-22T23:23:29.363+01:00"
+						"dateAndTimeString" : "2026-03-02T01:05:40.582+01:00"
 					}
 				},
 				"uid" : {
@@ -336,7 +336,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "2. Bearbeiten Sie das Kapitel [[Programmieren mit Processing]] seitenweise vom Einstieg bis zur Interaktion."
+				"string" : "2. Bearbeiten Sie das Kapitel [[Programmieren mit Processing]] seitenweise vom Einstieg bis zur Repetition."
 			},
 			{
 				"__type" : "textSnippet",
@@ -363,7 +363,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-02-22T23:23:47.125+01:00"
+						"dateAndTimeString" : "2026-03-02T01:06:14.97+01:00"
 					}
 				},
 				"uid" : {
@@ -373,7 +373,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "3. Sofern Sie noch Zeit haben, empfehle ich Ihnen die Seiten [[Syntax von Programmiersprachen]], [[Alles ist inspizierbar]] und [[Funktionen]], wobei Sie bei letzterer die soweit angetroffenen Fähigkeiten dieser Umgebung nutzen können, um den Ablauf und Aufbau der beschriebenen Programme zu untersuchen."
+				"string" : "3. Sofern Sie noch Zeit haben, empfehle ich Ihnen die Seiten [[Syntax von Programmiersprachen]], [[Alles ist inspizierbar]], [[Schleifen]] und [[Funktionen]], wobei Sie bei letzterer die soweit angetroffenen Fähigkeiten dieser Umgebung nutzen können, um den Ablauf und Aufbau der beschriebenen Programme zu untersuchen."
 			},
 			{
 				"__type" : "textSnippet",
@@ -548,7 +548,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T22:46:13.953+02:00"
+						"dateAndTimeString" : "2026-03-02T01:06:53.057+01:00"
 					}
 				},
 				"uid" : {
@@ -558,7 +558,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "4. Sofern Sie die ersten drei Kapitel bereits durchgearbeitet haben, empfehle ich Ihnen die Seiten [[Alles ist inspizierbar]] und [[Funktionen]], wobei Sie bei letzterer die soweit angetroffenen Fähigkeiten dieser Umgebung nutzen können, um den Ablauf und Aufbau der beschriebenen Programme zu untersuchen."
+				"string" : "4. Sofern Sie die ersten drei Kapitel bereits durchgearbeitet haben, empfehle ich Ihnen die Seiten [[Alles ist inspizierbar]],  [[Listen]] und [[Rekursion]], wobei Sie bei letzterer die soweit angetroffenen Fähigkeiten dieser Umgebung nutzen können, um den Ablauf und Aufbau der beschriebenen Programme zu untersuchen."
 			}
 		]
 	},

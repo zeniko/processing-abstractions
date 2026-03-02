@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T15:56:34.341+02:00"
+						"dateAndTimeString" : "2026-03-02T00:36:05.733+01:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T15:56:35.315+02:00"
+						"dateAndTimeString" : "2026-03-02T00:37:20.768+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "eLWvuNnwDQC99uXbD/7/uQ=="
+					"uidString" : "+153WniC+Ei8Q9ZWwWLPzw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "⚠️ **Diese Seite nicht bearbeiten!** ⚠"
+				"string" : "⚠ Diese Seite enthält fortgeschrittene Inhalte und darf übersprungen werden. ⚠"
 			},
 			{
 				"__type" : "textSnippet",
@@ -111,6 +111,155 @@
 					"uidString" : "0MbMpFPwDQCxj0WBCEFArw=="
 				},
 				"code" : "size(400, 400)\rdraw_n_eck(5)\r\rmove(0, height / 2, 0)\rkochpart(width, int(width / 3 ** 4))\r\rdef draw_n_eck(n):\r\n\tw = width / n * 3\r\n\tmove((width - w) / 2, 10, 0)\r\n\ti = 0\r\n\twhile i < n:\r\n\t\tfwd(w)\r\n\t\tturn(360 / n)\r\n\t\ti = i + 1\r\n\r\ndef kochpart(siz, limit):\r\n\tif siz < limit:\r\n\t\tfwd(siz)\r\n\t\treturn\r\n\t\r\n\tkochpart(siz / 3, limit)\r\n\tturn(-60)\r\n\tkochpart(siz / 3, limit)\r\n\tturn(120)\r\n\tkochpart(siz / 3, limit)\r\n\tturn(-60)\r\n\tkochpart(siz / 3, limit)\r\n\r\n# ****************************************** #\r\n# Schildkrötenbefehle: move, fwd, turn       #\r# ****************************************** #\r\n\r# x-/y-Koordinate der Schildkröte und Blickrichtung\r\nt_x = 0\r\nt_y = 0\r\nt_angle = 0\r\n\r\n# verschiebt die Schildkröte (angle gibt die Blickrichtung an)\r\ndef move(x, y, angle):\r\tglobal t_x, t_y, t_angle\r\n\tt_x = x\r\n\tt_y = y\r\n\tt_angle = angle\r\n\r\n# bewegt die Schildkröte um d nach vorne\r\ndef fwd(d):\r\tglobal t_x, t_y\r\n\toldX = t_x\r\n\toldY = t_y\r\n\tt_x = t_x + d * cos(radians(t_angle))\r\n\tt_y = t_y + d * sin(radians(t_angle))\r\n\tline(oldX, oldY, t_x, t_y)\r\n\r\n# dreht die Schildkröte um angle Grad\r\ndef turn(angle):\r\tglobal t_angle\r\n\tt_angle = t_angle + angle"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-02T00:39:31.436+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-02T00:39:53.565+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "RGhExd/kykiL434tQFp3HQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "1. Welche Befehle sind für die Schildkröte verfügbar? Wie lauten deren Argumente?"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-02T00:35:54.366+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-02T00:39:34.079+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "r6cA+fUFgEOChCDPguiezA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "2. Können Sie erklären, was bei `draw_n_eck` bzw. bei `kochpart` geschieht?"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-02T00:39:02.943+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-02T00:40:31.255+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "xGGbi5qSSUm0Fzhj5eEj/A=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "3. Suchen Sie im Internet nach Logo-Einstiegsaufgaben. Können Sie diese auf Grundlage des obi"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:35:41.949+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:35:53.085+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "vo0y/X/boUSMqmwPO1o0zQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "## Aufgaben 📝"
 			}
 		]
 	},

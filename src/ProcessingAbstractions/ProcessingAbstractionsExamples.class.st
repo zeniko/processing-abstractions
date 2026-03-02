@@ -227,6 +227,31 @@ while x > 0:
 ]
 
 { #category : 'examples' }
+ProcessingAbstractionsExamples >> aufgabe9 [
+	<gtExample>
+	| sourceCode source |
+	sourceCode := '
+# Kompakte Variablendeklaration (spart hier Platz)
+x = 50; y = 50; breite = 100; hoehe = 50
+
+def setup():
+	size(200, 200)
+
+def draw():
+	background(192, 192, 192) # hellgrau
+	
+	fill(255, 255, 255) # weiss
+	# ist die Maus im Rechteck?
+	if x <= mouseX < x + breite and y <= mouseY < y + hoehe:
+		fill(255, 0, 0) # rot
+	
+	rect(x, y, breite, hoehe)'.
+	source := ProcessingSource fromString: sourceCode.
+	self assert: source program compilation notNil.
+	^ source
+]
+
+{ #category : 'examples' }
 ProcessingAbstractionsExamples >> koordinatenSystem [
 	<gtExample>
 	| sourceCode source |

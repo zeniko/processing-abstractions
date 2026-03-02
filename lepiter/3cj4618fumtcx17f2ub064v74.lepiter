@@ -254,7 +254,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-06-30T10:53:22.339+02:00"
+									"dateAndTimeString" : "2026-03-02T00:32:19.591+01:00"
 								}
 							},
 							"uid" : {
@@ -264,7 +264,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "3. Betrachten Sie die Übersetzung des Programms. Wo werden die oben verwendeten besonderen Variablen verändert?"
+							"string" : "* 3. Unten sehen Sie die Übersetzung des Programms in die Sprache Smalltalk, welche Glamorous Toolkit \"unter der Haube\" verwendet (siehe auch [[Syntax von Programmiersprachen]]). Wo werden die oben verwendeten besonderen Variablen verändert?"
 						}
 					]
 				},

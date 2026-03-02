@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-03-01T23:49:16.35+01:00"
+						"dateAndTimeString" : "2026-03-02T00:07:55.107+01:00"
 					}
 				},
 				"editEmail" : {
@@ -29,61 +29,23 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-03-01T23:50:56.259+01:00"
+						"dateAndTimeString" : "2026-03-02T00:08:56.241+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "1/DuXu5KuU2JYuRqsYOwSA=="
+					"uidString" : "dJqxDk770keMjWL1tU2OfQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Damit "
+				"string" : "Alle bisher geschriebenen Programme machen immer exakt dasselbe. Damit Programme je nach Wert einer Variablen bzw. je nach Benutzer-Eingabe unterschiedlich reagieren können, benötigen wir Verzweigungen."
 			},
 			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T23:02:45.655+02:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T23:03:26.629+02:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "2IX321LwDQCPpQe2CEFArw=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Nach jedem Doppelpunkt (wie dem vorhergehenden) gehören die weiter eingerückten Befehle zusammen, bis das Einrücken rückgängig gemacht wird (wie beim nächsten Absatz):"
-						}
-					]
+					"items" : [ ]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -93,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T22:45:11.688+02:00"
+						"dateAndTimeString" : "2026-03-02T00:08:56.497+01:00"
 					}
 				},
 				"editEmail" : {
@@ -104,7 +66,78 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T15:38:49.36+02:00"
+						"dateAndTimeString" : "2026-03-02T00:14:37.359+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "dn661iknd0Ov9foWqndAeQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Eine Verzweigung besteht aus einer Bedingung, welche wahr oder falsch sein kann, und Befehlen, welche in einem der beiden Fälle ausgeführt werden:"
+			},
+			{
+				"__type" : "processingSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:15:23.409+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:18:00.327+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "CQmkbdddGEG26vBt4F00og=="
+				},
+				"code" : "# hier folgt eine Bedingung\rif ...:\r\t# diese Befehle werden nur ausgeführt, wenn die Bedingung wahr ist\r\t...\relse:\r\t# diese Befehle werden nur ausgeführt, wenn die Bedingung falsch ist\r\t...\r# diese Befehle werden wieder in beiden Fällen ausgeführt\r..."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:12:35.32+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:13:48.851+01:00"
 					}
 				},
 				"uid" : {
@@ -114,7 +147,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Achten Sie darauf, dass Processing erkennt, welche Befehle zusammengehören, indem es jeweils den **Abstand zum linken Rand** (das Einrücken) beachtet. Anders formuliert:"
+				"string" : "Achten Sie weiterhin bei den darauffolgenden Befehlen auf das Einrücken (**Abstand zu linken Rand**), welches einheitlich sein muss, damit der Computer erkennen kann, welche Befehle zusammengehören sollen. Werden mehrere Verzweigungen, Funktionen und Schleifen verschachtelt, muss nach jedem Doppelpunkt weiter eingerückt werden."
 			},
 			{
 				"__type" : "textSnippet",
@@ -141,7 +174,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T23:04:21.685+02:00"
+						"dateAndTimeString" : "2026-03-02T00:09:53.443+01:00"
 					}
 				},
 				"uid" : {
@@ -151,7 +184,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Vom Prinzip her funktionieren Verzweigungen und Schleifen identisch, ausser dass Schleifen wiederholt ausgeführt werden können und Verzweigungen höchstens einmal:"
+				"string" : "🛈 Vom Prinzip her funktionieren Verzweigungen und [[Schleifen]] identisch, ausser dass Schleifen wiederholt ausgeführt werden können und Verzweigungen höchstens einmal."
 			},
 			{
 				"__type" : "processingSnippet",
@@ -178,14 +211,126 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-04-29T23:14:50.303+02:00"
+						"dateAndTimeString" : "2026-03-02T00:16:28.808+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "uPdeBFPwDQCe6N56CEFArw=="
 				},
-				"code" : "size(200, 200)\r# Ändern Sie den Wert dieser Variablen:\rx = 10\rif x > 50:\r\trect(100, 100, x, 100)"
+				"code" : "size(200, 200)\r# Ändern Sie den Wert dieser Variablen:\rx = 10\r# falls x > 50 , dann ... sonst ...\rif x > 50:\r\t# diese Befehle werden nur ausgeführt, wenn die Bedingung wahr ist\r\trect(100, 100, x, 100)\relse:\r\t# diese Befehle werden nur ausgeführt, wenn die Bedingung falsch ist\r\tellipse(100, 100, x, 100)"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:17:18.452+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:18:55.485+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "RKzJjnD1jESoWBBI7aO7vw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "`else:` und die darauf folgenden Befehle können auch weggelassen werden, falls nur zusätzliche Befehle bei Eintreten der Bedingung ausgeführt werden sollen."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-02T00:23:41.312+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-02T00:24:02.149+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "IpePsci6HE28kKlu/8gD+Q=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "`if x >= 50 and x < 100:`"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:21:43.285+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:25:59.316+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "HCpiNxg00UqADOC1knw39Q=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Für Vergleiche können Sie die Vergleichsoperatoren \"`<`\"  (kleiner als), \"`>`\" (grösser als), \"`<=`\" (kleiner gleich), \"`>=`\" (grösser gleich), \"`==`\" (gleich) und \"`!=`\" (nicht gleich) verwenden. Mehrere Vergleiche können zudem mit \"`and`\" (logisches und) und \"`or`\" (logisches oder) verknüpft werden, einzelne Vergleiche mit \"`not`\" negiert:"
 			},
 			{
 				"__type" : "textSnippet",
@@ -217,7 +362,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-04T18:35:02.828+02:00"
+									"dateAndTimeString" : "2026-03-02T00:19:13.174+01:00"
 								}
 							},
 							"uid" : {
@@ -227,7 +372,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "1. Verändern Sie die Werte der Variablen und probieren Sie aus, welche Auswirkung diese hat (Tipp: Ctrl+R führt das Programm jeweils aus)."
+							"string" : "1. Verändern Sie die Werte der Variablen im obigen Programm und probieren Sie aus, welche Auswirkung diese hat (Tipp: `Ctrl+R` führt das Programm jeweils aus)."
 						},
 						{
 							"__type" : "textSnippet",
@@ -243,7 +388,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T23:42:24.707+02:00"
+									"dateAndTimeString" : "2026-03-02T00:24:10.404+01:00"
 								}
 							},
 							"editEmail" : {
@@ -254,7 +399,262 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-04-29T23:42:37.724+02:00"
+									"dateAndTimeString" : "2026-03-02T00:24:32.813+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "j1fZZ1QxEEiKeG3VgQRYEQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "2. Für welche `x`-Werte ist die oben notierte Bedingung `x >= 50 and x < 100` wahr?"
+						},
+						{
+							"__type" : "commentSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-02T00:24:46.579+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-02T00:25:08.617+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "Tnhkdlg0B0qRbJI0IrQFCw=="
+							},
+							"string" : "Die Bedingung ist wahr für alle Werte von 50 (inklusive) bis und ohne 100.",
+							"isHidden" : true
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [
+									{
+										"__type" : "processingSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-02T00:19:25.577+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-02T00:20:46.969+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "xbunrikMBkKcsck+IAVa/Q=="
+										},
+										"code" : "rechteck_x = 0\r\rdef setup():\r\tsize(200, 200)\r\rdef draw():\r\tglobal rechteck_x\r\tbackground(192, 192, 192)\r\trect(rechteck_x, 50, 50, 100)\r\trechteck_x = rechteck_x + 1"
+									},
+									{
+										"__type" : "elementSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-02T00:19:36.579+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-02T00:19:55.521+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "DHLpiuD7TEKaVViI3MuB4g=="
+										},
+										"code" : "(ProcessingSource fromSnippet: thisSnippet previousSibling) renderLive",
+										"elementHeight" : 170,
+										"codeHeight" : 33,
+										"codeVisible" : false
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-02T00:21:04.187+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-02T00:28:00.147+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "aNjYlVK9ZEaGpv8wDKLRFA=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "Tipp: Bei welchem Wert welcher Variable verschwindet die Form? **Falls** die Variable diesen Wert überschreitet, **dann** muss ihr ein kleinerer Wert zugewiesen werden."
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-02T00:26:48.409+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-02T00:26:48.409+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "Y3JejGv9tkiOqsTp75o73A=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "3a) Passen Sie das Programm so an, dass die Formen den Zeichenbereich nicht verlassen."
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-02T00:28:14.928+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-02T00:30:33.868+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "y4ESQUgzl0ufEk6vDvewqQ=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "3b) Passen Sie das Programm so an, dass die Formen an den Bildrändern abprallen. Nutzen Sie dazu eine neue Variable, welche angibt, um wie viel sich die Form bewegt (z.B. als \"`dx = 1`\" für eine Bewegung um `1` nach rechts, welche unter gewissen Bedingungen auf \"`dx = -1`\" geändert werden kann)."
+									}
+								]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-02T00:20:12.597+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-02T00:26:07.33+01:00"
 								}
 							},
 							"uid" : {
@@ -264,7 +664,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "2. Lösen Sie die Übungen aus dem Skript."
+							"string" : "3. Kopieren Sie Ihr Programm von [[Animationen]] hierher:"
 						}
 					]
 				},

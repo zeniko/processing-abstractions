@@ -190,6 +190,81 @@
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-02T00:11:26.706+01:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2026-03-02T00:12:26.888+01:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "p8FRSm9ZdE+//suR81BL7w=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Nach jedem Doppelpunkt (wie dem vorhergehenden) gehören die weiter eingerückten Befehle zusammen, bis das Einrücken rückgängig gemacht wird (wie beim nächsten Absatz)."
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:11:23.839+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:11:25.262+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "6HIOdfauu06mYvrPZ3/UQA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Achten Sie darauf, dass Processing erkennt, welche Befehle zusammengehören, indem es jeweils den **Abstand zum linken Rand** (das Einrücken) beachtet. Anders formuliert:"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
 					"items" : [ ]
 				},
 				"createEmail" : {
@@ -211,7 +286,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-07T21:22:19.872+02:00"
+						"dateAndTimeString" : "2026-03-02T00:12:07.998+01:00"
 					}
 				},
 				"uid" : {
@@ -221,7 +296,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Beachten Sie dabei einerseits die Syntax der Zeilen mit `def` (diese führt [[Funktionen]] ein), welche vorerst Zeichen-für-Zeichen stimmen muss; und andererseits bei den darauffolgenden Befehlen das Einrücken (**Abstand zu linken Rand**), welcher einheitlich sein muss, damit der Computer erkennen kann, welche Befehle zusammengehören sollen."
+				"string" : "Achten Sie zudem auf die Syntax der Zeilen mit `def` (diese führt [[Funktionen]] ein), welche vorerst Zeichen-für-Zeichen stimmen muss."
 			},
 			{
 				"__type" : "textSnippet",
@@ -546,14 +621,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T15:26:21.427+02:00"
+									"dateAndTimeString" : "2026-03-02T00:05:19.335+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "UBdNQub2DQCE3dSaANio+g=="
 							},
-							"code" : ""
+							"code" : "size(200, 200)\r"
 						},
 						{
 							"__type" : "elementSnippet",

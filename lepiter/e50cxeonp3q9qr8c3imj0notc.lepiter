@@ -18,6 +18,43 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:37:30.37+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-02T00:37:31.053+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "XjAbQppK8kSZKRWDsYgkAw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "⚠ Diese Seite enthält fortgeschrittene Inhalte und darf übersprungen werden. ⚠"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2025-05-06T15:55:06.463+02:00"
 					}
 				},
@@ -29,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T15:55:32.312+02:00"
+						"dateAndTimeString" : "2026-03-02T00:41:29.405+01:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Funktionen können auch sich selbst (rekursiv) aufrufen. Dies erlaubt z.B., fein verästelte Strukturen mit wenigen Befehlen zu beschreiben."
+				"string" : "Funktionen können auch sich selbst (rekursiv) aufrufen. Dies erlaubt beispielsweise, fein verästelte Strukturen mit wenigen Befehlen zu beschreiben."
 			},
 			{
 				"__type" : "textSnippet",
@@ -179,7 +216,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-05-06T15:49:12.53+02:00"
+									"dateAndTimeString" : "2026-03-02T00:34:41.339+01:00"
 								}
 							},
 							"uid" : {
@@ -189,7 +226,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "1. Starten Sie das obige Programm unter \"Rekursion\". Können Sie erklären, was hier geschieht?"
+							"string" : "1. Starten Sie das obige Programm. Können Sie erklären, was hier geschieht?"
 						},
 						{
 							"__type" : "textSnippet",
