@@ -137,7 +137,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2026-03-02T00:13:48.851+01:00"
+						"dateAndTimeString" : "2026-03-11T00:55:56.628+01:00"
 					}
 				},
 				"uid" : {
@@ -147,7 +147,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Achten Sie weiterhin bei den darauffolgenden Befehlen auf das Einrücken (**Abstand zu linken Rand**), welches einheitlich sein muss, damit der Computer erkennen kann, welche Befehle zusammengehören sollen. Werden mehrere Verzweigungen, Funktionen und Schleifen verschachtelt, muss nach jedem Doppelpunkt weiter eingerückt werden."
+				"string" : "Achten Sie weiterhin bei den darauffolgenden Befehlen auf das Einrücken (**Abstand zu linken Rand** mit der **Tabulator**-Taste), welches einheitlich sein muss, damit der Computer erkennen kann, welche Befehle zusammengehören sollen. Werden mehrere Verzweigungen, Funktionen und Schleifen verschachtelt, muss nach jedem Doppelpunkt weiter eingerückt werden."
 			},
 			{
 				"__type" : "textSnippet",

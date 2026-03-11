@@ -177,7 +177,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T19:53:09.101+02:00"
+						"dateAndTimeString" : "2026-03-11T00:55:01.949+01:00"
 					}
 				},
 				"uid" : {
@@ -260,6 +260,43 @@
 					"__type" : "textStyle"
 				},
 				"string" : "Achten Sie darauf, dass Processing erkennt, welche Befehle zusammengehören, indem es jeweils den **Abstand zum linken Rand** (das Einrücken) beachtet. Anders formuliert:"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-11T00:54:24.847+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2026-03-11T00:55:21.727+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "5imnHPgW7U2Cm53HYCvVnA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Nutzen Sie die **Tabulator-Taste**, um eine Zeile einzurücken (und `Shift+Tab` für die gegenteilige Richtung)."
 			},
 			{
 				"__type" : "textSnippet",
