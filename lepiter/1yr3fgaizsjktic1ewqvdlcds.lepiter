@@ -215,7 +215,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T22:48:36.688+02:00"
+						"dateAndTimeString" : "2026-03-23T22:36:18.537+01:00"
 					}
 				},
 				"uid" : {
@@ -225,7 +225,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "(Ihr Taschenrechner kennt eine Art Stapel, wenn Sie Punkt- und Strich-Operationen mischen: die Zwischenergebnisse einer Punktoperationen landen auf dem Stapel, bis die nächste Strich-Operation ausgeführt worden ist.)"
+				"string" : "🛈 Ihr Taschenrechner kennt eine Art Stapel, wenn Sie Punkt- und Strich-Operationen mischen: die Zwischenergebnisse einer Punktoperationen landen auf dem Stapel, bis die nächste Strich-Operation ausgeführt worden ist."
 			},
 			{
 				"__type" : "textSnippet",

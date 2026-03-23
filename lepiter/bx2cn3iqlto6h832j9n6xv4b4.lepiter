@@ -288,14 +288,14 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-27T14:59:13.21+02:00"
+									"dateAndTimeString" : "2026-03-23T22:30:41.768+01:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
 								"uidString" : "0K6ZeUr3DQCwS/CgBEVRyQ=="
 							},
-							"code" : "liste = [1, 2, 3]\rk = 0\rwhile k < len(liste):\r\tprint(liste[k])"
+							"code" : "liste = [1, 2, 3]\rk = 0\rwhile k < len(liste):\r\tprint(liste[k])\r\tk = k + 1"
 						},
 						{
 							"__type" : "processingSnippet",

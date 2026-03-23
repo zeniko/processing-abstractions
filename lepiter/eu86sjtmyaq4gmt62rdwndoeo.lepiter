@@ -472,7 +472,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-07-22T15:56:30.785+02:00"
+									"dateAndTimeString" : "2026-03-23T22:32:21.264+01:00"
 								}
 							},
 							"uid" : {
@@ -482,7 +482,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "2. Ändern Sie beim unteren Programm den Wert von `x` auf 150."
+							"string" : "2. Ändern Sie beim unteren der obigen Programm den Wert von `x` auf 150."
 						},
 						{
 							"__type" : "textSnippet",

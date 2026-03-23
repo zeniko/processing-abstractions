@@ -778,6 +778,151 @@
 										"elementHeight" : 159,
 										"codeHeight" : 36,
 										"codeVisible" : false
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:32:15.809+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:35:40.788+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "LXyZl2Fiu02ZrXAebRb/rg=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "4b) Gegenläufige Kreise:"
+									},
+									{
+										"__type" : "elementSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:33:59.882+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:34:07.324+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "+DXFnSedR0a+s0Z0DrpHew=="
+										},
+										"code" : "ViewComparison\r\tnewFor: {(ProcessingAbstractionsExamples new aufgabe4b: 50) -> #gtOutputFor:.\r\t\t\t(ProcessingAbstractionsExamples new aufgabe4b: 100) -> #gtOutputFor:}",
+										"elementHeight" : 153,
+										"codeHeight" : 85,
+										"codeVisible" : false
+									},
+									{
+										"__type" : "processingSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:35:01.2+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:36:03.975+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "OgwOtSYyykSpbblme0bH6w=="
+										},
+										"code" : "size(200, 200)\rx = 50\r# zeichnen Sie zuerst die Kreise mit Zahlen, bevor Sie die Variable zu verwenden beginnen\r"
+									},
+									{
+										"__type" : "elementSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:36:05.692+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2026-03-01T23:36:13.369+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "y4rJFOveVEejaFsrsMqyrA=="
+										},
+										"code" : "(ProcessingSource fromSnippet: thisSnippet previousSibling) renderLive",
+										"elementHeight" : 170,
+										"codeHeight" : 40,
+										"codeVisible" : false
 									}
 								]
 							},
@@ -811,151 +956,6 @@
 								"__type" : "textStyle"
 							},
 							"string" : "4. Passen Sie die folgenden Programme so an, dass durch Verändern des Werts der Variablen jeweils das linke Bild (mit Wert 50) oder das rechte Bild (mit Wert 100) angezeigt wird. Nutzen Sie die Variable dabei wie im Beispiel oben anstelle von Zahlen. Sie dürfen zudem mit Variablenwerten auch rechnen."
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:32:15.809+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:35:40.788+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "LXyZl2Fiu02ZrXAebRb/rg=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "4b) Gegenläufige Kreise:"
-						},
-						{
-							"__type" : "elementSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:33:59.882+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:34:07.324+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "+DXFnSedR0a+s0Z0DrpHew=="
-							},
-							"code" : "ViewComparison\r\tnewFor: {(ProcessingAbstractionsExamples new aufgabe4b: 50) -> #gtOutputFor:.\r\t\t\t(ProcessingAbstractionsExamples new aufgabe4b: 100) -> #gtOutputFor:}",
-							"elementHeight" : 153,
-							"codeHeight" : 85,
-							"codeVisible" : false
-						},
-						{
-							"__type" : "processingSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:35:01.2+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:36:03.975+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "OgwOtSYyykSpbblme0bH6w=="
-							},
-							"code" : "size(200, 200)\rx = 50\r# zeichnen Sie zuerst die Kreise mit Zahlen, bevor Sie die Variable zu verwenden beginnen\r"
-						},
-						{
-							"__type" : "elementSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:36:05.692+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2026-03-01T23:36:13.369+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "y4rJFOveVEejaFsrsMqyrA=="
-							},
-							"code" : "(ProcessingSource fromSnippet: thisSnippet previousSibling) renderLive",
-							"elementHeight" : 170,
-							"codeHeight" : 40,
-							"codeVisible" : false
 						}
 					]
 				},

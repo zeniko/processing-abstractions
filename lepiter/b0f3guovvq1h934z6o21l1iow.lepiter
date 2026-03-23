@@ -215,7 +215,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-06T22:37:54.282+02:00"
+						"dateAndTimeString" : "2026-03-23T22:36:06.601+01:00"
 					}
 				},
 				"uid" : {
@@ -225,7 +225,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Das Rechenwerk entspricht also ungefähr Ihrem Taschenrechner (daher auch der Name \"*Computer*\" = \"Rechner\") und die Rolle des Steuerwerks hatten bisher Sie."
+				"string" : "🛈 Das Rechenwerk entspricht also ungefähr Ihrem Taschenrechner (daher auch der Name \"*Computer*\" = \"Rechner\") und die Rolle des Steuerwerks hatten bisher Sie."
 			},
 			{
 				"__type" : "textSnippet",

@@ -445,7 +445,7 @@
 				"code" : "Stepper for: [ (ProcessingSource fromPage: thisSnippet page) program runSteps ] view: #gtAbstractionsFor:",
 				"elementHeight" : 482,
 				"codeHeight" : 47,
-				"codeVisible" : true
+				"codeVisible" : false
 			},
 			{
 				"__type" : "textSnippet",
